@@ -1,0 +1,49 @@
+{
+    "version": "3.4.6",
+    "description": "PDF and eBook reader",
+    "homepage": "https://www.sumatrapdfreader.org/free-pdf-reader",
+    "license": "GPL-3.0-only,BSD-2-Clause",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64.zip",
+            "hash": "3bae82f4b9518b5b3fc8ec2a6c8ff201ff85882fb72168a94ba507f34b14165b"
+        },
+        "32bit": {
+            "url": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6.zip",
+            "hash": "db05470f1a22523e92fcff01921e804b638ef4bfb29a327623272499e6782493"
+        }
+    },
+    "pre_install": [
+        "$file = 'SumatraPDF-settings.txt'",
+        "if (!(Test-Path \"$persist_dir\\$file\")) {",
+        "    Write-Host 'File' $file 'does not exists. Creating.' -f Yellow",
+        "    Set-Content \"$dir\\$file\" 'CheckForUpdates = false' -Encoding Ascii",
+        "}",
+        "Get-ChildItem \"$dir\\SumatraPDF-*.exe\" | Rename-Item -NewName 'SumatraPDF.exe'"
+    ],
+    "bin": "SumatraPDF.exe",
+    "shortcuts": [
+        [
+            "SumatraPDF.exe",
+            "SumatraPDF"
+        ]
+    ],
+    "persist": [
+        "SumatraPDF-settings.txt",
+        "sumatrapdfcache"
+    ],
+    "checkver": {
+        "url": "https://www.sumatrapdfreader.org/docs/Version-history",
+        "regex": "([\\d.]+)\\s+\\(\\d+"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.sumatrapdfreader.org/dl/rel/$version/SumatraPDF-$version-64.zip"
+            },
+            "32bit": {
+                "url": "https://www.sumatrapdfreader.org/dl/rel/$version/SumatraPDF-$version.zip"
+            }
+        }
+    }
+}

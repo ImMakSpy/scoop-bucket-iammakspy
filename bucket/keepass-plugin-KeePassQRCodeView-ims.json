@@ -1,0 +1,19 @@
+{
+    "version": "1.0.4",
+    "description": "KeePassQRCodeView is a plugin for KeePass 2.x which shows QR codes for entry fields.",
+    "homepage": "https://github.com/JanisEst/KeePassQRCodeView/",
+    "license": "GPL-3.0",
+    "depends": "extras/keepass",
+    "url": "https://github.com/JanisEst/KeePassQRCodeView/releases/download/v1.0.4/KeePassQRCodeView.plgx",
+    "hash": "c7be32667f32b1c197dea69df43f69bbd6fcb1a8a0432cb1a986a2295bb93f8d",
+    "installer": {
+        "script": "Copy-Item \"$dir\\KeePassQRCodeView.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
+    },
+    "uninstaller": {
+        "script": "Remove-Item \"$(appdir keepass $global)\\current\\Plugins\\KeePassQRCodeView.plgx\""
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/JanisEst/KeePassQRCodeView/releases/download/v$version/KeePassQRCodeView.plgx"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "version": "2.15.606",
+    "description": "CloneApp. Backs up All Windows program settings.",
+    "homepage": "https://www.mirinsoft.com/ms-apps/cloneapp",
+    "license": "Freeware",
+    "url": "https://github.com/mirinsoft/CloneApp/releases/download/2.15.606/cloneapp.zip",
+    "hash": "f63d47aa5a12b139ef9fcc64f149c346d3d9d1baf47b86d2cff40d172c883c3b",
+    "pre_install": [
+        "$file = 'Data\\cloneapp.ini'",
+        "if (-not (Test-Path \"$persist_dir\\$file\")) {",
+        "    Write-Host 'File' $file 'does not exists. Creating.' -f Yellow",
+        "    $to = \"$(Split-Path \"$dir\")\\current\"",
+        "    $CONT = @(",
+        "        '[Settings]'",
+        "        \"ClonePath=$to\\Backup\\\"",
+        "        \"LogPath=$to\\Backup\\\"",
+        "        'EditorPath=$AppEditor$'",
+        "    )",
+        "    $file = \"$dir\\$file\"",
+        "    New-Item $file -Type File -Force | Out-Null",
+        "    Set-Content $file ($CONT -join \"`r`n\") -Encoding Ascii",
+        "}"
+    ],
+    "persist": [
+        "BackUp",
+        "Data\\cloneapp.ini"
+    ],
+    "bin": "CloneApp.exe",
+    "shortcuts": [
+        [
+            "CloneApp.exe",
+            "CloneApp"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/mirinsoft/CloneApp"
+    },
+    "autoupdate": {
+        "url": "https://github.com/mirinsoft/CloneApp/releases/download/$version/cloneapp.zip"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "version": "0.8.1",
+    "description": "CloneApp Universal Apps. Backs up All Windows Universal Apps settings.",
+    "homepage": "https://www.getclone.app/ua",
+    "license": "Freeware",
+    "url": "https://github.com/mirinsoft/CloneApp-UA/releases/download/0.8.1/cloneapp_ua.zip",
+    "hash": "48f2cb3e54082299f149bdc547919a3b0fe1f94c6fd7ff7e08be3468e72b2d85",
+    "pre_install": [
+        "$file = 'Data\\cloneapp.ini'",
+        "if (-not (Test-Path \"$persist_dir\\$file\")) {",
+        "    Write-Host 'File' $file 'does not exists. Creating.' -f Yellow",
+        "    $file = \"$dir\\$file\"",
+        "    New-Item $file -Type File -Force | Out-Null",
+        "    Set-Content $file '[UA]' -Encoding Ascii",
+        "}"
+    ],
+    "shortcuts": [
+        [
+            "CloneApp UA.exe",
+            "CloneApp Universal Apps"
+        ]
+    ],
+    "persist": "Data",
+    "checkver": {
+        "url": "https://www.builtbybel.com/ua",
+        "regex": "Version: ([\\d.]+)",
+        "reverse": true
+    },
+    "autoupdate": {
+        "url": "https://github.com/mirinsoft/CloneApp-UA/releases/download/$version/cloneapp_ua.zip"
+    }
+}
