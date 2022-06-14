@@ -13,7 +13,6 @@
         "From \"$env:APPDATA\\Code\" to \"$env:USERPROFILE\\scoop\\persist\\vscode-portable\\data\\user-data\"",
         "Add Visual Studio Code as a context menu option by running: \"$dir\\vscode-install-context.reg\""
     ],
-    "changelog": "https://code.visualstudio.com/updates/v1_67",
     "architecture": {
         "64bit": {
             "url": [
