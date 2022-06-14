@@ -308,7 +308,7 @@
                 ],
                 [
                     "Nirsoft/AppCrashView.exe",
-                    "Nirsoft/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system "
+                    "Nirsoft/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system"
                 ],
                 [
                     "Nirsoft/x64/AppNetworkCounter.exe",
@@ -348,7 +348,7 @@
                 ],
                 [
                     "Nirsoft/x64/BrowsingHistoryView.exe",
-                    "Nirsoft/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers "
+                    "Nirsoft/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers"
                 ],
                 [
                     "Nirsoft/x64/BulkFileChanger.exe",
@@ -372,7 +372,7 @@
                 ],
                 [
                     "Nirsoft/ChromePass.exe",
-                    "Nirsoft/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser "
+                    "Nirsoft/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser"
                 ],
                 [
                     "Nirsoft/Clipboardic.exe",
@@ -440,7 +440,7 @@
                 ],
                 [
                     "Nirsoft/DNSDataView.exe",
-                    "Nirsoft/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains "
+                    "Nirsoft/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains"
                 ],
                 [
                     "Nirsoft/DNSLookupView.exe",
@@ -448,7 +448,7 @@
                 ],
                 [
                     "Nirsoft/x64/DNSQuerySniffer.exe",
-                    "Nirsoft/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system "
+                    "Nirsoft/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system"
                 ],
                 [
                     "Nirsoft/DomainHostingView.exe",
@@ -464,7 +464,7 @@
                 ],
                 [
                     "Nirsoft/x64/DriveLetterView.exe",
-                    "Nirsoft/Disk Utilities/DriveLetterView - View and change drive letter assignments "
+                    "Nirsoft/Disk Utilities/DriveLetterView - View and change drive letter assignments"
                 ],
                 [
                     "Nirsoft/x64/DriverView.exe",
@@ -492,7 +492,7 @@
                 ],
                 [
                     "Nirsoft/x64/EventLogSourcesView.exe",
-                    "Nirsoft/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system "
+                    "Nirsoft/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system"
                 ],
                 [
                     "Nirsoft/ExecutedProgramsList.exe",
@@ -508,7 +508,7 @@
                 ],
                 [
                     "Nirsoft/FastResolver.exe",
-                    "Nirsoft/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa "
+                    "Nirsoft/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa"
                 ],
                 [
                     "Nirsoft/faview.exe",
@@ -684,7 +684,7 @@
                 ],
                 [
                     "Nirsoft/x64/LSASecretsView.exe",
-                    "Nirsoft/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer "
+                    "Nirsoft/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer"
                 ],
                 [
                     "Nirsoft/MACAddressView.exe",
@@ -700,7 +700,7 @@
                 ],
                 [
                     "Nirsoft/ManageWirelessNetworks.exe",
-                    "Nirsoft/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows "
+                    "Nirsoft/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows"
                 ],
                 [
                     "Nirsoft/mspass.exe",
@@ -996,7 +996,7 @@
                 ],
                 [
                     "Nirsoft/ShellBagsView.exe",
-                    "Nirsoft/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows "
+                    "Nirsoft/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows"
                 ],
                 [
                     "Nirsoft/x64/shexview.exe",
@@ -1200,7 +1200,7 @@
                 ],
                 [
                     "Nirsoft/WifiHistoryView.exe",
-                    "Nirsoft/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer "
+                    "Nirsoft/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer"
                 ],
                 [
                     "Nirsoft/x64/WifiInfoView.exe",
@@ -1228,7 +1228,7 @@
                 ],
                 [
                     "Nirsoft/x64/winlister.exe",
-                    "Nirsoft/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system "
+                    "Nirsoft/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system"
                 ],
                 [
                     "Nirsoft/WinLogOnView.exe",
@@ -1528,7 +1528,7 @@
             "shortcuts": [
                 [
                     "NirLauncher.exe",
-                    "NirLauncher"			
+                    "NirLauncher"
                 ],
                 [
                     "Nirsoft/AdvancedRun.exe",
@@ -1556,7 +1556,7 @@
                 ],
                 [
                     "Nirsoft/AppCrashView.exe",
-                    "Nirsoft/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system "
+                    "Nirsoft/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system"
                 ],
                 [
                     "Nirsoft/AppNetworkCounter.exe",
@@ -1604,7 +1604,7 @@
                 ],
                 [
                     "Nirsoft/BrowsingHistoryView.exe",
-                    "Nirsoft/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers "
+                    "Nirsoft/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers"
                 ],
                 [
                     "Nirsoft/BulkFileChanger.exe",
@@ -1628,7 +1628,7 @@
                 ],
                 [
                     "Nirsoft/ChromePass.exe",
-                    "Nirsoft/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser "
+                    "Nirsoft/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser"
                 ],
                 [
                     "Nirsoft/Clipboardic.exe",
@@ -1696,7 +1696,7 @@
                 ],
                 [
                     "Nirsoft/DNSDataView.exe",
-                    "Nirsoft/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains "
+                    "Nirsoft/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains"
                 ],
                 [
                     "Nirsoft/DNSLookupView.exe",
@@ -1704,7 +1704,7 @@
                 ],
                 [
                     "Nirsoft/DNSQuerySniffer.exe",
-                    "Nirsoft/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system "
+                    "Nirsoft/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system"
                 ],
                 [
                     "Nirsoft/DomainHostingView.exe",
@@ -1720,7 +1720,7 @@
                 ],
                 [
                     "Nirsoft/DriveLetterView.exe",
-                    "Nirsoft/Disk Utilities/DriveLetterView - View and change drive letter assignments "
+                    "Nirsoft/Disk Utilities/DriveLetterView - View and change drive letter assignments"
                 ],
                 [
                     "Nirsoft/DriverView.exe",
@@ -1748,7 +1748,7 @@
                 ],
                 [
                     "Nirsoft/EventLogSourcesView.exe",
-                    "Nirsoft/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system "
+                    "Nirsoft/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system"
                 ],
                 [
                     "Nirsoft/ExecutedProgramsList.exe",
@@ -1764,7 +1764,7 @@
                 ],
                 [
                     "Nirsoft/FastResolver.exe",
-                    "Nirsoft/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa "
+                    "Nirsoft/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa"
                 ],
                 [
                     "Nirsoft/faview.exe",
@@ -1940,7 +1940,7 @@
                 ],
                 [
                     "Nirsoft/LSASecretsView.exe",
-                    "Nirsoft/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer "
+                    "Nirsoft/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer"
                 ],
                 [
                     "Nirsoft/MACAddressView.exe",
@@ -1956,7 +1956,7 @@
                 ],
                 [
                     "Nirsoft/ManageWirelessNetworks.exe",
-                    "Nirsoft/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows "
+                    "Nirsoft/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows"
                 ],
                 [
                     "Nirsoft/MMCSnapInsView.exe",
@@ -2252,7 +2252,7 @@
                 ],
                 [
                     "Nirsoft/ShellBagsView.exe",
-                    "Nirsoft/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows "
+                    "Nirsoft/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows"
                 ],
                 [
                     "Nirsoft/ShellMenuNew.exe",
@@ -2456,7 +2456,7 @@
                 ],
                 [
                     "Nirsoft/WifiHistoryView.exe",
-                    "Nirsoft/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer "
+                    "Nirsoft/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer"
                 ],
                 [
                     "Nirsoft/WifiInfoView.exe",
@@ -2480,7 +2480,7 @@
                 ],
                 [
                     "Nirsoft/winlister.exe",
-                    "Nirsoft/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system "
+                    "Nirsoft/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system"
                 ],
                 [
                     "Nirsoft/WinLogOnView.exe",
@@ -2556,7 +2556,7 @@
         ],
         [
             "Nirsoft/AppCrashView.chm",
-            "Nirsoft/Help/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system "
+            "Nirsoft/Help/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system"
         ],
         [
             "Nirsoft/AppNetworkCounter.chm",
@@ -2604,7 +2604,7 @@
         ],
         [
             "Nirsoft/BrowsingHistoryView.chm",
-            "Nirsoft/Help/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers "
+            "Nirsoft/Help/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers"
         ],
         [
             "Nirsoft/BulkFileChanger.chm",
@@ -2628,7 +2628,7 @@
         ],
         [
             "Nirsoft/ChromePass.chm",
-            "Nirsoft/Help/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser "
+            "Nirsoft/Help/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser"
         ],
         [
             "Nirsoft/Clipboardic.chm",
@@ -2692,7 +2692,7 @@
         ],
         [
             "Nirsoft/DNSDataView.chm",
-            "Nirsoft/Help/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains "
+            "Nirsoft/Help/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains"
         ],
         [
             "Nirsoft/DNSLookupView.chm",
@@ -2700,7 +2700,7 @@
         ],
         [
             "Nirsoft/DNSQuerySniffer.chm",
-            "Nirsoft/Help/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system "
+            "Nirsoft/Help/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system"
         ],
         [
             "Nirsoft/DomainHostingView.chm",
@@ -2716,7 +2716,7 @@
         ],
         [
             "Nirsoft/DriveLetterView.chm",
-            "Nirsoft/Help/Disk Utilities/DriveLetterView - View and change drive letter assignments "
+            "Nirsoft/Help/Disk Utilities/DriveLetterView - View and change drive letter assignments"
         ],
         [
             "Nirsoft/DriverView.chm",
@@ -2744,7 +2744,7 @@
         ],
         [
             "Nirsoft/EventLogSourcesView.chm",
-            "Nirsoft/Help/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system "
+            "Nirsoft/Help/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system"
         ],
         [
             "Nirsoft/ExecutedProgramsList.chm",
@@ -2760,7 +2760,7 @@
         ],
         [
             "Nirsoft/FastResolver.chm",
-            "Nirsoft/Help/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa "
+            "Nirsoft/Help/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa"
         ],
         [
             "Nirsoft/faview.chm",
@@ -2936,7 +2936,7 @@
         ],
         [
             "Nirsoft/LSASecretsView.chm",
-            "Nirsoft/Help/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer "
+            "Nirsoft/Help/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer"
         ],
         [
             "Nirsoft/MACAddressView.chm",
@@ -2952,7 +2952,7 @@
         ],
         [
             "Nirsoft/ManageWirelessNetworks.chm",
-            "Nirsoft/Help/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows "
+            "Nirsoft/Help/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows"
         ],
         [
             "Nirsoft/MMCSnapInsView.chm",
@@ -3244,7 +3244,7 @@
         ],
         [
             "Nirsoft/ShellBagsView.chm",
-            "Nirsoft/Help/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows "
+            "Nirsoft/Help/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows"
         ],
         [
             "Nirsoft/ShellMenuNew.chm",
@@ -3448,7 +3448,7 @@
         ],
         [
             "Nirsoft/WifiHistoryView.chm",
-            "Nirsoft/Help/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer "
+            "Nirsoft/Help/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer"
         ],
         [
             "Nirsoft/WifiInfoView.chm",
@@ -3472,7 +3472,7 @@
         ],
         [
             "Nirsoft/winlister.chm",
-            "Nirsoft/Help/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system "
+            "Nirsoft/Help/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system"
         ],
         [
             "Nirsoft/WinLogOnView.chm",
@@ -3545,7 +3545,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/app_crash_view.html",
-            "Nirsoft/Url/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system "
+            "Nirsoft/Url/System Utilities/AppCrashView - Displays the details of all application crashes occurred in your system"
         ],
         [
             "https://www.nirsoft.net/utils/app_network_counter.html",
@@ -3593,7 +3593,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/browsing_history_view.html",
-            "Nirsoft/Url/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers "
+            "Nirsoft/Url/Web Browser Tools/BrowsingHistoryView - View browsing history of popular Web browsers"
         ],
         [
             "https://www.nirsoft.net/utils/bulk_file_changer.html",
@@ -3617,7 +3617,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/chromepass.html",
-            "Nirsoft/Url/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser "
+            "Nirsoft/Url/Password Recovery Utilities/ChromePass - Password recovery tool for Google Chrome Web browser"
         ],
         [
             "https://www.nirsoft.net/utils/clipboardic.html",
@@ -3685,7 +3685,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/dns_records_viewer.html",
-            "Nirsoft/Url/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains "
+            "Nirsoft/Url/Internet Related Utilities/DNSDataView - Retrieve the DNS records (MX, NS, A, SOA) of the specified domains"
         ],
         [
             "https://www.nirsoft.net/utils/dns_lookup_view.html",
@@ -3693,7 +3693,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/dns_query_sniffer.html",
-            "Nirsoft/Url/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system "
+            "Nirsoft/Url/Network Monitoring Tools/DNSQuerySniffer - Network sniffer utility that shows the DNS queries sent on your system"
         ],
         [
             "https://www.nirsoft.net/utils/domain_hosting_view.html",
@@ -3709,7 +3709,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/drive_letter_view.html",
-            "Nirsoft/Url/Disk Utilities/DriveLetterView - View and change drive letter assignments "
+            "Nirsoft/Url/Disk Utilities/DriveLetterView - View and change drive letter assignments"
         ],
         [
             "https://www.nirsoft.net/utils/driverview.html",
@@ -3737,7 +3737,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/event_log_sources_view.html",
-            "Nirsoft/Url/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system "
+            "Nirsoft/Url/System Utilities/EventLogSourcesView - Displays the list of all event log sources installed on your system"
         ],
         [
             "https://www.nirsoft.net/utils/executed_programs_list.html",
@@ -3753,7 +3753,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/fastresolver.html",
-            "Nirsoft/Url/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa "
+            "Nirsoft/Url/Internet Related Utilities/FastResolver - Resolves multiple host names into IP addresses/MAC Addresses and vice versa"
         ],
         [
             "https://www.nirsoft.net/utils/faview.html",
@@ -3929,7 +3929,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/lsa_secrets_view.html",
-            "Nirsoft/Url/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer "
+            "Nirsoft/Url/Password Recovery Utilities/LSASecretsView - Displays the list of all LSA secrets stored in the Registry on your computer"
         ],
         [
             "https://www.nirsoft.net/utils/mac_address_lookup_find.html",
@@ -3945,7 +3945,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/manage_wireless_networks.html",
-            "Nirsoft/Url/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows "
+            "Nirsoft/Url/System Utilities/ManageWirelessNetworks - Alternative tool to the standard 'Manage Wireless Networks' of Windows"
         ],
         [
             "https://www.nirsoft.net/utils/mmc_snapins_view.html",
@@ -4241,7 +4241,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/shell_bags_view.html",
-            "Nirsoft/Url/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows "
+            "Nirsoft/Url/System Utilities/ShellBagsView - Displays the list of all folder settings saved by Windows"
         ],
         [
             "https://www.nirsoft.net/utils/shell_menu_new.html",
@@ -4445,7 +4445,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/wifi_history_view.html",
-            "Nirsoft/Url/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer "
+            "Nirsoft/Url/Network Monitoring Tools/WifiHistoryView - Displays the history of connections to wireless networks on your computer"
         ],
         [
             "https://www.nirsoft.net/utils/wifi_information_view.html",
@@ -4469,7 +4469,7 @@
         ],
         [
             "https://www.nirsoft.net/utils/winlister.html",
-            "Nirsoft/Url/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system "
+            "Nirsoft/Url/Desktop Utilities/WinLister - This utility displays the list of opened windows on your system"
         ],
         [
             "https://www.nirsoft.net/utils/windows_log_on_times_view.html",
