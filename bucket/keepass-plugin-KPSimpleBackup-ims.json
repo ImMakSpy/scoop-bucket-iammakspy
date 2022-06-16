@@ -6,11 +6,9 @@
     "depends": "extras/keepass",
     "url": "https://github.com/marvinweber/KPSimpleBackup/releases/download/v1.4.0/KPSimpleBackup-v1.4.0.zip",
     "hash": "7091cefbaf1e06d5231af748187b060498ff2b6bc9ba39d806ad31e611d52fb4",
+    "extract_dir": "KPSimpleBackup",
     "installer": {
-        "script": [
-            "Copy-Item \"$dir\\dlls\\*.dll\" \"$(appdir keepass $global)\\current\\Plugins\"",
-            "Copy-Item \"$dir\\plgx\\KPSimpleBackup.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
-        ]
+        "script": "Copy-Item \"$dir\\KPSimpleBackup\\*.*\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
     "uninstaller": {
         "script": [
