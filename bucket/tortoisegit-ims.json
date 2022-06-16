@@ -12,7 +12,7 @@
         },
         "32bit": {
             "url": "https://download.tortoisegit.org/tgit/2.13.0.0/TortoiseGit-2.13.0.0-32bit.msi",
-            "hash": "d8fd909c660b68d3e240b4237c2dc8fa31beeb9cc1197ef2e65fcf092aaecf6c"
+            "hash": "5ae28426fad5088ad266d941d51a72d1fab57a98479904ad47f946edc4d13ab9"
         }
     },
     "extract_dir": "Program Files\\TortoiseGit",
