@@ -5,7 +5,7 @@
     "license": "MIT",
     "depends": "extras/keepass",
     "url": "https://github.com/iamkarlson/keepass-quicksearch/releases/download/2.30/QuickSearch.plgx",
-    "hash": "79a0fac0569aa2ec3d40e5678d8e6c6f17a5b98b481f9c8545216599921f55ee",
+    "hash": "2b14aa091b26fc2131cae51787cc4c416716316bc84690359f2348284ec9ef3d",
     "installer": {
         "script": "Copy-Item \"$dir\\QuickSearch.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },

@@ -5,7 +5,7 @@
     "license": "MIT",
     "depends": "extras/keepass",
     "url": "https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader/releases/download/v1.2.5.0/YetAnotherFaviconDownloader.plgx",
-    "hash": "b0315de29e964744c352fdd964b9649bae827f1812452385789f8b512814adf5",
+    "hash": "79a0fac0569aa2ec3d40e5678d8e6c6f17a5b98b481f9c8545216599921f55ee",
     "installer": {
         "script": "Copy-Item \"$dir\\YetAnotherFaviconDownloader.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
