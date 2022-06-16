@@ -10,7 +10,7 @@
         "script": "Copy-Item \"$dir\\AutoTypeSearch.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
     "uninstaller": {
-        "script": "appdir 'keepass' $global | Join-Path -ChildPath 'current\\Plugins\\AutoTypeSearch.plgx' | Remove-Item"
+        "script": "Remove-Item \"$(appdir keepass $global)\\current\\Plugins\\AutoTypeSearch.plgx\""
     },
     "checkver": {
         "url": "https://sourceforge.net/projects/autotypesearch/rss?path=/",
