@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://de.libreoffice.org/donate/dl/win-x86_64/7.3.4/de/LibreOffice_7.3.4_Win_x64.msi#/dl.ism",
-            "hash": "509c70c1c8136805480146b55e4bad5dc73b11ee47b4682b43cf07670109e176"
+            "hash": "bac568c394f92a824be7b593166f85e194406f44054df155f2daa86faf0eb3f5"
         },
         "32bit": {
             "url": "https://de.libreoffice.org/donate/dl/win-x86/7.3.4/de/LibreOffice_7.3.4_Win_x86.msi#/dl.ism",
