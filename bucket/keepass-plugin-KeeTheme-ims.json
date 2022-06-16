@@ -13,7 +13,7 @@
         "96e31324241b2eb0a47a4ea3560f69214a425654df5a0ecde7e3d022c6538242"
     ],
     "installer": {
-        "script": "Stop-Process -Name KeePass -Force -Verbose; Copy-Item \"$dir\\KeeTheme*\" \"$(appdir keepass $global)\\current\\Plugins\\\"; KeePass"
+        "script": "Copy-Item \"$dir\\KeeTheme*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
     },
     "uninstaller": {
         "script": "Stop-Process -Name KeePass -Force -Verbose; Get-Item \"$(appdir keepass $global)\\current\\Plugins\\KeeTheme*\" | Remove-Item -Force; KeePass"

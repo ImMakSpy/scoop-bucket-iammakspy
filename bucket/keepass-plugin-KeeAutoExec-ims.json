@@ -7,7 +7,7 @@
     "url": "https://keepass.info/extensions/v2/keeautoexec/KeeAutoExec-2.4.zip",
     "hash": "fa947fdd1be0b6abca4ff996c2824cddf4b6fa9c9af7682f941bf4c5df379d0c",
     "installer": {
-        "script": "Get-Process -Name KeePass -ErrorAction SilentlyContinue | Stop-Process -Force -Verbose; Copy-Item \"$dir\\KeeAutoExec*\" \"$(appdir keepass $global)\\current\\Plugins\\\"; KeePass"
+        "script": "Copy-Item \"$dir\\KeeAutoExec*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
     },
     "uninstaller": {
         "script": "Get-Process -Name KeePass -ErrorAction SilentlyContinue | Stop-Process -Force -Verbose; Get-Item \"$(appdir keepass $global)\\current\\Plugins\\KeeAutoExec*\" | Remove-Item -Force; KeePass"
