@@ -1,0 +1,42 @@
+{
+    "version": "7.3.4",
+    "description": "Powerful office suite - helppack de",
+    "homepage": "https://libreoffice.org/",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64_helppack_de.msi#/dl.ism",
+            "hash": "10242af07031a18e921c1a07eede085dd4bbe22fa0d931344edf29817e90203b"
+        },
+        "32bit": {
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86_helppack_de.msi#/dl.ism",
+            "hash": "a75cd9a41716b450fad987e841048220c3eb8ea6e7ba9e652bfbb0882076ff9b"
+        }
+    },
+    "pre_install": [
+        "$_args = @{",
+        "    'Path' = \"$dir\\$fname\"",
+        "    'DestinationPath' = \"$dir\"",
+        "    'Removal' = $true",
+        "}",
+        "if (get_config 'MSIEXTRACT_USE_LESSMSI' $false) { $_args.Add('ExtractDir', 'LibreOffice') }",
+        "Expand-MsiArchive @_args"
+    ],
+    "checkver": {
+        "url": "https://www.libreoffice.org/download/download/",
+        "regex": "libreoffice-([\\d.]+)\\.tar\\.xz"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64_helppack_de.msi#/dl.ism"
+            },
+            "32bit": {
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86_helppack_de.msi#/dl.ism"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
