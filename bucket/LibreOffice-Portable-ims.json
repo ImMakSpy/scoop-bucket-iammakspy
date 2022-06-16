@@ -1,11 +1,25 @@
 {
     "version": "7.3.2",
-    "description": "LibreOffice. Complete office suite",
-    "homepage": "https://portableapps.com/apps/office/libreoffice_portable",
-    "license": "",
-    "url": "https://ftp.osuosl.org/pub/tdf/libreoffice/portable/7.3.2/LibreOfficePortable_7.3.2_MultilingualStandard.paf.exe#/dl.7z",
+    "description": "Powerful office suite",
+    "homepage": "https://libreoffice.org/",
+    "license": "MPL-2.0",
+    "suggest": {
+        "vcredist": "extras/vcredist2022"
+    },
+    "url": "https://download.documentfoundation.org/libreoffice/portable/7.3.2/LibreOfficePortable_7.3.2_MultilingualStandard.paf.exe#/dl.7z",
     "hash": "ae81da2a2bfb27a0cbdeffa65f712f8483a4f20049cbd1e02de2a36e6c3ff9d5",
-    "bin": "LibreOfficePortable.exe",
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\Data\\settings\")) {",
+        "    New-Item \"$dir\\Data\\settings\\LibreOfficePortableSettings.ini\" -Value \"[LibreOfficePortableSettings]`nInvalidPackageWarningShown=$version.0\" -Force | Out-Null",
+        "    if (Test-Path \"$env:AppData\\LibreOffice\") {",
+        "        info \"Copying old '$env:AppData\\LibreOffice' to '$persist_dir\\Data\\settings'\"",
+        "        Get-Item \"$env:AppData\\LibreOffice\\*\\*\" | Copy-Item -Destination \"$dir\\Data\\settings\" -Recurse -Force",
+        "    } else {",
+        "        Copy-Item \"$dir\\App\\DefaultData\\*\" \"$dir\\Data\" -Recurse -Force",
+        "    }",
+        "}",
+        "Remove-Item \"$dir\\`$*\" -Recurse -Force"
+    ],
     "shortcuts": [
         [
             "LibreOfficePortable.exe",
@@ -37,16 +51,14 @@
         ]
     ],
     "persist": "Data",
-    "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
     "checkver": {
-        "url": "https://portableapps.com/apps/office/libreoffice_portable",
-        "regex": "Version ([\\d.]+)"
+        "url": "https://download.documentfoundation.org/libreoffice/portable/?C=M;O=D",
+        "regex": ">([\\d.]+)/<"
     },
     "autoupdate": {
-        "url": "https://ftp.osuosl.org/pub/tdf/libreoffice/portable/$version/LibreOfficePortable_$version_MultilingualStandard.paf.exe#/dl.7z",
+        "url": "https://download.documentfoundation.org/libreoffice/portable/$version/LibreOfficePortable_$version_MultilingualStandard.paf.exe#/dl.7z",
         "hash": {
-            "url": "https://portableapps.com/apps/office/libreoffice_portable",
-            "regex": "MD5 Hash: +[\\w]{32}"
+            "url": "$url.sha256"
         }
     }
 }
