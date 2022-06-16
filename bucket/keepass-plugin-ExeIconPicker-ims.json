@@ -5,7 +5,7 @@
     "license": "MIT",
     "depends": "extras/keepass",
     "url": "https://github.com/Eveldee/KeePass-ExeIconPicker/releases/download/v1.2.0.0/ExeIconPicker.plgx",
-    "hash": "5a86186a58e70131b0546a42e0c3da8531a84b2d807e5219169e5b39dab75933",
+    "hash": "1c0d7980cc5baf04fbf520e7e3265064da3b1ed228ab9f2848279420dfc48f60",
     "installer": {
         "script": "Copy-Item \"$dir\\ExeIconPicker.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },

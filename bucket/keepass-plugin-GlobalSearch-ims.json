@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "depends": "extras/keepass",
     "url": "https://github.com/rookiestyle/globalsearch/releases/latest/download/GlobalSearch.plgx",
-    "hash": "62e9d554a37490421e8ef76adb32795d09019df04f8f24159d247a58b5c74862",
+    "hash": "71278de963d83605f03dae27c5ba59552b45dd268b597311d4ca844b90c284c5",
     "installer": {
         "script": "Copy-Item \"$dir\\GlobalSearch.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
