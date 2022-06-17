@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64.zip",
-            "hash": "3bae82f4b9518b5b3fc8ec2a6c8ff201ff85882fb72168a94ba507f34b14165b"
+            "hash": "2bb05aa8b74bc748bc1f6a2b6f6ec4ba22bd5b1eaeec767d0a7f97cfd436d40d"
         },
         "32bit": {
             "url": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6.zip",
-            "hash": "db05470f1a22523e92fcff01921e804b638ef4bfb29a327623272499e6782493"
+            "hash": "4eadd78dc8ae95a585474a9bff8fb25d84c239a9c7ca2bdc00a6a497283ef841"
         }
     },
     "pre_install": [

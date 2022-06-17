@@ -37,7 +37,7 @@ They are still in progress
 | keepass-plugin-PasswordChangeAssistant-ims     |                                  |
 | keepass-plugin-QuickSearch-ims                 |                                  |
 | keepass-plugin-YetAnotherFaviconDownloader-ims |                                  |
-| LibreOffice-np-ims                             | Libre Office from German website |
+| LibreOffice-np-ims                             | Libre Office msi file            |
 | LibreOffice-np-helppack-de-ims                 | Libre Office German offline help |
 | LibreOffice-Portable-ims                       | Libre Office portable            |
 | Microsoft-Mouse-Keyboard-Center-np-ims         |                                  |
@@ -54,7 +54,7 @@ They are still in progress
 | RegCool-Portable-ims                           |                                  |
 | samsung-magician-ims                           |                                  |
 | sublime-text-ims                               |                                  |
-| sumatrapdf-ims                                 |                                  |
+| sumatrapdf-ims                                 | Doesn't work with aria2          |
 | sysinternals-ims                               |                                  |
 | testdisk-ims                                   |                                  |
 | tortoisegit-ims                                |                                  |
