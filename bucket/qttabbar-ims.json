@@ -2,7 +2,8 @@
     "version": "1038",
     "homepage": "http://qttabbar.wikidot.com/",
     "license": "Unknown",
-    "url": "http://qttabbar.wdfiles.com/local--files/qttabbar/QTTabBar_1038.zip",
+    "url": "http://qttabbar.wdfiles.com/local--files/qttabbar1/QTTabBar_1043.zip",
+    "hash": "1a3b3469a0bfef5edcdefb87007fee09f1302f2b71b00b17e97f9dc29c09f726",
     "depends": "sudo",
     "installer": {
         "script": "sudo Start-Process \"$dir/QTTabBar.exe\" -ArgumentList '/QI' -Wait -NoNewWindow"
@@ -11,10 +12,10 @@
         "script": "sudo Start-Process \"$dir/QTTabBar.exe\" -ArgumentList '/QU' -Wait -NoNewWindow"
     },
     "checkver": {
-        "url": "http://qttabbar.wdfiles.com/local--files/qttabbar/",
+        "url": "http://qttabbar.wdfiles.com/local--files/qttabbar1/",
         "regex": "QTTabBar_([\\d]+).zip"
     },
     "autoupdate": {
-        "url": "http://qttabbar.wdfiles.com/local--files/qttabbar/QTTabBar_$version.zip"
+        "url": "http://qttabbar.wdfiles.com/local--files/qttabbar1/QTTabBar_1043.zip"
     }
 }
