@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://de.libreoffice.org/donate/dl/win-x86_64/7.3.4/de/LibreOffice_7.3.4_Win_x64.msi#/dl.ism",
-            "hash": "bac568c394f92a824be7b593166f85e194406f44054df155f2daa86faf0eb3f5"
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64.msi#/dl.ism",
+            "hash": "509c70c1c8136805480146b55e4bad5dc73b11ee47b4682b43cf07670109e176"
         },
         "32bit": {
-            "url": "https://de.libreoffice.org/donate/dl/win-x86/7.3.4/de/LibreOffice_7.3.4_Win_x86.msi#/dl.ism",
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86.msi#/dl.ism",
             "hash": "e73e2fd3d95f305a8517abe65c940e2b7de13d4271fb789f38f89c28df57933a"
         }
     },
@@ -58,10 +58,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://de.libreoffice.org/donate/dl/win-x86_64/7.3.4/de/LibreOffice_7.3.4_Win_x64.msi#/dl.ism"
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64.msi#/dl.ism"
             },
             "32bit": {
-                "url": "https://de.libreoffice.org/donate/dl/win-x86/7.3.4/de/LibreOffice_7.3.4_Win_x86.msi#/dl.ism"
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86.msi#/dl.ism"
             }
         },
         "hash": {
