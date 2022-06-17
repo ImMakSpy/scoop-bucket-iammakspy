@@ -372,311 +372,311 @@
             "shortcuts": [
                 [
                     "accesschk64.exe",
-                    "SysInternals/Security Utilities/AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
+                    "SysInternals\\Security Utilities\\AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
                 ],
                 [
                     "AccessEnum.exe",
-                    "SysInternals/Security Utilities/AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
+                    "SysInternals\\Security Utilities\\AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
                 ],
                 [
                     "ADExplorer64.exe",
-                    "SysInternals/Networking Utilities/ADExplorer - Advanced Active Directory (AD) viewer and editor"
+                    "SysInternals\\Networking Utilities\\ADExplorer - Advanced Active Directory (AD) viewer and editor"
                 ],
                 [
                     "ADInsight64.exe",
-                    "SysInternals/Networking Utilities/ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
+                    "SysInternals\\Networking Utilities\\ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
                 ],
                 [
                     "adrestore64.exe",
-                    "SysInternals/Networking Utilities/ADRestore - Undeletes Server 2003 Active Directory objects"
+                    "SysInternals\\Networking Utilities\\ADRestore - Undeletes Server 2003 Active Directory objects"
                 ],
                 [
                     "Autologon64.exe",
-                    "SysInternals/Security Utilities/Autologon - Bypasses password screen during logon"
+                    "SysInternals\\Security Utilities\\Autologon - Bypasses password screen during logon"
                 ],
                 [
                     "Autoruns64.exe",
-                    "SysInternals/System Information Utilites/Autoruns - Shows what programs are configured to run during system bootup or login"
+                    "SysInternals\\System Information Utilites\\Autoruns - Shows what programs are configured to run during system bootup or login"
                 ],
                 [
                     "autorunsc64.exe",
-                    "SysInternals/System Information Utilites/Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
+                    "SysInternals\\System Information Utilites\\Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
                 ],
                 [
                     "Bginfo64.exe",
-                    "SysInternals/Miscellaneous Utilities/BGInfo - Displays relevant information about a Windows computer on the desktop background"
+                    "SysInternals\\Miscellaneous Utilities\\BGInfo - Displays relevant information about a Windows computer on the desktop background"
                 ],
                 [
                     "Cacheset64.exe",
-                    "SysInternals/File and Disk Utilities/CacheSet - Allows to control the Cache Manager's working set size"
+                    "SysInternals\\File and Disk Utilities\\CacheSet - Allows to control the Cache Manager's working set size"
                 ],
                 [
                     "Clockres64.exe",
-                    "SysInternals/System Information Utilites/ClockRes - Views resolution of the system clock"
+                    "SysInternals\\System Information Utilites\\ClockRes - Views resolution of the system clock"
                 ],
                 [
                     "Contig64.exe",
-                    "SysInternals/File and Disk Utilities/Contig - Contig is a utility that defragments a specified file or files"
+                    "SysInternals\\File and Disk Utilities\\Contig - Contig is a utility that defragments a specified file or files"
                 ],
                 [
                     "Coreinfo64.exe",
-                    "SysInternals/System Information Utilites/Coreinfo - Shows CPU caps and memory topology"
+                    "SysInternals\\System Information Utilites\\Coreinfo - Shows CPU caps and memory topology"
                 ],
                 [
                     "CPUSTRES64.EXE",
-                    "SysInternals/Miscellaneous Utilities/CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
+                    "SysInternals\\Miscellaneous Utilities\\CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
                 ],
                 [
                     "ctrl2cap.exe",
-                    "SysInternals/Miscellaneous Utilities/Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
+                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver"
                 ],
                 [
                     "dbgview64.exe",
-                    "SysInternals/Miscellaneous Utilities/DebugView - Monitors debug output on your local system or any computer on the network"
+                    "SysInternals\\Miscellaneous Utilities\\DebugView - Monitors debug output on your local system or any computer on the network"
                 ],
                 [
                     "Desktops64.exe",
-                    "SysInternals/Miscellaneous Utilities/Desktops - Organizes your applications on up to four virtual desktops"
+                    "SysInternals\\Miscellaneous Utilities\\Desktops - Organizes your applications on up to four virtual desktops"
                 ],
                 [
                     "disk2vhd64.exe",
-                    "SysInternals/File and Disk Utilities/Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
+                    "SysInternals\\File and Disk Utilities\\Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
                 ],
                 [
                     "diskext64.exe",
-                    "SysInternals/File and Disk Utilities/DiskExt - Displays volume disk-mappings"
+                    "SysInternals\\File and Disk Utilities\\DiskExt - Displays volume disk-mappings"
                 ],
                 [
                     "Diskmon64.exe",
-                    "SysInternals/File and Disk Utilities/DiskMon - Captures all hard disk activity"
+                    "SysInternals\\File and Disk Utilities\\DiskMon - Captures all hard disk activity"
                 ],
                 [
                     "DiskView64.exe",
-                    "SysInternals/File and Disk Utilities/DiskView - Views disk usage by directory"
+                    "SysInternals\\File and Disk Utilities\\DiskView - Views disk usage by directory"
                 ],
                 [
                     "du64.exe",
-                    "SysInternals/File and Disk Utilities/DiskUsage - Reports disk space usage for the specified directory"
+                    "SysInternals\\File and Disk Utilities\\DiskUsage - Reports disk space usage for the specified directory"
                 ],
                 [
                     "efsdump.exe",
-                    "SysInternals/File and Disk Utilities/EFSDump - Views encrypted files information"
+                    "SysInternals\\File and Disk Utilities\\EFSDump - Views encrypted files information"
                 ],
                 [
                     "FindLinks64.exe",
-                    "SysInternals/File and Disk Utilities/FindLinks - File index and any hard links reporter"
+                    "SysInternals\\File and Disk Utilities\\FindLinks - File index and any hard links reporter"
                 ],
                 [
                     "handle64.exe",
-                    "SysInternals/Process Utilities/Handle - Shows what files are open by which processes"
+                    "SysInternals\\Process Utilities\\Handle - Shows what files are open by which processes"
                 ],
                 [
                     "hex2dec64.exe",
-                    "SysInternals/Miscellaneous Utilities/Hex2dec - Converts a hexadecimal number to decimal and vice versa"
+                    "SysInternals\\Miscellaneous Utilities\\Hex2dec - Converts a hexadecimal number to decimal and vice versa"
                 ],
                 [
                     "junction64.exe",
-                    "SysInternals/File and Disk Utilities/Junction - Creates NTFS symbolic links"
+                    "SysInternals\\File and Disk Utilities\\Junction - Creates NTFS symbolic links"
                 ],
                 [
                     "ldmdump.exe",
-                    "SysInternals/File and Disk Utilities/LDMDump - Dumps contents of Logical Disk Manager on-disk database"
+                    "SysInternals\\File and Disk Utilities\\LDMDump - Dumps contents of Logical Disk Manager on-disk database"
                 ],
                 [
                     "Listdlls64.exe",
-                    "SysInternals/Process Utilities/ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
+                    "SysInternals\\Process Utilities\\ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
                 ],
                 [
                     "livekd64.exe",
-                    "SysInternals/System Information Utilites/LiveKd - Uses Microsoft kernel debuggers to examine a live system"
+                    "SysInternals\\System Information Utilites\\LiveKd - Uses Microsoft kernel debuggers to examine a live system"
                 ],
                 [
                     "LoadOrd64.exe",
-                    "SysInternals/System Information Utilites/LoadOrder - Shows order in which devices are loaded on Windows system"
+                    "SysInternals\\System Information Utilites\\LoadOrder - Shows order in which devices are loaded on Windows system"
                 ],
                 [
                     "LoadOrdC64.exe",
-                    "SysInternals/System Information Utilites/LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
+                    "SysInternals\\System Information Utilites\\LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
                 ],
                 [
                     "logonsessions64.exe",
-                    "SysInternals/Security Utilities/LogonSessions - Lists active logon sessions"
+                    "SysInternals\\Security Utilities\\LogonSessions - Lists active logon sessions"
                 ],
                 [
                     "movefile64.exe",
-                    "SysInternals/File and Disk Utilities/MoveFile - Schedules file rename and delete commands for the next reboot"
+                    "SysInternals\\File and Disk Utilities\\MoveFile - Schedules file rename and delete commands for the next reboot"
                 ],
                 [
                     "notmyfault64.exe",
-                    "SysInternals/Miscellaneous Utilities/NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
                 ],
                 [
                     "notmyfaultc64.exe",
-                    "SysInternals/Miscellaneous Utilities/NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
                 ],
                 [
                     "ntfsinfo64.exe",
-                    "SysInternals/File and Disk Utilities/NTFSInfo - Views detailed information about NTFS volumes"
+                    "SysInternals\\File and Disk Utilities\\NTFSInfo - Views detailed information about NTFS volumes"
                 ],
                 [
                     "pendmoves64.exe",
-                    "SysInternals/File and Disk Utilities/PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
+                    "SysInternals\\File and Disk Utilities\\PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
                 ],
                 [
                     "pipelist64.exe",
-                    "SysInternals/System Information Utilites/PipeList - Displays the named pipes on your system"
+                    "SysInternals\\System Information Utilites\\PipeList - Displays the named pipes on your system"
                 ],
                 [
                     "portmon.exe",
-                    "SysInternals/Process Utilities/Portmon - Monitors serial and parallel port activity"
+                    "SysInternals\\Process Utilities\\Portmon - Monitors serial and parallel port activity"
                 ],
                 [
                     "procdump64.exe",
-                    "SysInternals/Process Utilities/ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
+                    "SysInternals\\Process Utilities\\ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
                 ],
                 [
                     "procexp64.exe",
-                    "SysInternals/Process Utilities/ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
+                    "SysInternals\\Process Utilities\\ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
                 ],
                 [
                     "Procmon64.exe",
-                    "SysInternals/Process Utilities/ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
+                    "SysInternals\\Process Utilities\\ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
                 ],
                 [
                     "PsExec64.exe",
-                    "SysInternals/Process Utilities/PsExec - Executes processes remotely"
+                    "SysInternals\\Process Utilities\\PsExec - Executes processes remotely"
                 ],
                 [
                     "psfile64.exe",
-                    "SysInternals/Networking Utilities/PsFile - Shows what files are opened remotely"
+                    "SysInternals\\Networking Utilities\\PsFile - Shows what files are opened remotely"
                 ],
                 [
                     "PsGetsid64.exe",
-                    "SysInternals/Security Utilities/PsGetSid - Displays the SID of a computer or a user"
+                    "SysInternals\\Security Utilities\\PsGetSid - Displays the SID of a computer or a user"
                 ],
                 [
                     "PsInfo64.exe",
-                    "SysInternals/System Information Utilites/PsInfo - Obtains information about system"
+                    "SysInternals\\System Information Utilites\\PsInfo - Obtains information about system"
                 ],
                 [
                     "pskill64.exe",
-                    "SysInternals/Process Utilities/PsKill - Terminates local or remote processes"
+                    "SysInternals\\Process Utilities\\PsKill - Terminates local or remote processes"
                 ],
                 [
                     "pslist64.exe",
-                    "SysInternals/Process Utilities/PsList - Shows information about processes and threads"
+                    "SysInternals\\Process Utilities\\PsList - Shows information about processes and threads"
                 ],
                 [
                     "PsLoggedon64.exe",
-                    "SysInternals/Security Utilities/PsLoggedOn - Shows users logged on to a system"
+                    "SysInternals\\Security Utilities\\PsLoggedOn - Shows users logged on to a system"
                 ],
                 [
                     "psloglist64.exe",
-                    "SysInternals/Security Utilities/PsLogList - Dumps event log records"
+                    "SysInternals\\Security Utilities\\PsLogList - Dumps event log records"
                 ],
                 [
                     "pspasswd64.exe",
-                    "SysInternals/Security Utilities/PsPasswd - Local and remote password changer"
+                    "SysInternals\\Security Utilities\\PsPasswd - Local and remote password changer"
                 ],
                 [
                     "psping64.exe",
-                    "SysInternals/Networking Utilities/PsPing - PsPing is a command-line utility for measuring network performance"
+                    "SysInternals\\Networking Utilities\\PsPing - PsPing is a command-line utility for measuring network performance"
                 ],
                 [
                     "PsService64.exe",
-                    "SysInternals/Process Utilities/PsService - Views and controls services"
+                    "SysInternals\\Process Utilities\\PsService - Views and controls services"
                 ],
                 [
                     "psshutdown64.exe",
-                    "SysInternals/Security Utilities/PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
+                    "SysInternals\\Security Utilities\\PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
                 ],
                 [
                     "pssuspend64.exe",
-                    "SysInternals/Process Utilities/PsSuspend - Suspends and resumes processes"
+                    "SysInternals\\Process Utilities\\PsSuspend - Suspends and resumes processes"
                 ],
                 [
                     "RAMMap.exe",
-                    "SysInternals/System Information Utilites/RAMMap - Advanced physical memory usage analysis utility"
+                    "SysInternals\\System Information Utilites\\RAMMap - Advanced physical memory usage analysis utility"
                 ],
                 [
                     "RDCMan.exe",
-                    "SysInternals/Miscellaneous Utilities/RDCMan - Manages multiple remote desktop connections"
+                    "SysInternals\\Miscellaneous Utilities\\RDCMan - Manages multiple remote desktop connections"
                 ],
                 [
                     "RegDelNull64.exe",
-                    "SysInternals/Miscellaneous Utilities/RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
+                    "SysInternals\\Miscellaneous Utilities\\RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
                 ],
                 [
                     "regjump.exe",
-                    "SysInternals/Miscellaneous Utilities/RegJump - Jumps to the specified registry path in Regedit"
+                    "SysInternals\\Miscellaneous Utilities\\RegJump - Jumps to the specified registry path in Regedit"
                 ],
                 [
                     "ru64.exe",
-                    "SysInternals/Miscellaneous Utilities/RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
+                    "SysInternals\\Miscellaneous Utilities\\RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
                 ],
                 [
                     "sdelete64.exe",
-                    "SysInternals/File and Disk Utilities/SDelete - Securely overwrites files and cleanses free space of previously deleted files"
+                    "SysInternals\\File and Disk Utilities\\SDelete - Securely overwrites files and cleanses free space of previously deleted files"
                 ],
                 [
                     "ShareEnum64.exe",
-                    "SysInternals/Networking Utilities/ShareEnum - Scans file shares on network and views their security settings"
+                    "SysInternals\\Networking Utilities\\ShareEnum - Scans file shares on network and views their security settings"
                 ],
                 [
                     "ShellRunas.exe",
-                    "SysInternals/Process Utilities/ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
+                    "SysInternals\\Process Utilities\\ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
                 ],
                 [
                     "sigcheck64.exe",
-                    "SysInternals/File and Disk Utilities/Sigcheck - Dumps file version information and verify that image is digitally signed"
+                    "SysInternals\\File and Disk Utilities\\Sigcheck - Dumps file version information and verify that image is digitally signed"
                 ],
                 [
                     "streams64.exe",
-                    "SysInternals/File and Disk Utilities/Streams - Reveals NTFS alternate streams"
+                    "SysInternals\\File and Disk Utilities\\Streams - Reveals NTFS alternate streams"
                 ],
                 [
                     "strings64.exe",
-                    "SysInternals/Miscellaneous Utilities/Strings - Searches for ANSI and UNICODE strings in binary images"
+                    "SysInternals\\Miscellaneous Utilities\\Strings - Searches for ANSI and UNICODE strings in binary images"
                 ],
                 [
                     "sync64.exe",
-                    "SysInternals/File and Disk Utilities/Sync - Flushes cached data to disk"
+                    "SysInternals\\File and Disk Utilities\\Sync - Flushes cached data to disk"
                 ],
                 [
                     "Sysmon64.exe",
-                    "SysInternals/Security Utilities/SystemMonitor - Monitors and reports key system activity via the Windows event log"
+                    "SysInternals\\Security Utilities\\SystemMonitor - Monitors and reports key system activity via the Windows event log"
                 ],
                 [
                     "tcpvcon64.exe",
-                    "SysInternals/Networking Utilities/TCPView Command-line - Active sockets command-line viewer"
+                    "SysInternals\\Networking Utilities\\TCPView Command-line - Active sockets command-line viewer"
                 ],
                 [
                     "tcpview64.exe",
-                    "SysInternals/Networking Utilities/TCPView - Active sockets viewer"
+                    "SysInternals\\Networking Utilities\\TCPView - Active sockets viewer"
                 ],
                 [
                     "Testlimit64.exe",
-                    "SysInternals/Miscellaneous Utilities/Testlimit - Testlimit is a command-line utility to stress-test your PC and/or applications"
+                    "SysInternals\\Miscellaneous Utilities\\Testlimit - Testlimit is a command-line utility to stress-test your PC and or applications"
                 ],
                 [
                     "vmmap64.exe",
-                    "SysInternals/System Information Utilites/VMMap - Process virtual and physical memory analysis utility"
+                    "SysInternals\\System Information Utilites\\VMMap - Process virtual and physical memory analysis utility"
                 ],
                 [
                     "Volumeid64.exe",
-                    "SysInternals/File and Disk Utilities/VolumeID - Sets Volume ID of FAT or NTFS drives"
+                    "SysInternals\\File and Disk Utilities\\VolumeID - Sets Volume ID of FAT or NTFS drives"
                 ],
                 [
                     "whois64.exe",
-                    "SysInternals/Networking Utilities/Whois - Shows who owns an Internet address"
+                    "SysInternals\\Networking Utilities\\Whois - Shows who owns an Internet address"
                 ],
                 [
                     "Winobj64.exe",
-                    "SysInternals/System Information Utilites/WinObj - Object Manager namespace viewer"
+                    "SysInternals\\System Information Utilites\\WinObj - Object Manager namespace viewer"
                 ],
                 [
                     "ZoomIt64.exe",
-                    "SysInternals/Miscellaneous Utilities/ZoomIt - Presentation utility for zooming and drawing on the screen"
+                    "SysInternals\\Miscellaneous Utilities\\ZoomIt - Presentation utility for zooming and drawing on the screen"
                 ]
             ]
         },
@@ -763,311 +763,311 @@
             "shortcuts": [
                 [
                     "accesschk.exe",
-                    "SysInternals/Security Utilities/AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
+                    "SysInternals\\Security Utilities\\AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
                 ],
                 [
                     "AccessEnum.exe",
-                    "SysInternals/Security Utilities/AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
+                    "SysInternals\\Security Utilities\\AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
                 ],
                 [
                     "ADExplorer.exe",
-                    "SysInternals/Networking Utilities/ADExplorer - Advanced Active Directory (AD) viewer and editor"
+                    "SysInternals\\Networking Utilities\\ADExplorer - Advanced Active Directory (AD) viewer and editor"
                 ],
                 [
                     "ADInsight.exe",
-                    "SysInternals/Networking Utilities/ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
+                    "SysInternals\\Networking Utilities\\ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
                 ],
                 [
                     "adrestore.exe",
-                    "SysInternals/Networking Utilities/ADRestore - Undeletes Server 2003 Active Directory objects"
+                    "SysInternals\\Networking Utilities\\ADRestore - Undeletes Server 2003 Active Directory objects"
                 ],
                 [
                     "Autologon.exe",
-                    "SysInternals/Security Utilities/Autologon - Bypasses password screen during logon"
+                    "SysInternals\\Security Utilities\\Autologon - Bypasses password screen during logon"
                 ],
                 [
                     "Autoruns.exe",
-                    "SysInternals/System Information Utilites/Autoruns - Shows what programs are configured to run during system bootup or login"
+                    "SysInternals\\System Information Utilites\\Autoruns - Shows what programs are configured to run during system bootup or login"
                 ],
                 [
                     "autorunsc.exe",
-                    "SysInternals/System Information Utilites/Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
+                    "SysInternals\\System Information Utilites\\Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
                 ],
                 [
                     "Bginfo.exe",
-                    "SysInternals/Miscellaneous Utilities/BGInfo - Displays relevant information about a Windows computer on the desktop background"
+                    "SysInternals\\Miscellaneous Utilities\\BGInfo - Displays relevant information about a Windows computer on the desktop background"
                 ],
                 [
                     "Cacheset.exe",
-                    "SysInternals/File and Disk Utilities/CacheSet - Allows to control the Cache Manager's working set size"
+                    "SysInternals\\File and Disk Utilities\\CacheSet - Allows to control the Cache Manager's working set size"
                 ],
                 [
                     "Clockres.exe",
-                    "SysInternals/System Information Utilites/ClockRes - Views resolution of the system clock"
+                    "SysInternals\\System Information Utilites\\ClockRes - Views resolution of the system clock"
                 ],
                 [
                     "Contig.exe",
-                    "SysInternals/File and Disk Utilities/Contig - Contig is a utility that defragments a specified file or files"
+                    "SysInternals\\File and Disk Utilities\\Contig - Contig is a utility that defragments a specified file or files"
                 ],
                 [
                     "Coreinfo.exe",
-                    "SysInternals/System Information Utilites/Coreinfo - Shows CPU caps and memory topology"
+                    "SysInternals\\System Information Utilites\\Coreinfo - Shows CPU caps and memory topology"
                 ],
                 [
                     "CPUSTRES.EXE",
-                    "SysInternals/Miscellaneous Utilities/CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
+                    "SysInternals\\Miscellaneous Utilities\\CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
                 ],
                 [
                     "ctrl2cap.exe",
-                    "SysInternals/Miscellaneous Utilities/Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
+                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
                 ],
                 [
                     "Dbgview.exe",
-                    "SysInternals/Miscellaneous Utilities/DebugView - Monitors debug output on your local system or any computer on the network"
+                    "SysInternals\\Miscellaneous Utilities\\DebugView - Monitors debug output on your local system or any computer on the network"
                 ],
                 [
                     "Desktops.exe",
-                    "SysInternals/Miscellaneous Utilities/Desktops - Organizes your applications on up to four virtual desktops"
+                    "SysInternals\\Miscellaneous Utilities\\Desktops - Organizes your applications on up to four virtual desktops"
                 ],
                 [
                     "disk2vhd.exe",
-                    "SysInternals/File and Disk Utilities/Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
+                    "SysInternals\\File and Disk Utilities\\Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
                 ],
                 [
                     "diskext.exe",
-                    "SysInternals/File and Disk Utilities/DiskExt - Displays volume disk-mappings"
+                    "SysInternals\\File and Disk Utilities\\DiskExt - Displays volume disk-mappings"
                 ],
                 [
                     "Diskmon.exe",
-                    "SysInternals/File and Disk Utilities/DiskMon - Captures all hard disk activity"
+                    "SysInternals\\File and Disk Utilities\\DiskMon - Captures all hard disk activity"
                 ],
                 [
                     "DiskView.exe",
-                    "SysInternals/File and Disk Utilities/DiskView - Views disk usage by directory"
+                    "SysInternals\\File and Disk Utilities\\DiskView - Views disk usage by directory"
                 ],
                 [
                     "du.exe",
-                    "SysInternals/File and Disk Utilities/DiskUsage - Reports disk space usage for the specified directory"
+                    "SysInternals\\File and Disk Utilities\\DiskUsage - Reports disk space usage for the specified directory"
                 ],
                 [
                     "efsdump.exe",
-                    "SysInternals/File and Disk Utilities/EFSDump - Views encrypted files information"
+                    "SysInternals\\File and Disk Utilities\\EFSDump - Views encrypted files information"
                 ],
                 [
                     "FindLinks.exe",
-                    "SysInternals/File and Disk Utilities/FindLinks - File index and any hard links reporter"
+                    "SysInternals\\File and Disk Utilities\\FindLinks - File index and any hard links reporter"
                 ],
                 [
                     "handle.exe",
-                    "SysInternals/Process Utilities/Handle - Shows what files are open by which processes"
+                    "SysInternals\\Process Utilities\\Handle - Shows what files are open by which processes"
                 ],
                 [
                     "hex2dec.exe",
-                    "SysInternals/Miscellaneous Utilities/Hex2dec - Converts a hexadecimal number to decimal and vice versa"
+                    "SysInternals\\Miscellaneous Utilities\\Hex2dec - Converts a hexadecimal number to decimal and vice versa"
                 ],
                 [
                     "junction.exe",
-                    "SysInternals/File and Disk Utilities/Junction - Creates NTFS symbolic links"
+                    "SysInternals\\File and Disk Utilities\\Junction - Creates NTFS symbolic links"
                 ],
                 [
                     "ldmdump.exe",
-                    "SysInternals/File and Disk Utilities/LDMDump - Dumps contents of Logical Disk Manager on-disk database"
+                    "SysInternals\\File and Disk Utilities\\LDMDump - Dumps contents of Logical Disk Manager on-disk database"
                 ],
                 [
                     "Listdlls.exe",
-                    "SysInternals/Process Utilities/ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
+                    "SysInternals\\Process Utilities\\ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
                 ],
                 [
                     "livekd.exe",
-                    "SysInternals/System Information Utilites/LiveKd - Uses Microsoft kernel debuggers to examine a live system"
+                    "SysInternals\\System Information Utilites\\LiveKd - Uses Microsoft kernel debuggers to examine a live system"
                 ],
                 [
                     "LoadOrd.exe",
-                    "SysInternals/System Information Utilites/LoadOrder - Shows order in which devices are loaded on Windows system"
+                    "SysInternals\\System Information Utilites\\LoadOrder - Shows order in which devices are loaded on Windows system"
                 ],
                 [
                     "LoadOrdC.exe",
-                    "SysInternals/System Information Utilites/LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
+                    "SysInternals\\System Information Utilites\\LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
                 ],
                 [
                     "logonsessions.exe",
-                    "SysInternals/Security Utilities/LogonSessions - Lists active logon sessions"
+                    "SysInternals\\Security Utilities\\LogonSessions - Lists active logon sessions"
                 ],
                 [
                     "movefile.exe",
-                    "SysInternals/File and Disk Utilities/MoveFile - Schedules file rename and delete commands for the next reboot"
+                    "SysInternals\\File and Disk Utilities\\MoveFile - Schedules file rename and delete commands for the next reboot"
                 ],
                 [
                     "notmyfault.exe",
-                    "SysInternals/Miscellaneous Utilities/NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
                 ],
                 [
                     "notmyfaultc.exe",
-                    "SysInternals/Miscellaneous Utilities/NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
                 ],
                 [
                     "ntfsinfo.exe",
-                    "SysInternals/File and Disk Utilities/NTFSInfo - Views detailed information about NTFS volumes"
+                    "SysInternals\\File and Disk Utilities\\NTFSInfo - Views detailed information about NTFS volumes"
                 ],
                 [
                     "pendmoves.exe",
-                    "SysInternals/File and Disk Utilities/PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
+                    "SysInternals\\File and Disk Utilities\\PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
                 ],
                 [
                     "pipelist.exe",
-                    "SysInternals/System Information Utilites/PipeList - Displays the named pipes on your system"
+                    "SysInternals\\System Information Utilites\\PipeList - Displays the named pipes on your system"
                 ],
                 [
                     "portmon.exe",
-                    "SysInternals/Process Utilities/Portmon - Monitors serial and parallel port activity"
+                    "SysInternals\\Process Utilities\\Portmon - Monitors serial and parallel port activity"
                 ],
                 [
                     "procdump.exe",
-                    "SysInternals/Process Utilities/ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
+                    "SysInternals\\Process Utilities\\ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
                 ],
                 [
                     "procexp.exe",
-                    "SysInternals/Process Utilities/ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
+                    "SysInternals\\Process Utilities\\ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
                 ],
                 [
                     "Procmon.exe",
-                    "SysInternals/Process Utilities/ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
+                    "SysInternals\\Process Utilities\\ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
                 ],
                 [
                     "PsExec.exe",
-                    "SysInternals/Process Utilities/PsExec - Executes processes remotely"
+                    "SysInternals\\Process Utilities\\PsExec - Executes processes remotely"
                 ],
                 [
                     "psfile.exe",
-                    "SysInternals/Networking Utilities/PsFile - Shows what files are opened remotely"
+                    "SysInternals\\Networking Utilities\\PsFile - Shows what files are opened remotely"
                 ],
                 [
                     "PsGetsid.exe",
-                    "SysInternals/Security Utilities/PsGetSid - Displays the SID of a computer or a user"
+                    "SysInternals\\Security Utilities\\PsGetSid - Displays the SID of a computer or a user"
                 ],
                 [
                     "PsInfo.exe",
-                    "SysInternals/System Information Utilites/PsInfo - Obtains information about system"
+                    "SysInternals\\System Information Utilites\\PsInfo - Obtains information about system"
                 ],
                 [
                     "pskill.exe",
-                    "SysInternals/Process Utilities/PsKill - Terminates local or remote processes"
+                    "SysInternals\\Process Utilities\\PsKill - Terminates local or remote processes"
                 ],
                 [
                     "pslist.exe",
-                    "SysInternals/Process Utilities/PsList - Shows information about processes and threads"
+                    "SysInternals\\Process Utilities\\PsList - Shows information about processes and threads"
                 ],
                 [
                     "PsLoggedon.exe",
-                    "SysInternals/Security Utilities/PsLoggedOn - Shows users logged on to a system"
+                    "SysInternals\\Security Utilities\\PsLoggedOn - Shows users logged on to a system"
                 ],
                 [
                     "psloglist.exe",
-                    "SysInternals/Security Utilities/PsLogList - Dumps event log records"
+                    "SysInternals\\Security Utilities\\PsLogList - Dumps event log records"
                 ],
                 [
                     "pspasswd.exe",
-                    "SysInternals/Security Utilities/PsPasswd - Local and remote password changer"
+                    "SysInternals\\Security Utilities\\PsPasswd - Local and remote password changer"
                 ],
                 [
                     "psping.exe",
-                    "SysInternals/Networking Utilities/PsPing - PsPing is a command-line utility for measuring network performance"
+                    "SysInternals\\Networking Utilities\\PsPing - PsPing is a command-line utility for measuring network performance"
                 ],
                 [
                     "PsService.exe",
-                    "SysInternals/Process Utilities/PsService - Views and controls services"
+                    "SysInternals\\Process Utilities\\PsService - Views and controls services"
                 ],
                 [
                     "psshutdown.exe",
-                    "SysInternals/Security Utilities/PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
+                    "SysInternals\\Security Utilities\\PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
                 ],
                 [
                     "pssuspend.exe",
-                    "SysInternals/Process Utilities/PsSuspend - Suspends and resumes processes"
+                    "SysInternals\\Process Utilities\\PsSuspend - Suspends and resumes processes"
                 ],
                 [
                     "RAMMap.exe",
-                    "SysInternals/System Information Utilites/RAMMap - Advanced physical memory usage analysis utility"
+                    "SysInternals\\System Information Utilites\\RAMMap - Advanced physical memory usage analysis utility"
                 ],
                 [
                     "RDCMan.exe",
-                    "SysInternals/Miscellaneous Utilities/RDCMan - Manages multiple remote desktop connections"
+                    "SysInternals\\Miscellaneous Utilities\\RDCMan - Manages multiple remote desktop connections"
                 ],
                 [
                     "RegDelNull.exe",
-                    "SysInternals/Miscellaneous Utilities/RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
+                    "SysInternals\\Miscellaneous Utilities\\RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
                 ],
                 [
                     "regjump.exe",
-                    "SysInternals/Miscellaneous Utilities/RegJump - Jumps to the specified registry path in Regedit"
+                    "SysInternals\\Miscellaneous Utilities\\RegJump - Jumps to the specified registry path in Regedit"
                 ],
                 [
                     "ru.exe",
-                    "SysInternals/Miscellaneous Utilities/RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
+                    "SysInternals\\Miscellaneous Utilities\\RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
                 ],
                 [
                     "sdelete.exe",
-                    "SysInternals/File and Disk Utilities/SDelete - Securely overwrites files and cleanses free space of previously deleted files"
+                    "SysInternals\\File and Disk Utilities\\SDelete - Securely overwrites files and cleanses free space of previously deleted files"
                 ],
                 [
                     "ShareEnum.exe",
-                    "SysInternals/Networking Utilities/ShareEnum - Scans file shares on network and views their security settings"
+                    "SysInternals\\Networking Utilities\\ShareEnum - Scans file shares on network and views their security settings"
                 ],
                 [
                     "ShellRunas.exe",
-                    "SysInternals/Process Utilities/ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
+                    "SysInternals\\Process Utilities\\ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
                 ],
                 [
                     "sigcheck.exe",
-                    "SysInternals/File and Disk Utilities/Sigcheck - Dumps file version information and verify that image is digitally signed"
+                    "SysInternals\\File and Disk Utilities\\Sigcheck - Dumps file version information and verify that image is digitally signed"
                 ],
                 [
                     "streams.exe",
-                    "SysInternals/File and Disk Utilities/Streams - Reveals NTFS alternate streams"
+                    "SysInternals\\File and Disk Utilities\\Streams - Reveals NTFS alternate streams"
                 ],
                 [
                     "strings.exe",
-                    "SysInternals/Miscellaneous Utilities/Strings - Searches for ANSI and UNICODE strings in binary images"
+                    "SysInternals\\Miscellaneous Utilities\\Strings - Searches for ANSI and UNICODE strings in binary images"
                 ],
                 [
                     "sync.exe",
-                    "SysInternals/File and Disk Utilities/Sync - Flushes cached data to disk"
+                    "SysInternals\\File and Disk Utilities\\Sync - Flushes cached data to disk"
                 ],
                 [
                     "Sysmon.exe",
-                    "SysInternals/Security Utilities/SystemMonitor - Monitors and reports key system activity via the Windows event log"
+                    "SysInternals\\Security Utilities\\SystemMonitor - Monitors and reports key system activity via the Windows event log"
                 ],
                 [
                     "tcpvcon.exe",
-                    "SysInternals/Networking Utilities/TCPView Command-line - Active sockets command-line viewer"
+                    "SysInternals\\Networking Utilities\\TCPView Command-line - Active sockets command-line viewer"
                 ],
                 [
                     "tcpview.exe",
-                    "SysInternals/Networking Utilities/TCPView - Active sockets viewer"
+                    "SysInternals\\Networking Utilities\\TCPView - Active sockets viewer"
                 ],
                 [
                     "Testlimit.exe",
-                    "SysInternals/Miscellaneous Utilities/Testlimit - Testlimit is a command-line utility to stress-test your PC and/or applications"
+                    "SysInternals\\Miscellaneous Utilities\\Testlimit - Testlimit is a command-line utility to stress-test your PC and or applications"
                 ],
                 [
                     "vmmap.exe",
-                    "SysInternals/System Information Utilites/VMMap - Process virtual and physical memory analysis utility"
+                    "SysInternals\\System Information Utilites\\VMMap - Process virtual and physical memory analysis utility"
                 ],
                 [
                     "Volumeid.exe",
-                    "SysInternals/File and Disk Utilities/VolumeID - Sets Volume ID of FAT or NTFS drives"
+                    "SysInternals\\File and Disk Utilities\\VolumeID - Sets Volume ID of FAT or NTFS drives"
                 ],
                 [
                     "whois.exe",
-                    "SysInternals/Networking Utilities/Whois - Shows who owns an Internet address"
+                    "SysInternals\\Networking Utilities\\Whois - Shows who owns an Internet address"
                 ],
                 [
                     "Winobj.exe",
-                    "SysInternals/System Information Utilites/WinObj - Object Manager namespace viewer"
+                    "SysInternals\\System Information Utilites\\WinObj - Object Manager namespace viewer"
                 ],
                 [
                     "ZoomIt.exe",
-                    "SysInternals/Miscellaneous Utilities/ZoomIt - Presentation utility for zooming and drawing on the screen"
+                    "SysInternals\\Miscellaneous Utilities\\ZoomIt - Presentation utility for zooming and drawing on the screen"
                 ]
             ]
         }
@@ -1075,627 +1075,627 @@
     "shortcuts": [
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads",
-            "SysInternals/Sysinternals Utilities Index"
+            "SysInternals\\url-en-us\\Sysinternals Utilities Index"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk",
-            "SysInternals/Security Utilities/AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
+            "SysInternals\\url-en-us\\Security Utilities\\AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/AccessEnum",
-            "SysInternals/Security Utilities/AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
+            "SysInternals\\url-en-us\\Security Utilities\\AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer",
-            "SysInternals/Networking Utilities/ADExplorer - Advanced Active Directory (AD) viewer and editor"
+            "SysInternals\\url-en-us\\Networking Utilities\\ADExplorer - Advanced Active Directory (AD) viewer and editor"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight",
-            "SysInternals/Networking Utilities/ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
+            "SysInternals\\url-en-us\\Networking Utilities\\ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/adrestore",
-            "SysInternals/Networking Utilities/ADRestore - Undeletes Server 2003 Active Directory objects"
+            "SysInternals\\url-en-us\\Networking Utilities\\ADRestore - Undeletes Server 2003 Active Directory objects"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/Autologon",
-            "SysInternals/Security Utilities/Autologon - Bypasses password screen during logon"
+            "SysInternals\\url-en-us\\Security Utilities\\Autologon - Bypasses password screen during logon"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
-            "SysInternals/System Information Utilites/Autoruns - Shows what programs are configured to run during system bootup or login"
+            "SysInternals\\url-en-us\\System Information Utilites\\Autoruns - Shows what programs are configured to run during system bootup or login"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
-            "SysInternals/System Information Utilites/Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
+            "SysInternals\\url-en-us\\System Information Utilites\\Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo",
-            "SysInternals/Miscellaneous Utilities/BGInfo - Displays relevant information about a Windows computer on the desktop background"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\BGInfo - Displays relevant information about a Windows computer on the desktop background"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset",
-            "SysInternals/File and Disk Utilities/CacheSet - Allows to control the Cache Manager's working set size"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\CacheSet - Allows to control the Cache Manager's working set size"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/clockres",
-            "SysInternals/System Information Utilites/ClockRes - Views resolution of the system clock"
+            "SysInternals\\url-en-us\\System Information Utilites\\ClockRes - Views resolution of the system clock"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/contig",
-            "SysInternals/File and Disk Utilities/Contig - Contig is a utility that defragments a specified file or files"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Contig - Contig is a utility that defragments a specified file or files"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo",
-            "SysInternals/System Information Utilites/Coreinfo - Shows CPU caps and memory topology"
+            "SysInternals\\url-en-us\\System Information Utilites\\Coreinfo - Shows CPU caps and memory topology"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/cpustres",
-            "SysInternals/Miscellaneous Utilities/CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap",
-            "SysInternals/Miscellaneous Utilities/Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/debugview",
-            "SysInternals/Miscellaneous Utilities/DebugView - Monitors debug output on your local system or any computer on the network"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\DebugView - Monitors debug output on your local system or any computer on the network"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/desktops",
-            "SysInternals/Miscellaneous Utilities/Desktops - Organizes your applications on up to four virtual desktops"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\Desktops - Organizes your applications on up to four virtual desktops"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd",
-            "SysInternals/File and Disk Utilities/Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/diskext",
-            "SysInternals/File and Disk Utilities/DiskExt - Displays volume disk-mappings"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\DiskExt - Displays volume disk-mappings"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon",
-            "SysInternals/File and Disk Utilities/DiskMon - Captures all hard disk activity"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\DiskMon - Captures all hard disk activity"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/diskview",
-            "SysInternals/File and Disk Utilities/DiskView - Views disk usage by directory"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\DiskView - Views disk usage by directory"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/du",
-            "SysInternals/File and Disk Utilities/DiskUsage - Reports disk space usage for the specified directory"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\DiskUsage - Reports disk space usage for the specified directory"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump",
-            "SysInternals/File and Disk Utilities/EFSDump - Views encrypted files information"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\EFSDump - Views encrypted files information"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks",
-            "SysInternals/File and Disk Utilities/FindLinks - File index and any hard links reporter"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\FindLinks - File index and any hard links reporter"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/handle",
-            "SysInternals/Process Utilities/Handle - Shows what files are open by which processes"
+            "SysInternals\\url-en-us\\Process Utilities\\Handle - Shows what files are open by which processes"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec",
-            "SysInternals/Miscellaneous Utilities/Hex2dec - Converts a hexadecimal number to decimal and vice versa"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\Hex2dec - Converts a hexadecimal number to decimal and vice versa"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/junction",
-            "SysInternals/File and Disk Utilities/Junction - Creates NTFS symbolic links"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Junction - Creates NTFS symbolic links"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump",
-            "SysInternals/File and Disk Utilities/LDMDump - Dumps contents of Logical Disk Manager on-disk database"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\LDMDump - Dumps contents of Logical Disk Manager on-disk database"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls",
-            "SysInternals/Process Utilities/ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
+            "SysInternals\\url-en-us\\Process Utilities\\ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/livekd",
-            "SysInternals/System Information Utilites/LiveKd - Uses Microsoft kernel debuggers to examine a live system"
+            "SysInternals\\url-en-us\\System Information Utilites\\LiveKd - Uses Microsoft kernel debuggers to examine a live system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder",
-            "SysInternals/System Information Utilites/LoadOrder - Shows order in which devices are loaded on Windows system"
+            "SysInternals\\url-en-us\\System Information Utilites\\LoadOrder - Shows order in which devices are loaded on Windows system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder",
-            "SysInternals/System Information Utilites/LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
+            "SysInternals\\url-en-us\\System Information Utilites\\LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions",
-            "SysInternals/Security Utilities/LogonSessions - Lists active logon sessions"
+            "SysInternals\\url-en-us\\Security Utilities\\LogonSessions - Lists active logon sessions"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/movefile",
-            "SysInternals/File and Disk Utilities/MoveFile - Schedules file rename and delete commands for the next reboot"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\MoveFile - Schedules file rename and delete commands for the next reboot"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault",
-            "SysInternals/Miscellaneous Utilities/NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault",
-            "SysInternals/Miscellaneous Utilities/NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo",
-            "SysInternals/File and Disk Utilities/NTFSInfo - Views detailed information about NTFS volumes"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\NTFSInfo - Views detailed information about NTFS volumes"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves",
-            "SysInternals/File and Disk Utilities/PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist",
-            "SysInternals/System Information Utilites/PipeList - Displays the named pipes on your system"
+            "SysInternals\\url-en-us\\System Information Utilites\\PipeList - Displays the named pipes on your system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/portmon",
-            "SysInternals/Process Utilities/Portmon - Monitors serial and parallel port activity"
+            "SysInternals\\url-en-us\\Process Utilities\\Portmon - Monitors serial and parallel port activity"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/procdump",
-            "SysInternals/Process Utilities/ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
+            "SysInternals\\url-en-us\\Process Utilities\\ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer",
-            "SysInternals/Process Utilities/ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
+            "SysInternals\\url-en-us\\Process Utilities\\ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/procmon",
-            "SysInternals/Process Utilities/ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
+            "SysInternals\\url-en-us\\Process Utilities\\ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psexec",
-            "SysInternals/Process Utilities/PsExec - Executes processes remotely"
+            "SysInternals\\url-en-us\\Process Utilities\\PsExec - Executes processes remotely"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psfile",
-            "SysInternals/Networking Utilities/PsFile - Shows what files are opened remotely"
+            "SysInternals\\url-en-us\\Networking Utilities\\PsFile - Shows what files are opened remotely"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid",
-            "SysInternals/Security Utilities/PsGetSid - Displays the SID of a computer or a user"
+            "SysInternals\\url-en-us\\Security Utilities\\PsGetSid - Displays the SID of a computer or a user"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo",
-            "SysInternals/System Information Utilites/PsInfo - Obtains information about system"
+            "SysInternals\\url-en-us\\System Information Utilites\\PsInfo - Obtains information about system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pskill",
-            "SysInternals/Process Utilities/PsKill - Terminates local or remote processes"
+            "SysInternals\\url-en-us\\Process Utilities\\PsKill - Terminates local or remote processes"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pslist",
-            "SysInternals/Process Utilities/PsList - Shows information about processes and threads"
+            "SysInternals\\url-en-us\\Process Utilities\\PsList - Shows information about processes and threads"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psloggedon",
-            "SysInternals/Security Utilities/PsLoggedOn - Shows users logged on to a system"
+            "SysInternals\\url-en-us\\Security Utilities\\PsLoggedOn - Shows users logged on to a system"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist",
-            "SysInternals/Security Utilities/PsLogList - Dumps event log records"
+            "SysInternals\\url-en-us\\Security Utilities\\PsLogList - Dumps event log records"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pspasswd",
-            "SysInternals/Security Utilities/PsPasswd - Local and remote password changer"
+            "SysInternals\\url-en-us\\Security Utilities\\PsPasswd - Local and remote password changer"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psping",
-            "SysInternals/Networking Utilities/PsPing - PsPing is a command-line utility for measuring network performance"
+            "SysInternals\\url-en-us\\Networking Utilities\\PsPing - PsPing is a command-line utility for measuring network performance"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psservice",
-            "SysInternals/Process Utilities/PsService - Views and controls services"
+            "SysInternals\\url-en-us\\Process Utilities\\PsService - Views and controls services"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown",
-            "SysInternals/Security Utilities/PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
+            "SysInternals\\url-en-us\\Security Utilities\\PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend",
-            "SysInternals/Process Utilities/PsSuspend - Suspends and resumes processes"
+            "SysInternals\\url-en-us\\Process Utilities\\PsSuspend - Suspends and resumes processes"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/rammap",
-            "SysInternals/System Information Utilites/RAMMap - Advanced physical memory usage analysis utility"
+            "SysInternals\\url-en-us\\System Information Utilites\\RAMMap - Advanced physical memory usage analysis utility"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/rdcman",
-            "SysInternals/Miscellaneous Utilities/RDCMan - Manages multiple remote desktop connections"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\RDCMan - Manages multiple remote desktop connections"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull",
-            "SysInternals/Miscellaneous Utilities/RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/regjump",
-            "SysInternals/Miscellaneous Utilities/RegJump - Jumps to the specified registry path in Regedit"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\RegJump - Jumps to the specified registry path in Regedit"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/ru",
-            "SysInternals/Miscellaneous Utilities/RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete",
-            "SysInternals/File and Disk Utilities/SDelete - Securely overwrites files and cleanses free space of previously deleted files"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\SDelete - Securely overwrites files and cleanses free space of previously deleted files"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum",
-            "SysInternals/Networking Utilities/ShareEnum - Scans file shares on network and views their security settings"
+            "SysInternals\\url-en-us\\Networking Utilities\\ShareEnum - Scans file shares on network and views their security settings"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas",
-            "SysInternals/Process Utilities/ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
+            "SysInternals\\url-en-us\\Process Utilities\\ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck",
-            "SysInternals/File and Disk Utilities/Sigcheck - Dumps file version information and verify that image is digitally signed"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Sigcheck - Dumps file version information and verify that image is digitally signed"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/streams",
-            "SysInternals/File and Disk Utilities/Streams - Reveals NTFS alternate streams"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Streams - Reveals NTFS alternate streams"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/strings",
-            "SysInternals/Miscellaneous Utilities/Strings - Searches for ANSI and UNICODE strings in binary images"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\Strings - Searches for ANSI and UNICODE strings in binary images"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/sync",
-            "SysInternals/File and Disk Utilities/Sync - Flushes cached data to disk"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\Sync - Flushes cached data to disk"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon",
-            "SysInternals/Security Utilities/SystemMonitor - Monitors and reports key system activity via the Windows event log"
+            "SysInternals\\url-en-us\\Security Utilities\\SystemMonitor - Monitors and reports key system activity via the Windows event log"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/tcpvcon",
-            "SysInternals/Networking Utilities/TCPView Command-line - Active sockets command-line viewer"
+            "SysInternals\\url-en-us\\Networking Utilities\\TCPView Command-line - Active sockets command-line viewer"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview",
-            "SysInternals/Networking Utilities/TCPView - Active sockets viewer"
+            "SysInternals\\url-en-us\\Networking Utilities\\TCPView - Active sockets viewer"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/testlimit",
-            "SysInternals/Miscellaneous Utilities/Testlimit - Testlimit is a command-line utility to stress-test your PC and/or applications"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\Testlimit - Testlimit is a command-line utility to stress-test your PC and or applications"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap",
-            "SysInternals/System Information Utilites/VMMap - Process virtual and physical memory analysis utility"
+            "SysInternals\\url-en-us\\System Information Utilites\\VMMap - Process virtual and physical memory analysis utility"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid",
-            "SysInternals/File and Disk Utilities/VolumeID - Sets Volume ID of FAT or NTFS drives"
+            "SysInternals\\url-en-us\\File and Disk Utilities\\VolumeID - Sets Volume ID of FAT or NTFS drives"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/whois",
-            "SysInternals/Networking Utilities/Whois - Shows who owns an Internet address"
+            "SysInternals\\url-en-us\\Networking Utilities\\Whois - Shows who owns an Internet address"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/winobj",
-            "SysInternals/System Information Utilites/WinObj - Object Manager namespace viewer"
+            "SysInternals\\url-en-us\\System Information Utilites\\WinObj - Object Manager namespace viewer"
         ],
         [
             "https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit",
-            "SysInternals/Miscellaneous Utilities/ZoomIt - Presentation utility for zooming and drawing on the screen"
+            "SysInternals\\url-en-us\\Miscellaneous Utilities\\ZoomIt - Presentation utility for zooming and drawing on the screen"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/",
-            "SysInternals/Sysinternals Utilities Index"
+            "SysInternals\\url-de-de\\Sysinternals Utilities Index"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/accesschk",
-            "SysInternals/Security Utilities/AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
+            "SysInternals\\url-de-de\\Security Utilities\\AccessChk - Shows accesses the user or group has to files, Registry keys or Windows services"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/AccessEnum",
-            "SysInternals/Security Utilities/AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
+            "SysInternals\\url-de-de\\Security Utilities\\AccessEnum - Shows who has what access to directories, files and Registry keys on your systems"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/adexplorer",
-            "SysInternals/Networking Utilities/ADExplorer - Advanced Active Directory (AD) viewer and editor"
+            "SysInternals\\url-de-de\\Networking Utilities\\ADExplorer - Advanced Active Directory (AD) viewer and editor"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/adinsight",
-            "SysInternals/Networking Utilities/ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
+            "SysInternals\\url-de-de\\Networking Utilities\\ADInsight - LDAP (Light-weight Directory Access Protocol) real-time monitoring tool"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/adrestore",
-            "SysInternals/Networking Utilities/ADRestore - Undeletes Server 2003 Active Directory objects"
+            "SysInternals\\url-de-de\\Networking Utilities\\ADRestore - Undeletes Server 2003 Active Directory objects"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/Autologon",
-            "SysInternals/Security Utilities/Autologon - Bypasses password screen during logon"
+            "SysInternals\\url-de-de\\Security Utilities\\Autologon - Bypasses password screen during logon"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/autoruns",
-            "SysInternals/System Information Utilites/Autoruns - Shows what programs are configured to run during system bootup or login"
+            "SysInternals\\url-de-de\\System Information Utilites\\Autoruns - Shows what programs are configured to run during system bootup or login"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/autoruns",
-            "SysInternals/System Information Utilites/Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
+            "SysInternals\\url-de-de\\System Information Utilites\\Autoruns Command-line - Shows what programs are configured to run during system bootup or login. Command-line version"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/bginfo",
-            "SysInternals/Miscellaneous Utilities/BGInfo - Displays relevant information about a Windows computer on the desktop background"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\BGInfo - Displays relevant information about a Windows computer on the desktop background"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/cacheset",
-            "SysInternals/File and Disk Utilities/CacheSet - Allows to control the Cache Manager's working set size"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\CacheSet - Allows to control the Cache Manager's working set size"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/clockres",
-            "SysInternals/System Information Utilites/ClockRes - Views resolution of the system clock"
+            "SysInternals\\url-de-de\\System Information Utilites\\ClockRes - Views resolution of the system clock"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/contig",
-            "SysInternals/File and Disk Utilities/Contig - Contig is a utility that defragments a specified file or files"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Contig - Contig is a utility that defragments a specified file or files"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/coreinfo",
-            "SysInternals/System Information Utilites/Coreinfo - Shows CPU caps and memory topology"
+            "SysInternals\\url-de-de\\System Information Utilites\\Coreinfo - Shows CPU caps and memory topology"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/cpustres",
-            "SysInternals/Miscellaneous Utilities/CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\CpuStres - Simulate CPU activity by running up to 64 threads in a tight loop"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/ctrl2cap",
-            "SysInternals/Miscellaneous Utilities/Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/debugview",
-            "SysInternals/Miscellaneous Utilities/DebugView - Monitors debug output on your local system or any computer on the network"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\DebugView - Monitors debug output on your local system or any computer on the network"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/desktops",
-            "SysInternals/Miscellaneous Utilities/Desktops - Organizes your applications on up to four virtual desktops"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\Desktops - Organizes your applications on up to four virtual desktops"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/disk2vhd",
-            "SysInternals/File and Disk Utilities/Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Disk2vhd - Simplifies migration of physical systems into virtual machines (p2v)"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/diskext",
-            "SysInternals/File and Disk Utilities/DiskExt - Displays volume disk-mappings"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\DiskExt - Displays volume disk-mappings"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/diskmon",
-            "SysInternals/File and Disk Utilities/DiskMon - Captures all hard disk activity"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\DiskMon - Captures all hard disk activity"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/diskview",
-            "SysInternals/File and Disk Utilities/DiskView - Views disk usage by directory"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\DiskView - Views disk usage by directory"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/du",
-            "SysInternals/File and Disk Utilities/DiskUsage - Reports disk space usage for the specified directory"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\DiskUsage - Reports disk space usage for the specified directory"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/efsdump",
-            "SysInternals/File and Disk Utilities/EFSDump - Views encrypted files information"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\EFSDump - Views encrypted files information"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/findlinks",
-            "SysInternals/File and Disk Utilities/FindLinks - File index and any hard links reporter"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\FindLinks - File index and any hard links reporter"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/handle",
-            "SysInternals/Process Utilities/Handle - Shows what files are open by which processes"
+            "SysInternals\\url-de-de\\Process Utilities\\Handle - Shows what files are open by which processes"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/hex2dec",
-            "SysInternals/Miscellaneous Utilities/Hex2dec - Converts a hexadecimal number to decimal and vice versa"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\Hex2dec - Converts a hexadecimal number to decimal and vice versa"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/junction",
-            "SysInternals/File and Disk Utilities/Junction - Creates NTFS symbolic links"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Junction - Creates NTFS symbolic links"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/ldmdump",
-            "SysInternals/File and Disk Utilities/LDMDump - Dumps contents of Logical Disk Manager on-disk database"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\LDMDump - Dumps contents of Logical Disk Manager on-disk database"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/listdlls",
-            "SysInternals/Process Utilities/ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
+            "SysInternals\\url-de-de\\Process Utilities\\ListDLLs - Lists all the DLLs that are currently loaded, including where they are loaded and their version numbers"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/livekd",
-            "SysInternals/System Information Utilites/LiveKd - Uses Microsoft kernel debuggers to examine a live system"
+            "SysInternals\\url-de-de\\System Information Utilites\\LiveKd - Uses Microsoft kernel debuggers to examine a live system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/loadorder",
-            "SysInternals/System Information Utilites/LoadOrder - Shows order in which devices are loaded on Windows system"
+            "SysInternals\\url-de-de\\System Information Utilites\\LoadOrder - Shows order in which devices are loaded on Windows system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/loadorder",
-            "SysInternals/System Information Utilites/LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
+            "SysInternals\\url-de-de\\System Information Utilites\\LoadOrder Command-line - Shows order in which devices are loaded on Windows system. Command-line version"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/logonsessions",
-            "SysInternals/Security Utilities/LogonSessions - Lists active logon sessions"
+            "SysInternals\\url-de-de\\Security Utilities\\LogonSessions - Lists active logon sessions"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/movefile",
-            "SysInternals/File and Disk Utilities/MoveFile - Schedules file rename and delete commands for the next reboot"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\MoveFile - Schedules file rename and delete commands for the next reboot"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/notmyfault",
-            "SysInternals/Miscellaneous Utilities/NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\NotMyFault - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/notmyfault",
-            "SysInternals/Miscellaneous Utilities/NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/ntfsinfo",
-            "SysInternals/File and Disk Utilities/NTFSInfo - Views detailed information about NTFS volumes"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\NTFSInfo - Views detailed information about NTFS volumes"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pendmoves",
-            "SysInternals/File and Disk Utilities/PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\PendMoves - Shows what files are scheduled for delete or rename the next time the system boots"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pipelist",
-            "SysInternals/System Information Utilites/PipeList - Displays the named pipes on your system"
+            "SysInternals\\url-de-de\\System Information Utilites\\PipeList - Displays the named pipes on your system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/portmon",
-            "SysInternals/Process Utilities/Portmon - Monitors serial and parallel port activity"
+            "SysInternals\\url-de-de\\Process Utilities\\Portmon - Monitors serial and parallel port activity"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/procdump",
-            "SysInternals/Process Utilities/ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
+            "SysInternals\\url-de-de\\Process Utilities\\ProcDump - Captures process dumps to isolate and reproduce CPU spikes"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/process-explorer",
-            "SysInternals/Process Utilities/ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
+            "SysInternals\\url-de-de\\Process Utilities\\ProcessExplorer - Finds out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/procmon",
-            "SysInternals/Process Utilities/ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
+            "SysInternals\\url-de-de\\Process Utilities\\ProcessMonitor - Monitors file system, Registry, process, thread and DLL activity in real-time"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psexec",
-            "SysInternals/Process Utilities/PsExec - Executes processes remotely"
+            "SysInternals\\url-de-de\\Process Utilities\\PsExec - Executes processes remotely"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psfile",
-            "SysInternals/Networking Utilities/PsFile - Shows what files are opened remotely"
+            "SysInternals\\url-de-de\\Networking Utilities\\PsFile - Shows what files are opened remotely"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psgetsid",
-            "SysInternals/Security Utilities/PsGetSid - Displays the SID of a computer or a user"
+            "SysInternals\\url-de-de\\Security Utilities\\PsGetSid - Displays the SID of a computer or a user"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psinfo",
-            "SysInternals/System Information Utilites/PsInfo - Obtains information about system"
+            "SysInternals\\url-de-de\\System Information Utilites\\PsInfo - Obtains information about system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pskill",
-            "SysInternals/Process Utilities/PsKill - Terminates local or remote processes"
+            "SysInternals\\url-de-de\\Process Utilities\\PsKill - Terminates local or remote processes"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pslist",
-            "SysInternals/Process Utilities/PsList - Shows information about processes and threads"
+            "SysInternals\\url-de-de\\Process Utilities\\PsList - Shows information about processes and threads"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psloggedon",
-            "SysInternals/Security Utilities/PsLoggedOn - Shows users logged on to a system"
+            "SysInternals\\url-de-de\\Security Utilities\\PsLoggedOn - Shows users logged on to a system"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psloglist",
-            "SysInternals/Security Utilities/PsLogList - Dumps event log records"
+            "SysInternals\\url-de-de\\Security Utilities\\PsLogList - Dumps event log records"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pspasswd",
-            "SysInternals/Security Utilities/PsPasswd - Local and remote password changer"
+            "SysInternals\\url-de-de\\Security Utilities\\PsPasswd - Local and remote password changer"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psping",
-            "SysInternals/Networking Utilities/PsPing - PsPing is a command-line utility for measuring network performance"
+            "SysInternals\\url-de-de\\Networking Utilities\\PsPing - PsPing is a command-line utility for measuring network performance"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psservice",
-            "SysInternals/Process Utilities/PsService - Views and controls services"
+            "SysInternals\\url-de-de\\Process Utilities\\PsService - Views and controls services"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/psshutdown",
-            "SysInternals/Security Utilities/PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
+            "SysInternals\\url-de-de\\Security Utilities\\PsShutdown - Shutdowns, logoffs and power manages local and remote systems"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/pssuspend",
-            "SysInternals/Process Utilities/PsSuspend - Suspends and resumes processes"
+            "SysInternals\\url-de-de\\Process Utilities\\PsSuspend - Suspends and resumes processes"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/rammap",
-            "SysInternals/System Information Utilites/RAMMap - Advanced physical memory usage analysis utility"
+            "SysInternals\\url-de-de\\System Information Utilites\\RAMMap - Advanced physical memory usage analysis utility"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/rdcman",
-            "SysInternals/Miscellaneous Utilities/RDCMan - Manages multiple remote desktop connections"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\RDCMan - Manages multiple remote desktop connections"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/regdelnull",
-            "SysInternals/Miscellaneous Utilities/RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\RegDelNull - Scans for and deletes Registry keys that contain embedded null-characters"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/regjump",
-            "SysInternals/Miscellaneous Utilities/RegJump - Jumps to the specified registry path in Regedit"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\RegJump - Jumps to the specified registry path in Regedit"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/ru",
-            "SysInternals/Miscellaneous Utilities/RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\RegistryUsage - Registry usage reports the registry space usage for the registry key you specify"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/sdelete",
-            "SysInternals/File and Disk Utilities/SDelete - Securely overwrites files and cleanses free space of previously deleted files"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\SDelete - Securely overwrites files and cleanses free space of previously deleted files"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/shareenum",
-            "SysInternals/Networking Utilities/ShareEnum - Scans file shares on network and views their security settings"
+            "SysInternals\\url-de-de\\Networking Utilities\\ShareEnum - Scans file shares on network and views their security settings"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/shellrunas",
-            "SysInternals/Process Utilities/ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
+            "SysInternals\\url-de-de\\Process Utilities\\ShellRunas - Launches programs as a different user via a convenient shell context-menu entry"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/sigcheck",
-            "SysInternals/File and Disk Utilities/Sigcheck - Dumps file version information and verify that image is digitally signed"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Sigcheck - Dumps file version information and verify that image is digitally signed"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/streams",
-            "SysInternals/File and Disk Utilities/Streams - Reveals NTFS alternate streams"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Streams - Reveals NTFS alternate streams"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/strings",
-            "SysInternals/Miscellaneous Utilities/Strings - Searches for ANSI and UNICODE strings in binary images"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\Strings - Searches for ANSI and UNICODE strings in binary images"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/sync",
-            "SysInternals/File and Disk Utilities/Sync - Flushes cached data to disk"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\Sync - Flushes cached data to disk"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/sysmon",
-            "SysInternals/Security Utilities/SystemMonitor - Monitors and reports key system activity via the Windows event log"
+            "SysInternals\\url-de-de\\Security Utilities\\SystemMonitor - Monitors and reports key system activity via the Windows event log"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/tcpvcon",
-            "SysInternals/Networking Utilities/TCPView Command-line - Active sockets command-line viewer"
+            "SysInternals\\url-de-de\\Networking Utilities\\TCPView Command-line - Active sockets command-line viewer"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/tcpview",
-            "SysInternals/Networking Utilities/TCPView - Active sockets viewer"
+            "SysInternals\\url-de-de\\Networking Utilities\\TCPView - Active sockets viewer"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/testlimit",
-            "SysInternals/Miscellaneous Utilities/Testlimit - Testlimit is a command-line utility to stress-test your PC and/or applications"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\Testlimit - Testlimit is a command-line utility to stress-test your PC and or applications"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/vmmap",
-            "SysInternals/System Information Utilites/VMMap - Process virtual and physical memory analysis utility"
+            "SysInternals\\url-de-de\\System Information Utilites\\VMMap - Process virtual and physical memory analysis utility"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/volumeid",
-            "SysInternals/File and Disk Utilities/VolumeID - Sets Volume ID of FAT or NTFS drives"
+            "SysInternals\\url-de-de\\File and Disk Utilities\\VolumeID - Sets Volume ID of FAT or NTFS drives"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/whois",
-            "SysInternals/Networking Utilities/Whois - Shows who owns an Internet address"
+            "SysInternals\\url-de-de\\Networking Utilities\\Whois - Shows who owns an Internet address"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/winobj",
-            "SysInternals/System Information Utilites/WinObj - Object Manager namespace viewer"
+            "SysInternals\\url-de-de\\System Information Utilites\\WinObj - Object Manager namespace viewer"
         ],
         [
             "https://docs.microsoft.com/de-de/sysinternals/downloads/zoomit",
-            "SysInternals/Miscellaneous Utilities/ZoomIt - Presentation utility for zooming and drawing on the screen"
+            "SysInternals\\url-de-de\\Miscellaneous Utilities\\ZoomIt - Presentation utility for zooming and drawing on the screen"
         ]
     ]
 }
