@@ -1,5 +1,5 @@
 {
-    "version": "7.3.4",
+    "version": "7.3.4.2",
     "description": "Powerful office suite",
     "homepage": "https://libreoffice.org/",
     "license": "MPL-2.0",
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://de.libreoffice.org/donate/dl/win-x86_64/7.3.4/de/LibreOffice_7.3.4_Win_x64.msi#/dl.ism",
-            "hash": "bac568c394f92a824be7b593166f85e194406f44054df155f2daa86faf0eb3f5"
+            "hash": "88514a2d7fe0d38a7fe894ba7f2109099f2d47a9df3006f01430b2dbcc61a6d2"
         },
         "32bit": {
             "url": "https://de.libreoffice.org/donate/dl/win-x86/7.3.4/de/LibreOffice_7.3.4_Win_x86.msi#/dl.ism",
-            "hash": "e73e2fd3d95f305a8517abe65c940e2b7de13d4271fb789f38f89c28df57933a"
+            "hash": "c056da59179c81a6f34900531cb643171fb3ad6af19f9b4a8268ed133c2c75e2"
         }
     },
     "pre_install": [
