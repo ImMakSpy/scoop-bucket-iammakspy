@@ -2,8 +2,6 @@
 
 My manifests
 
-They are still in progress
-
 | Manifest Name                                  | Remarks                          |
 | ---------------------------------------------- | -------------------------------- |
 | 7tt-ims                                        |                                  |
@@ -67,6 +65,8 @@ They are still in progress
 | windowserrorlookuptool-ims                     |                                  |
 | wireshark-ims                                  |                                  |
 |                                                |                                  |
+
+They are still in progress
 
 ## [7+ Taskbar Tweake](https://ramensoftware.com/7-taskbar-tweaker "Permanent Link to 7+ Taskbar Tweaker")
 
