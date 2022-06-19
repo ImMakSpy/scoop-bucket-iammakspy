@@ -819,7 +819,7 @@
                 ],
                 [
                     "ctrl2cap.exe",
-                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver (caps-locks into control keys)"
+                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver (caps-locks=>control keys)"
                 ],
                 [
                     "Dbgview.exe",
