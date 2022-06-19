@@ -512,7 +512,7 @@
                 ],
                 [
                     "notmyfaultc64.exe",
-                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
                 ],
                 [
                     "ntfsinfo64.exe",
@@ -819,7 +819,7 @@
                 ],
                 [
                     "ctrl2cap.exe",
-                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys"
+                    "SysInternals\\Miscellaneous Utilities\\Ctrl2Cap - Kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver (caps-locks into control keys)"
                 ],
                 [
                     "Dbgview.exe",
@@ -903,7 +903,7 @@
                 ],
                 [
                     "notmyfaultc.exe",
-                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system. Command-line version"
+                    "SysInternals\\Miscellaneous Utilities\\NotMyFault Command-line - Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system"
                 ],
                 [
                     "ntfsinfo.exe",
