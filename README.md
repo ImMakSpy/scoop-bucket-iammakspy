@@ -19,7 +19,6 @@ My manifests
 | exiftoolgui-ims                                |                                  |
 | GitHubDesktop-Portable-ims                     |                                  |
 | HDCleaner-Portable-ims                         |                                  |
-| JDownloader-dark-theme-ims                     |                                  |
 | keepass-language-de-ims                        |                                  |
 | keepass-plugin-AutoTypeSearch-ims              |                                  |
 | keepass-plugin-CustomIconDashboarder-ims       |                                  |
