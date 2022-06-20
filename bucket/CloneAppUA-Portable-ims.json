@@ -4,7 +4,7 @@
     "homepage": "https://www.builtbybel.com/ua",
     "license": "Freeware",
     "url": "https://www.builtbybel.com/ua?task=download.send&id=4&catid=9&m=0/cloneapp_ua.zip",
-    "hash": "48f2cb3e54082299f149bdc547919a3b0fe1f94c6fd7ff7e08be3468e72b2d85",
+    "hash": "5321a21536b4317d7a4b26ca6f027ef36d3522f2f14caa9cce314e436c76da81",
     "pre_install": [
         "$file = 'Data\\cloneapp.ini'",
         "if (-not (Test-Path \"$persist_dir\\$file\")) {",

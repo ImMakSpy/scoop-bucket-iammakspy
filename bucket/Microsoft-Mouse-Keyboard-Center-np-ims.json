@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://go.microsoft.com/fwlink/?linkid=849754#/dl.exe",
-            "hash": "f2867f44731e21fc7f9caba8541462c7168353d89e57ed8c6309465224d74328"
+            "hash": "b847e5f5a2aa770572009a0b0dd15d8d811226843a0b3b9a4216c3d05d432ad2"
         },
         "32bit": {
             "url": "https://go.microsoft.com/fwlink/?linkid=849755#/dl.exe",
