@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://go.microsoft.com/fwlink/?linkid=849754#/dl.exe",
-            "hash": "cb14809f87c44b7fdc952d9e402f6dd5d6a897222470b7b8b8147ff1772169e7"
+            "hash": "f2867f44731e21fc7f9caba8541462c7168353d89e57ed8c6309465224d74328"
         },
         "32bit": {
             "url": "https://go.microsoft.com/fwlink/?linkid=849755#/dl.exe",
-            "hash": "38dc57317b66b6a10c7cfa7237d734ae2214531df6ca85db6b72c44304541fae"
+            "hash": "de3f28fcaf5e7dbeb881bf0f00425aba08f860edf387e44be30899701450a0f5"
         }
     },
     "checkver": {
