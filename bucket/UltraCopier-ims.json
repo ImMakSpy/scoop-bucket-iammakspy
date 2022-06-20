@@ -1,16 +1,16 @@
 {
-    "version": "2.2.6.0",
+    "version": "2.2.6.1",
     "description": "Ultracopier is free and open source software licensed under GPL3 that acts as a replacement for files copy dialogs.",
     "homepage": "https://ultracopier.first-world.info/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.5.0/ultracopier-windows-x86_64-2.2.5.0-setup.exe",
-            "hash": "e676334742d20f7aca72d092a023f51bf6dccf4f72dae692f6ac25f85d321240"
+            "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86_64-2.2.6.1-setup.exe#/dl.7z",
+            "hash": "a99b467e0589223918086e68d24104c1f65fee30ae68bc1c96a783687eaf0087"
         },
         "32bit": {
-            "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.5.0/ultracopier-windows-x86-2.2.5.0-setup.exe",
-            "hash": "ec51ae65f3d41aa0e216da62fe78aa62e076e33e05a28c242563bd95e3b74565"
+            "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86-2.2.6.1-setup.exe#/dl.7z",
+            "hash": "0d2577ced3f6a6a7632a018cddd05bbd1d833d22d9449caa92cac6c9859480d1"
         }
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse",
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.5.0/ultracopier-windows-x86_64-2.2.5.0-setup.exe"
+                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86_64-2.2.6.1-setup.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.5.0/ultracopier-windows-x86-2.2.5.0-setup.exe"
+                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86-2.2.6.1-setup.exe#/dl.7z"
             }
         }
     }
