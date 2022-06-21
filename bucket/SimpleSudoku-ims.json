@@ -4,12 +4,12 @@
     "version": "4.2n",
     "license": "",
     "url": "http://www.angusj.com/sudoku/sudoku_setup.exe",
-    "hash": "md5:de443768c2912cfa5be1db2917b3abcd",
-    "bin": "SimpleSudokuPortable.exe",
+    "hash": "md5:551d31244898b7cb263999ed44f17ce0",
+    "bin": "SimpleSudoku.exe",
     "shortcuts": [
         [
-            "SimpleSudokuPortable.exe",
-            "SimpleSudokuPortable"
+            "SimpleSudoku.exe",
+            "SimpleSudoku"
         ]
     ],
     "persist": "Data",

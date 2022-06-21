@@ -10,7 +10,7 @@
         },
         "32bit": {
             "url": "https://www.pokerth.net/download/client/PokerTH-1.1.2-windows.zip",
-            "hash": "00445f1cf094fb76a1d3d8f0c16a22c5c04e6f66c449763902b203573f6efe83"
+            "hash": "b111e8748f6728c496bbb5f59496ff3a95442a56cc2f8416796e44b66f1ca878"
         }
     },    "hash": "md5:ae1d108d9effa28c0ef260c685e076f0",
     "bin": "PokerTHPortable.exe",
