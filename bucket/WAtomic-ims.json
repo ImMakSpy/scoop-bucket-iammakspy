@@ -1,7 +1,7 @@
 {
     "version": "1.2.3_Rev_2",
     "description": "A Windows clone of Linux KAtomic logic game",
-    "homepage": "https://portableapps.com/apps/games/watomic_portable",
+    "homepage": "http://prdownloads.sourceforge.net/watomic/",
     "license": "unknown",
     "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_1_2_3_257.zip",
     "hash": "dcffb7f86a7ee26c3da53b0ab640fee9181b159cc9d7c26aa4df164447af8fb9",
