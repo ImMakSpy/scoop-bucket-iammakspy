@@ -18,6 +18,6 @@
         "regex": "WAtomic_([\\d_]+)"
     },
     "autoupdate": {
-        "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_$version.zip",
+        "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_$version.zip"
     }
 }
