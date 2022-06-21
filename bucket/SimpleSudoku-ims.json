@@ -11,6 +11,5 @@
     },
     "autoupdate": {
         "url": "http://www.angusj.com/sudoku/sudoku_setup.exe",
-    },
-    "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
+    }
 }
