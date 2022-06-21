@@ -1,0 +1,24 @@
+{
+    "homepage": "http://www.angusj.com/sudoku",
+    "description": "Sudoku game, creator, and solver",
+    "version": "4.2n",
+    "license": "",
+    "url": "http://www.angusj.com/sudoku/sudoku_setup.exe",
+    "hash": "md5:de443768c2912cfa5be1db2917b3abcd",
+    "bin": "SimpleSudokuPortable.exe",
+    "shortcuts": [
+        [
+            "SimpleSudokuPortable.exe",
+            "SimpleSudokuPortable"
+        ]
+    ],
+    "persist": "Data",
+    "checkver": {
+        "url": "http://www.angusj.com/sudoku/",
+        "regex": "sudoku_setup.exe"
+    },
+    "autoupdate": {
+        "url": "http://www.angusj.com/sudoku/sudoku_setup.exe",
+    },
+    "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
+}

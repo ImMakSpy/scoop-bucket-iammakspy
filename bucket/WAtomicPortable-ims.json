@@ -1,0 +1,26 @@
+{
+    "version": "1.2.3_Rev_2",
+    "description": "A Windows clone of Linux KAtomic logic game",
+    "homepage": "https://portableapps.com/apps/games/watomic_portable",
+    "license": "unknown",
+    "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_1_2_3_257.zip",
+    "hash": "md5:54c1b5133f3dee9d6d858913c0fa6411",
+    "bin": "WAtomicPortable.exe",
+    "shortcuts": [
+        [
+            "WAtomicPortable.exe",
+            "WAtomicPortable"
+        ]
+    ],
+    "persist": "Data",
+    "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    "checkver": {
+        "url": "http://prdownloads.sourceforge.net/watomic/",
+        "regex": "WAtomic_([\\d_]+)"
+    },
+    "autoupdate": {
+        "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_$version.zip",
+    }
+}
+
+http://www.angusj.com/sudoku/ss_extra_puzzles_2.zip

@@ -63,7 +63,12 @@ My manifests
 | wfc-ims                                        |                                  |
 | windowserrorlookuptool-ims                     |                                  |
 | wireshark-ims                                  |                                  |
-|                                                |                                  |
+| PokerTHPortable-ims                            |                                  |
+| PushoverPortable-ims                           |                                  |
+| SimpleSudokuextra-puzzles-1-ims                |                                  |
+| SimpleSudokuextra-puzzles-2-ims                |                                  |
+| SimpleSudokuPortable-ims                       |                                  |
+| WAtomicPortable-ims                            |                                  |
 
 They are still in progress
 
