@@ -4,7 +4,7 @@
     "version": "4.2n",
     "license": "",
     "url": "http://www.angusj.com/sudoku/ss_extra_puzzles_2.zip",
-    "hash": "md5:de443768c2912cfa5be1db2917b3abcd",
+    "hash": "md5:bcfaa135992a0e3da063176ae286975c",
     "persist": "Data",
     "checkver": {
         "url": "http://www.angusj.com/sudoku/",
