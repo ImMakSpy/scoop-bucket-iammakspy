@@ -12,16 +12,7 @@
             "url": "https://www.pokerth.net/download/client/PokerTH-1.1.2-windows.zip",
             "hash": "b111e8748f6728c496bbb5f59496ff3a95442a56cc2f8416796e44b66f1ca878"
         }
-    },    "hash": "md5:ae1d108d9effa28c0ef260c685e076f0",
-    "bin": "PokerTHPortable.exe",
-    "shortcuts": [
-        [
-            "PokerTHPortable.exe",
-            "PokerTHPortable"
-        ]
-    ],
-    "persist": "Data",
-    "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    },
     "checkver": {
         "url": "https://www.pokerth.net/download/client/",
         "regex": "PokerTH-([\\d.]+)"
