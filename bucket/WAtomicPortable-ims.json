@@ -4,7 +4,7 @@
     "homepage": "https://portableapps.com/apps/games/watomic_portable",
     "license": "unknown",
     "url": "http://prdownloads.sourceforge.net/watomic/WAtomic_1_2_3_257.zip",
-    "hash": "md5:2416254afde1cced734bd4ec0ac136c1",
+    "hash": "dcffb7f86a7ee26c3da53b0ab640fee9181b159cc9d7c26aa4df164447af8fb9",
     "bin": "WAtomicPortable.exe",
     "shortcuts": [
         [
