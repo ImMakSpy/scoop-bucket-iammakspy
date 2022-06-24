@@ -53,6 +53,7 @@ My manifests
 | sublime-text-ims                               |                                  |
 | sumatrapdf-ims                                 | Doesn't work with aria2          |
 | sysinternals-ims                               |                                  |
+| TeraCopy-Portable-ims                          |                                  |
 | testdisk-ims                                   |                                  |
 | tortoisegit-ims                                |                                  |
 | TweakPower-Portable-ims                        |                                  |
