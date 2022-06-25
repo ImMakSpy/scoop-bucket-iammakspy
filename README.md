@@ -58,7 +58,6 @@ My manifests
 | tortoisegit-ims                                |                                  |
 | TweakPower-Portable-ims                        |                                  |
 | UltraCopier-ims                                |                                  |
-| usbdeview-ims                                  |                                  |
 | usbtreeview-ims                                |                                  |
 | VisualStudioCode-Portable-ims                  |                                  |
 | wfc-ims                                        |                                  |
