@@ -1,6 +1,7 @@
 # My Scoop Bucket
 
 My manifests
+Remarks will be enhanced later
 
 | Manifest Name                                  | Remarks                          |
 | ---------------------------------------------- | -------------------------------- |
@@ -11,7 +12,6 @@ My manifests
 | chansort-ims                                   |                                  |
 | CloneApp-Portable-ims                          |                                  |
 | CloneAppUA-Portable-ims                        |                                  |
-| codec-tweak-tool-ims                           |                                  |
 | dev-toys-cli-ims                               |                                  |
 | DisplayDriverUninstaller-Portable-ims          |                                  |
 | drmare-music-converter-ims                     |                                  |
