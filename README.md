@@ -18,6 +18,7 @@ Remarks will be enhanced later
 | EasyBCD-ims                                    |                                  |
 | exiftoolgui-ims                                |                                  |
 | GitHubDesktop-Portable-ims                     |                                  |
+| HandyWinGet-ims                                |                                  |
 | HDCleaner-Portable-ims                         |                                  |
 | keepass-language-de-ims                        |                                  |
 | keepass-plugin-AutoTypeSearch-ims              |                                  |
