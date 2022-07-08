@@ -17,7 +17,7 @@
     "shortcuts": [
         [
             "CloneApp UA.exe",
-            "CloneApp Universal Apps"
+            "CloneApp\\CloneApp Universal Apps"
         ]
     ],
     "persist": "Data",

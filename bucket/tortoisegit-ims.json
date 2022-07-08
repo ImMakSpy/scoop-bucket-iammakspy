@@ -31,19 +31,19 @@
     "shortcuts": [
         [
             "bin\\TortoiseGitMerge.exe",
-            "TortoiseGit Merge"
+            "TortoiseGit\\TortoiseGit Merge"
         ],
         [
             "bin\\TortoiseGitBlame.exe",
-            "TortoiseGit Blame"
+            "TortoiseGit\\TortoiseGit Blame"
         ],
         [
             "bin\\TortoiseGitIDiff.exe",
-            "TortoiseGit Diff"
+            "TortoiseGit\\TortoiseGit Diff"
         ],
         [
             "bin\\TortoiseGitProc.exe",
-            "TortoiseGit Settings",
+            "TortoiseGit\\TortoiseGit Settings",
             "/command:settings"
         ]
     ],

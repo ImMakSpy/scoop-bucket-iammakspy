@@ -29,7 +29,7 @@
     "shortcuts": [
         [
             "CloneApp.exe",
-            "CloneApp"
+            "CloneApp\\CloneApp"
         ]
     ],
     "checkver": {

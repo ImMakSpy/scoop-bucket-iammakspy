@@ -26,15 +26,15 @@
     "shortcuts": [
         [
             "photorec_win.exe",
-            "PhotoRec"
+            "TestDisk\\PhotoRec"
         ],
         [
             "qphotorec_win.exe",
-            "QPhotoRec"
+            "TestDisk\\QPhotoRec"
         ],
         [
             "testdisk_win.exe",
-            "TestDisk"
+            "TestDisk\\TestDisk"
         ]
     ],
     "checkver": {
