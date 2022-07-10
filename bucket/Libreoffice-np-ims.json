@@ -27,6 +27,10 @@
     ],
     "shortcuts": [
         [
+            "program\\soffice.exe",
+            "LibreOffice\\LibreOffice"
+        ],
+        [
             "program\\sbase.exe",
             "LibreOffice\\LibreOffice Base"
         ],
