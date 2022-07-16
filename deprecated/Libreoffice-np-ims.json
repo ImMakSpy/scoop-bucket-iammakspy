@@ -1,0 +1,75 @@
+{
+    "version": "7.3.4.2",
+    "description": "Powerful office suite",
+    "homepage": "https://libreoffice.org/",
+    "license": "MPL-2.0",
+    "suggest": {
+        "vcredist": "extras/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64.msi#/dl.ism",
+            "hash": "509c70c1c8136805480146b55e4bad5dc73b11ee47b4682b43cf07670109e176"
+        },
+        "32bit": {
+            "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86.msi#/dl.ism",
+            "hash": "e73e2fd3d95f305a8517abe65c940e2b7de13d4271fb789f38f89c28df57933a"
+        }
+    },
+    "pre_install": [
+        "$_args = @{",
+        "    'Path' = \"$dir\\$fname\"",
+        "    'DestinationPath' = \"$dir\"",
+        "    'Removal' = $true",
+        "}",
+        "if (get_config 'MSIEXTRACT_USE_LESSMSI' $false) { $_args.Add('ExtractDir', 'LibreOffice') }",
+        "Expand-MsiArchive @_args"
+    ],
+    "shortcuts": [
+        [
+            "program\\soffice.exe",
+            "LibreOffice\\LibreOffice"
+        ],
+        [
+            "program\\sbase.exe",
+            "LibreOffice\\LibreOffice Base"
+        ],
+        [
+            "program\\scalc.exe",
+            "LibreOffice\\LibreOffice Calc"
+        ],
+        [
+            "program\\sdraw.exe",
+            "LibreOffice\\LibreOffice Draw"
+        ],
+        [
+            "program\\simpress.exe",
+            "LibreOffice\\LibreOffice Impress"
+        ],
+        [
+            "program\\smath.exe",
+            "LibreOffice\\LibreOffice Math"
+        ],
+        [
+            "program\\swriter.exe",
+            "LibreOffice\\LibreOffice Writer"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.libreoffice.org/download/download/",
+        "regex": "libreoffice-([\\d.]+)\\.tar\\.xz"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86_64/LibreOffice_7.3.4_Win_x64.msi#/dl.ism"
+            },
+            "32bit": {
+                "url": "https://download.documentfoundation.org/libreoffice/stable/7.3.4/win/x86/LibreOffice_7.3.4_Win_x86.msi#/dl.ism"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
