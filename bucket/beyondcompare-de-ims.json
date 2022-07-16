@@ -74,11 +74,11 @@
     "shortcuts": [
         [
             "BCompare.exe",
-            "Beyond Compare 4"
+            "Beyond Compare\\Beyond Compare 4"
         ],
         [
             "BCClipboard.exe",
-            "Clipboard Compare"
+            "Beyond Compare\\Clipboard Compare"
         ]
     ],
     "checkver": {
