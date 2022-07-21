@@ -1,11 +1,11 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "description": "This plugin provides a quick searching capability as an enhancement to the global auto-type system.",
     "homepage": "https://sourceforge.net/projects/autotypesearch/",
     "license": "GPL-3.0-only",
     "depends": "extras/keepass",
-    "url": "https://sourceforge.net/projects/autotypesearch/files/v1.1/AutoTypeSearch-v1.1.zip",
-    "hash": "59bf942cab756b03c2e622972549c552b0d0bf5e1d68e100d47b520bb3b41468",
+    "url": "https://sourceforge.net/projects/autotypesearch/files/v1.2/AutoTypeSearch-v1.2.zip",
+    "hash": "sha1:71995b586bb834fddb34a1016a4422e249113c63",
     "installer": {
         "script": "Copy-Item \"$dir\\AutoTypeSearch.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
