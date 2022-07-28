@@ -13,12 +13,13 @@ Remarks will be enhanced later
 | CloneApp-Portable-ims                          |                                                  |
 | CloneAppUA-Portable-ims                        |                                                  |
 | dev-toys-cli-ims                               |                                                  |
+| DocFetcher-ims                                 |                                                  |
 | DisplayDriverUninstaller-Portable-ims          |                                                  |
 | drmare-music-converter-ims                     |                                                  |
 | EasyBCD-ims                                    |                                                  |
 | exiftoolgui-ims                                |                                                  |
 | GitHubDesktop-Portable-ims                     |                                                  |
-| HandyWinGet-ims                                |<sup>1</sup> |
+| HandyWinGet-ims                                |<sup>1</sup>                                      |
 | HDCleaner-Portable-ims                         |                                                  |
 | keepass-language-de-ims                        |                                                  |
 | keepass-plugin-AutoTypeSearch-ims              |                                                  |
@@ -35,7 +36,7 @@ Remarks will be enhanced later
 | keepass-plugin-PasswordChangeAssistant-ims     |                                                  |
 | keepass-plugin-QuickSearch-ims                 |                                                  |
 | keepass-plugin-YetAnotherFaviconDownloader-ims |                                                  |
-| LibreOffice-np-ims                             | Libre Office msi file<br><sup>1</sup> |
+| LibreOffice-np-ims                             | Libre Office msi file<br><sup>1</sup>            |
 | LibreOffice-np-helppack-de-ims                 | Libre Office German offline help                 |
 | LibreOffice-Portable-ims                       | Libre Office portable                            |
 | Microsoft-Mouse-Keyboard-Center-np-ims         |                                                  |
@@ -54,9 +55,9 @@ Remarks will be enhanced later
 | sublime-text-ims                               |                                                  |
 | sumatrapdf-ims                                 | Doesn't work with aria2                          |
 | sysinternals-ims                               |                                                  |
-| TeraCopy-Portable-ims                          | <sup>1</sup> |
+| TeraCopy-Portable-ims                          | <sup>1</sup>                                     |
 | testdisk-ims                                   |                                                  |
-| tortoisegit-ims                                | <sup>1</sup> |
+| tortoisegit-ims                                | <sup>1</sup>                                     |
 | TweakPower-Portable-ims                        |                                                  |
 | UltraCopier-ims                                |                                                  |
 | usbtreeview-ims                                |                                                  |
