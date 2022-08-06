@@ -74,9 +74,6 @@ Remarks will be enhanced later
 
 <sup>1</sup> ... Moved to deprecated, because they don't work as expected
 
-They are still in progress
-
-## [7+ Taskbar Tweake](https://ramensoftware.com/7-taskbar-tweaker "Permanent Link to 7+ Taskbar Tweaker")
 
 How do I install these manifests?
 ---------------------------------
