@@ -1,11 +1,11 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "description": "This plugin allows you to use KeePass' built-in search functions ('Find', 'Last Modified Entries', 'Large Entries', 'Password Quality', etc.) for searching in all open databases at once.",
     "homepage": "https://github.com/Rookiestyle/GlobalSearch/",
     "license": "GPL-2.0-or-later",
     "depends": "extras/keepass",
     "url": "https://github.com/rookiestyle/globalsearch/releases/latest/download/GlobalSearch.plgx",
-    "hash": "71278de963d83605f03dae27c5ba59552b45dd268b597311d4ca844b90c284c5",
+    "hash": "54babf50af6c5534d408899fbe9ed158939ef5fcb770c9f0263b799c6da540ae",
     "installer": {
         "script": "Copy-Item \"$dir\\GlobalSearch.plgx\" \"$(appdir keepass $global)\\current\\Plugins\""
     },
