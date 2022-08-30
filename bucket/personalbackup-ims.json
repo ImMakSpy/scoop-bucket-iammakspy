@@ -1,6 +1,6 @@
 {
     "version": "6.2.1600",
-    "description": "simple backup solution",
+    "description": "Personal Backup. simple backup solution",
     "homepage": "https://personal-backup.rathlev-home.de/",
     "license": {
         "identifier": "Freeware",
@@ -17,17 +17,17 @@
         }
     },
     "innosetup": true,
-    "pre_install": "if (!(Test-Path \"$persist_dir\\PersBackup.ini\")) { New-Item \"$dir\\PersBackup.ini\" -Force | Out-Null }",
+    "pre_install": "if (!(Test-Path \"$persist_dir\\pb.ini\")) { New-Item \"$dir\\pb.ini\" -Force | Out-Null }",
     "bin": "Persbackup.exe",
     "shortcuts": [
         [
             "Persbackup.exe",
             "Personal Backup",
-            "/portable"
+            "/ini:%progpath%\\pb.ini /taskdir:%progpath%\\tasks /logdir:%progpath%\\logs"
         ]
     ],
     "persist": [
-        "PersBackup.ini",
+        "pb.ini",
         "logs",
         "tasks"
     ],
