@@ -22,6 +22,7 @@ Remarks will be enhanced later
 | HandyWinGet-ims                                |<sup>1</sup>                                      |
 | HDCleaner-Portable-ims                         |                                                  |
 | keepass-language-de-ims                        |                                                  |
+| keepass-plugin-KPSourceForgeUpdateChecker-ims  |                                                  |
 | keepass-plugin-AutoTypeSearch-ims              |                                                  |
 | keepass-plugin-CustomIconDashboarder-ims       |                                                  |
 | keepass-plugin-ExeIconPicker-ims               |                                                  |
