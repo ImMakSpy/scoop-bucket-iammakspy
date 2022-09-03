@@ -13,7 +13,7 @@
         "script": "Get-Item \"$(appdir keepass $global)\\current\\Plugins\\KeeAutoExec*\" | Remove-Item -Force"
     },
     "checkver": {
-        "url": "https://keepass.info/rss?path=/",
+        "url": "https://keepass.info/extensions/v2/keeautoexec/rss?path=/",
         "regex": "KeeAutoExec-([\\d.]+)\\.zip"
     },
     "autoupdate": {
