@@ -1,10 +1,10 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "description": "KeeAutoExec This plugin allows to automatically open additional databases when opening a database.",
     "homepage": "https://keepass.info/plugins.html#keeautoexec",
     "license": "MIT",
     "depends": "extras/keepass",
-    "url": "https://keepass.info/extensions/v2/keeautoexec/KeeAutoExec-2.4.zip",
+    "url": "https://keepass.info/extensions/v2/keeautoexec/KeeAutoExec-2.5.zip",
     "hash": "fa947fdd1be0b6abca4ff996c2824cddf4b6fa9c9af7682f941bf4c5df379d0c",
     "installer": {
         "script": "Copy-Item \"$dir\\KeeAutoExec*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
