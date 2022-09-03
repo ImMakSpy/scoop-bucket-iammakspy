@@ -10,6 +10,6 @@
         "regex": "sudoku_setup.exe"
     },
     "autoupdate": {
-        "url": "http://www.angusj.com/sudoku/sudoku_setup.exe",
+        "url": "http://www.angusj.com/sudoku/sudoku_setup.exe"
     }
 }
