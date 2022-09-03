@@ -5,7 +5,7 @@
     "license": "MIT",
     "depends": "extras/keepass",
     "url": "https://keepass.info/extensions/v2/keeautoexec/KeeAutoExec-2.5.zip",
-    "hash": "fa947fdd1be0b6abca4ff996c2824cddf4b6fa9c9af7682f941bf4c5df379d0c",
+    "hash": "b98c3df4a2cc2b64180a543ec8e3a7754d3e5dff78a47ef08c0c38c46384382a",
     "installer": {
         "script": "Copy-Item \"$dir\\KeeAutoExec*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
     },
