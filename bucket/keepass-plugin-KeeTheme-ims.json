@@ -12,6 +12,16 @@
         "67e2d1d97773de396fc5fd8cd41d2390f24da317e150a33ac25dbc799f7fc9a4",
         "96e31324241b2eb0a47a4ea3560f69214a425654df5a0ecde7e3d022c6538242"
     ],
+    "pre_install": [
+        "$keePass = Get-Process KeePass -ErrorAction SilentlyContinue",
+        "if ($keePass) {",
+        "  $keePass.CloseMainWindow()",
+        "  Sleep 5",
+        "  if (!$keePass.HasExited) {",
+        "    $keePass | Stop-Process -Force",
+        "  }",
+        "}"
+    ],
     "installer": {
         "script": "Copy-Item \"$dir\\KeeTheme*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
     },

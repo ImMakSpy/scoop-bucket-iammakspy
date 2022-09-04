@@ -6,6 +6,16 @@
     "depends": "extras/keepass",
     "url": "https://keepass.info/extensions/v2/keeautoexec/KeeAutoExec-2.5.zip",
     "hash": "b98c3df4a2cc2b64180a543ec8e3a7754d3e5dff78a47ef08c0c38c46384382a",
+    "pre_install": [
+        "$keePass = Get-Process KeePass -ErrorAction SilentlyContinue",
+        "if ($keePass) {",
+        "  $keePass.CloseMainWindow()",
+        "  Sleep 5",
+        "  if (!$keePass.HasExited) {",
+        "    $keePass | Stop-Process -Force",
+        "  }",
+        "}"
+    ],
     "installer": {
         "script": "Copy-Item \"$dir\\KeeAutoExec*\" \"$(appdir keepass $global)\\current\\Plugins\\\""
     },
