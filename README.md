@@ -17,6 +17,7 @@ Remarks will be enhanced later
 | DisplayDriverUninstaller-Portable-ims          |                                                  |
 | drmare-music-converter-ims                     |                                                  |
 | EasyBCD-ims                                    |                                                  |
+| EasyContextMenu-ims                            |                                                  |
 | exiftoolgui-ims                                |                                                  |
 | GitHubDesktop-Portable-ims                     |                                                  |
 | HandyWinGet-ims                                |<sup>1</sup>                                      |
