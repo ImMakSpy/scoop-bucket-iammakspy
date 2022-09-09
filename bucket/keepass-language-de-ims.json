@@ -1,10 +1,10 @@
 {
-    "version": "2.51",
+    "version": "2.52",
     "description": "German Language for Keepass",
     "homepage": "https://keepass.info",
     "license": "GPL-2.0-or-later",
-    "url": "https://downloads.sourceforge.net/keepass/KeePass-2.51-German.zip",
-    "hash": "b57c5474cd0778b8b37cd5465d6e49668c1e6350076301cdae30193c1d703d11",
+    "url": "https://downloads.sourceforge.net/keepass/KeePass-2.52-German.zip",
+    "hash": "27337b96ca828ee641d9cdc4cc28112d38345df70a3523ad5753fa72b19f6493",
     "depends": "extras/keepass",
     "installer": {
         "script": "Copy-Item \"$dir\\German.lngx\" \"$(appdir keepass $global)\\current\\Languages\""
