@@ -7,7 +7,7 @@
         "url": "https://www.pdf24.org/en/terms-of-use"
     },
     "url": "https://stx.pdf24.org/products/pdf-creator/download/pdf24-creator-11.5.0.msi#/setup.msi_",
-    "hash": "58448a3c97cd2b262293efde729ea68f5dd62fc04397575ffe2912a6f6e3255f",
+    "hash": "f11765feb4bb397bce43bc6f29c649991959c2f9af3f8e5b73e5d3ab54c62f39",
     "installer": {
         "script": [
             "# For error codes, see https://docs.microsoft.com/en-us/windows/win32/msi/error-codes",
