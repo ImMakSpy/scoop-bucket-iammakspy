@@ -58,8 +58,7 @@ Remarks will be enhanced later
 | SimpleSudokuextra-puzzles-2-ims                | not available in standard buckets                |
 | SimpleSudokuPortable-ims                       | not available in standard buckets                |
 | WAtomicPortable-ims                            | not available in standard buckets                |
-<sup>1</sup> ... Moved to deprecated, because they don't work as expected
-
+<sup>1</sup> ... Moved to deprecated, because url check (checkurls.ps1) fails
 
 How do I install these manifests?
 ---------------------------------
