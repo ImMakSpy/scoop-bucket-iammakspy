@@ -9,7 +9,7 @@ Remarks will be enhanced later
 | audacity-lame-plugin-ims                       | not available in standard buckets                |
 | chansort-ims                                   | not available in standard buckets                |
 | CloneApp-Portable-ims                          | not available in standard buckets                |
-| CloneAppUA-Portable-ims                        | not available in standard buckets                |
+| CloneAppUA-Portable-ims                        | not available in standard buckets  <sup>1</sup>  |
 | dev-toys-cli-ims                               | not available in standard buckets                |
 | DocFetcher-ims                                 | not available in standard buckets                |
 | drmare-music-converter-ims                     | not available in standard buckets                |
@@ -32,23 +32,23 @@ Remarks will be enhanced later
 | keepass-plugin-PasswordChangeAssistant-ims     | not available in standard buckets                |
 | keepass-plugin-QuickSearch-ims                 | not available in standard buckets                |
 | keepass-plugin-YetAnotherFaviconDownloader-ims | not available in standard buckets                |
-| LibreOffice-np-ims                             | Libre Office msi file <sup>1</sup>            |
-| LibreOffice-np-helppack-de-ims                 | Libre Office German offline help                 |
+| LibreOffice-np-ims                             | Libre Office msi file <sup>1</sup>               |
+| LibreOffice-np-helppack-de-ims                 | Libre Office German offline help <sup>1</sup>    |
 | LibreOffice-Portable-ims                       | Libre Office portable                            |
 | Microsoft-Mouse-Keyboard-Center-np-ims         | not available in standard buckets                |
 | MiniTool-Partition-Wizard-ims                  | not available in standard buckets                |
 | nirlauncher-ims                                | With an improved start menu directory structure  |
 | OpenShellMenu-Install-ims                      | not available in standard buckets                |
 | pathcopycopy-ims                               | not available in standard buckets                |
-| pdf24-np-ims                                   | not available in standard buckets                |
-| personalbackup-ims                             | not available in standard buckets                |
+| pdf24-np-ims                                   | not available in standard buckets <sup>1</sup>   |
+| personalbackup-ims                             | not available in standard buckets <sup>1</sup>   |
 | pestudio-ims                                   | not available in standard buckets                |
 | RegCool-Portable-ims                           | not available in standard buckets                |
 | samsung-magician-ims                           | not available in standard buckets                |
 | sysinternals-ims                               | With an improved start menu directory structure  |
 | tortoisegit-ims                                | not available in standard buckets                |
 | TweakPower-Portable-ims                        | not available in standard buckets                |
-| UltraCopier-ims                                | not available in standard buckets                |
+| UltraCopier-ims                                | not available in standard buckets <sup>1</sup>   |
 | usbtreeview-ims                                | not available in standard buckets                |
 | wfc-ims                                        | not available in standard buckets                |
 | windowserrorlookuptool-ims                     | not available in standard buckets                |
