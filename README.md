@@ -59,6 +59,7 @@ Remarks will be enhanced later
 | SimpleSudokuPortable-ims                       | not available in standard buckets                |
 | WAtomicPortable-ims                            | not available in standard buckets                |
 <sup>1</sup> ... Moved to deprecated, because url check (checkurls.ps1) fails
+<sup>2</sup> ... Moved to deprecated, because version check (checkver.ps1) fails
 
 How do I install these manifests?
 ---------------------------------
