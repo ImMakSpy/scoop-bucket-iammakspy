@@ -5,61 +5,61 @@ Remarks will be enhanced later
 
 | Manifest Name                                  | Remarks                                          |
 | ---------------------------------------------- | ------------------------------------------------ |
-| audacity-ffmpeg-plugin-ims                     | not available in standard buckets                |
-| audacity-lame-plugin-ims                       | not available in standard buckets                |
-| chansort-ims                                   | not available in standard buckets                |
-| CloneApp-Portable-ims                          | not available in standard buckets                |
-| CloneAppUA-Portable-ims                        | not available in standard buckets  <sup>1</sup>  |
-| dev-toys-cli-ims                               | not available in standard buckets                |
-| DocFetcher-ims                                 | not available in standard buckets                |
-| drmare-music-converter-ims                     | not available in standard buckets                |
-| EasyContextMenu-ims                            | not available in standard buckets                |
-| exiftoolgui-ims                                | not available in standard buckets                |
-| HDCleaner-Portable-ims                         | not available in standard buckets                |
-| keepass-language-de-ims                        | not available in standard buckets                |
-| keepass-plugin-KPSourceForgeUpdateChecker-ims  | not available in standard buckets                |
-| keepass-plugin-AutoTypeSearch-ims              | not available in standard buckets                |
-| keepass-plugin-CustomIconDashboarder-ims       | not available in standard buckets                |
-| keepass-plugin-ExeIconPicker-ims               | not available in standard buckets                |
-| keepass-plugin-GlobalSearch-ims                | not available in standard buckets                |
-| keepass-plugin-HIBPOfflineCheck-ims            | not available in standard buckets                |
-| keepass-plugin-KeeAutoExec-ims                 | added, because all other plugins are not available in standard buckets |
-| keepass-plugin-KeePassQRCodeView-ims           | not available in standard buckets                |
-| keepass-plugin-KeePassRPC-ims                  | not available in standard buckets                |
-| keepass-plugin-KeeTheme-ims                    | not available in standard buckets                |
-| keepass-plugin-KPEnhancedEntryView-ims         | not available in standard buckets                |
-| keepass-plugin-KPSimpleBackup-ims              | not available in standard buckets                |
-| keepass-plugin-PasswordChangeAssistant-ims     | not available in standard buckets                |
-| keepass-plugin-QuickSearch-ims                 | not available in standard buckets                |
-| keepass-plugin-YetAnotherFaviconDownloader-ims | not available in standard buckets                |
-| LibreOffice-np-ims                             | Libre Office msi file <sup>1</sup>               |
-| LibreOffice-np-helppack-de-ims                 | Libre Office German offline help <sup>1</sup>    |
+| audacity-ffmpeg-plugin-ims                     | <sup>1</sup>                                     |
+| audacity-lame-plugin-ims                       | <sup>1</sup>                                     |
+| chansort-ims                                   | <sup>1</sup>                                     |
+| CloneApp-Portable-ims                          | <sup>1</sup>                                     |
+| CloneAppUA-Portable-ims                        | <sup>1 2</sup>                                   |
+| dev-toys-cli-ims                               | <sup>1</sup>                                     |
+| DocFetcher-ims                                 | <sup>1</sup>                                     |
+| drmare-music-converter-ims                     | <sup>1 3</sup>                                   |
+| EasyContextMenu-ims                            | <sup>1</sup>                                     |
+| exiftoolgui-ims                                | <sup>1</sup>                                     |
+| HDCleaner-Portable-ims                         | <sup>1</sup>                                     |
+| keepass-language-de-ims                        | <sup>1</sup>                                     |
+| keepass-plugin-KPSourceForgeUpdateChecker-ims  | <sup>1</sup>                                     |
+| keepass-plugin-AutoTypeSearch-ims              | <sup>1</sup>                                     |
+| keepass-plugin-CustomIconDashboarder-ims       | <sup>1</sup>                                     |
+| keepass-plugin-ExeIconPicker-ims               | <sup>1</sup>                                     |
+| keepass-plugin-GlobalSearch-ims                | <sup>1</sup>                                     |
+| keepass-plugin-HIBPOfflineCheck-ims            | <sup>1</sup>                                     |
+| keepass-plugin-KeeAutoExec-ims                 | <sup>1</sup>                                     |
+| keepass-plugin-KeePassQRCodeView-ims           | <sup>1</sup>                                     |
+| keepass-plugin-KeePassRPC-ims                  | <sup>1</sup>                                     |
+| keepass-plugin-KeeTheme-ims                    | <sup>1</sup>                                     |
+| keepass-plugin-KPEnhancedEntryView-ims         | <sup>1</sup>                                     |
+| keepass-plugin-KPSimpleBackup-ims              | <sup>1</sup>                                     |
+| keepass-plugin-PasswordChangeAssistant-ims     | <sup>1</sup>                                     |
+| keepass-plugin-QuickSearch-ims                 | <sup>1</sup>                                     |
+| keepass-plugin-YetAnotherFaviconDownloader-ims | <sup>1</sup>                                     |
+| LibreOffice-np-ims                             | Libre Office msi file <sup>2</sup>               |
+| LibreOffice-np-helppack-de-ims                 | Libre Office German offline help <sup>2</sup>    |
 | LibreOffice-Portable-ims                       | Libre Office portable                            |
-| Microsoft-Mouse-Keyboard-Center-np-ims         | not available in standard buckets                |
-| MiniTool-Partition-Wizard-ims                  | not available in standard buckets                |
+| Microsoft-Mouse-Keyboard-Center-np-ims         | <sup>1</sup>                                     |
+| MiniTool-Partition-Wizard-ims                  | <sup>1</sup>                                     |
 | nirlauncher-ims                                | With an improved start menu directory structure  |
-| OpenShellMenu-Install-ims                      | not available in standard buckets                |
-| pathcopycopy-ims                               | not available in standard buckets                |
-| pdf24-np-ims                                   | not available in standard buckets <sup>1</sup>   |
-| personalbackup-ims                             | not available in standard buckets <sup>1</sup>   |
-| pestudio-ims                                   | not available in standard buckets                |
-| RegCool-Portable-ims                           | not available in standard buckets                |
-| samsung-magician-ims                           | not available in standard buckets                |
+| OpenShellMenu-Install-ims                      | <sup>1</sup>                                     |
+| pathcopycopy-ims                               | <sup>1</sup>                                     |
+| pdf24-np-ims                                   | <sup>1</sup>                                     |
+| personalbackup-ims                             | <sup>1 2</sup>                                   |
+| pestudio-ims                                   | <sup>1</sup>                                     |
+| RegCool-Portable-ims                           | <sup>1</sup>                                     |
+| samsung-magician-ims                           | <sup>1</sup>                                     |
 | sysinternals-ims                               | With an improved start menu directory structure  |
-| tortoisegit-ims                                | not available in standard buckets                |
-| TweakPower-Portable-ims                        | not available in standard buckets                |
-| UltraCopier-ims                                | not available in standard buckets <sup>1</sup>   |
-| usbtreeview-ims                                | not available in standard buckets                |
-| wfc-ims                                        | not available in standard buckets                |
-| windowserrorlookuptool-ims                     | not available in standard buckets                |
-| PokerTHPortable-ims                            | not available in standard buckets                |
-| PushoverPortable-ims                           | not available in standard buckets                |
-| SimpleSudokuextra-puzzles-1-ims                | not available in standard buckets                |
-| SimpleSudokuextra-puzzles-2-ims                | not available in standard buckets                |
-| SimpleSudokuPortable-ims                       | not available in standard buckets                |
-| WAtomicPortable-ims                            | not available in standard buckets                |
-<sup>1</sup> ... Moved to deprecated, because url check (checkurls.ps1) fails
-<sup>2</sup> ... Moved to deprecated, because version check (checkver.ps1) fails
+| tortoisegit-ims                                | <sup>1</sup>                                     |
+| TweakPower-Portable-ims                        | <sup>1</sup>                                     |
+| UltraCopier-ims                                | <sup>1 2</sup>                                   |
+| usbtreeview-ims                                | <sup>1</sup>                                     |
+| wfc-ims                                        | <sup>1</sup>                                     |
+| windowserrorlookuptool-ims                     | <sup>1</sup>                                     |
+| PokerTHPortable-ims                            | <sup>1</sup>                                     |
+| PushoverPortable-ims                           | <sup>1</sup>                                     |
+| SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
+| SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
+| SimpleSudokuPortable-ims                       | <sup>1</sup>                                     |
+| WAtomicPortable-ims                            | <sup>1</sup>                                     |
+<sup>1</sup> ... not available in standard buckets
+<sup>2</sup> ... Moved to deprecated, because url check (checkurls.ps1) fails
 
 How do I install these manifests?
 ---------------------------------
