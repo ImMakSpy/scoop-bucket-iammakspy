@@ -45,6 +45,7 @@ Remarks will be enhanced later
 | pestudio-ims                                   | <sup>1</sup>                                     |
 | RegCool-Portable-ims                           | <sup>1</sup>                                     |
 | samsung-magician-ims                           | <sup>1</sup>                                     |
+| siv-ims                                        | <sup>1</sup>                                     |
 | sysinternals-ims                               | With an improved start menu directory structure  |
 | tortoisegit-ims                                | <sup>1</sup>                                     |
 | TweakPower-Portable-ims                        | <sup>1</sup>                                     |
