@@ -43,9 +43,13 @@ Remarks will be enhanced later
 | pdf24-np-ims                                   | <sup>1</sup>                                     |
 | personalbackup-ims                             | <sup>1 2</sup>                                   |
 | pestudio-ims                                   | <sup>1</sup>                                     |
+| PokerTHPortable-ims                            | <sup>1</sup>                                     |
+| PushoverPortable-ims                           | <sup>1</sup>                                     |
 | RegCool-Portable-ims                           | <sup>1</sup>                                     |
 | samsung-magician-ims                           | <sup>1</sup>                                     |
-| siv-ims                                        | <sup>1</sup>                                     |
+| SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
+| SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
+| SimpleSudokuPortable-ims                       | <sup>1</sup>                                     |
 | sysinternals-ims                               | With an improved start menu directory structure  |
 | tortoisegit-ims                                | <sup>1</sup>                                     |
 | TweakPower-Portable-ims                        | <sup>1</sup>                                     |
@@ -53,13 +57,9 @@ Remarks will be enhanced later
 | usbtreeview-ims                                | <sup>1</sup>                                     |
 | wfc-ims                                        | <sup>1</sup>                                     |
 | windowserrorlookuptool-ims                     | <sup>1</sup>                                     |
-| PokerTHPortable-ims                            | <sup>1</sup>                                     |
-| PushoverPortable-ims                           | <sup>1</sup>                                     |
-| SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
-| SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
-| SimpleSudokuPortable-ims                       | <sup>1</sup>                                     |
 | WAtomicPortable-ims                            | <sup>1</sup>                                     |
-<sup>1</sup> ... not available in standard buckets
+
+<sup>1</sup> ... not available in standard buckets<br>
 <sup>2</sup> ... Moved to deprecated, because url check (checkurls.ps1) fails
 
 How do I install these manifests?
