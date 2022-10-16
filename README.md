@@ -10,7 +10,6 @@ Remarks will be enhanced later
 | chansort-ims                                   | <sup>1</sup>                                     |
 | CloneApp-Portable-ims                          | <sup>1</sup>                                     |
 | CloneAppUA-Portable-ims                        | <sup>1 2</sup>                                   |
-| dev-toys-cli-ims                               | <sup>1</sup>                                     |
 | DocFetcher-ims                                 | <sup>1</sup>                                     |
 | drmare-music-converter-ims                     | <sup>1 3</sup>                                   |
 | EasyContextMenu-ims                            | <sup>1</sup>                                     |
