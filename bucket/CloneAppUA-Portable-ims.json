@@ -1,9 +1,9 @@
 {
     "version": "0.8.1",
     "description": "CloneApp Universal Apps. Backs up All Windows Universal Apps settings.",
-    "homepage": "https://www.builtbybel.com/ua",
+    "homepage": "https://www.getclone.app/ua",
     "license": "Freeware",
-    "url": "https://www.builtbybel.com/ua?task=download.send&id=4&catid=9&m=0/cloneapp_ua.zip",
+    "url": "https://github.com/mirinsoft/CloneApp-UA/releases/download/0.8.1/cloneapp_ua.zip#/cosi.zip",
     "hash": "5321a21536b4317d7a4b26ca6f027ef36d3522f2f14caa9cce314e436c76da81",
     "pre_install": [
         "$file = 'Data\\cloneapp.ini'",
@@ -27,6 +27,6 @@
         "reverse": true
     },
     "autoupdate": {
-        "url": "https://www.builtbybel.com/ua?task=download.send&id=4&catid=9&m=0/cloneapp_ua.zip"
+        "url": "https://github.com/mirinsoft/CloneApp-UA/releases/download/$version/cloneapp_ua.zip#/cosi.zip"
     }
 }
