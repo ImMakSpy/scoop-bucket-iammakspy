@@ -32,7 +32,7 @@
         "tasks"
     ],
     "checkver": {
-        "url": "https://personal-backup.rathlev-home.de",
+        "url": "https://personal-backup.rathlev-home.de/download/rss?path=/",
         "regex": "pb-setup-(?<version>[\\d.]+[\\d])"
     },
     "autoupdate": {
