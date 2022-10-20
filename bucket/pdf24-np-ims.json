@@ -1,16 +1,36 @@
 {
     "version": "11.6.0",
-    "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
-    "homepage": "https://tools.pdf24.org/en/creator/",
+    "homepage": "https://tools.pdf24.org/en/creator",
+    "description": "Free and easy to use PDF software with several functions",
     "license": {
-        "identifier": "Proprietary",
+        "identifier": "Freeware",
         "url": "https://www.pdf24.org/en/terms-of-use"
     },
-    "url": "https://stx.pdf24.org/products/pdf-creator/download/pdf24-creator-11.6.0.msi#/setup.msi_",
-    "hash": "70146f0079b3daee377eaab202bcaf341593084f754b245f6e49b950ef26dca4",
-    "extract_dir": "Program Files\\PDF24",
-    "checkver": "Version\\s+([\\d.]+)",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.pdf24.org/pdf24-creator-11.6.0.msi#/Setup.msi_",
+            "hash": "70146f0079b3daee377eaab202bcaf341593084f754b245f6e49b950ef26dca4"
+        }
+    },
+    "pre_install": [
+        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
+        "Start-Process 'msiexec' -Wait -Verb 'RunAs' -ArgumentList ('/i', \"$dir\\Setup.msi_\", '/qn'); Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'"
+    ],
+    "pre_uninstall": [
+        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
+        "Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'; Start-Process 'msiexec' -Wait -Verb 'RunAs' -ArgumentList ('/x', \"$dir\\Setup.msi_\", '/qn')",
+        "Start-Sleep -Seconds 2"
+    ],
+    "checkver": "Version\\s([\\d.]+)",
     "autoupdate": {
-        "url": "https://stx.pdf24.org/products/pdf-creator/download/pdf24-creator-$version.msi#/setup.msi_"
+        "architecture": {
+            "64bit": {
+                "url": "https://download.pdf24.org/pdf24-creator-$versions.msi#/Setup.msi_",
+                "hash": {
+                    "url": "https://creator.pdf24.org/listVersions.php",
+                    "find": "<td>$sha256</td>"
+                }
+            }
+        }
     }
 }
