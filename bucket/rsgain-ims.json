@@ -5,12 +5,12 @@
     "license": "freeware",
     "url": "https://github.com/complexlogic/rsgain/releases/download/v3.0.1/rsgain-3.0.1-win64.zip",
     "hash": "8ef86ff4494dd73017a0d2f73a97a17e4ec06da4d05659ea7288628208e60e0a",
-    "extract_dir": "rsgain-3.0.1",
+    "extract_dir": "rsgain-3.0.1\\rsgain-3.0.1-win64",
     "checkver": {
         "github": "https://github.com/complexlogic/rsgain"
     },
     "autoupdate": {
         "url": "https://github.com/complexlogic/rsgain/releases/download/v$version/rsgain-$version-win64.zip",
-        "extract_dir": "rsgain-$version"
+        "extract_dir": "rsgain-$version\\rsgain-$version-win64"
     }
 }
