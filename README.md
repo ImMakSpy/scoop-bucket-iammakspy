@@ -45,6 +45,7 @@ Remarks will be enhanced later
 | PokerTHPortable-ims                            | <sup>1</sup>                                     |
 | PushoverPortable-ims                           | <sup>1</sup>                                     |
 | RegCool-Portable-ims                           | <sup>1</sup>                                     |
+| rsgain-ims                                     | <sup>1</sup>                                     |
 | samsung-magician-ims                           | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
