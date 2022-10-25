@@ -1,5 +1,5 @@
 {
-    "version": "3.01",
+    "version": "3.0.1",
     "description": "rsgain (really simple gain) is a ReplayGain 2.0 tagging utility for Windows, macOS, and Linux.",
     "homepage": "https://github.com/complexlogic/rsgain",
     "license": "freeware",
