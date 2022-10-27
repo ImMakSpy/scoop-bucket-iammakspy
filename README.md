@@ -15,6 +15,8 @@ Remarks will be enhanced later
 | EasyContextMenu-ims                            | <sup>1</sup>                                     |
 | exiftoolgui-ims                                | <sup>1</sup>                                     |
 | HDCleaner-Portable-ims                         | <sup>1</sup>                                     |
+| h2-ims.json                                    | <sup>1</sup>                                     |
+| hsqldb-ims.json                                | <sup>1</sup>                                     |
 | keepass-language-de-ims                        | <sup>1</sup>                                     |
 | keepass-plugin-KPSourceForgeUpdateChecker-ims  | <sup>1</sup>                                     |
 | keepass-plugin-AutoTypeSearch-ims              | <sup>1</sup>                                     |
