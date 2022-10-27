@@ -50,6 +50,7 @@ Remarks will be enhanced later
 | SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
 | SimpleSudokuPortable-ims                       | <sup>1</sup>                                     |
+| Sizer-ims                                      | <sup>1</sup>                                     |
 | sysinternals-ims                               | With an improved start menu directory structure  |
 | tortoisegit-ims                                | <sup>1</sup>                                     |
 | TweakPower-Portable-ims                        | <sup>1</sup>                                     |
