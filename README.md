@@ -60,6 +60,7 @@ Remarks will be enhanced later
 | usbtreeview-ims                                | <sup>1</sup>                                     |
 | wfc-ims                                        | <sup>1</sup>                                     |
 | windowserrorlookuptool-ims                     | <sup>1</sup>                                     |
+| WinSetView-ims                                 | <sup>1</sup>                                     |
 | WAtomicPortable-ims                            | <sup>1</sup>                                     |
 
 <sup>1</sup> ... not available in standard buckets<br>
