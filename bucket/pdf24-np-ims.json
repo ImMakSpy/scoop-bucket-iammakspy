@@ -8,24 +8,29 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.pdf24.org/pdf24-creator-11.7.0s.msi#/Setup.msi_",
+            "url": "https://download.pdf24.org/pdf24-creator-11.7.0.msi#/setup.msi_",
             "hash": "54ddece0085bd57501fade33746341ca4fe8a459ddc633508c1dad7355ef75ae"
         }
     },
     "pre_install": [
-        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
-        "Start-Process 'msiexec' -Wait -Verb 'RunAs' -ArgumentList ('/i', \"$dir\\Setup.msi_\", '/qn'); Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'"
+        "if (!(is_admin)) {error \"$app requires admin rights to $cmd\"; break}",
+        "Write-Host \"Please wait and don't cancel the script...\" -F 'Yellow'",
+        "Start-Process 'msiexec' -Wait -Verb 'RunAs' -WindowStyle 'Hidden' -ArgumentList @('/i', \"$dir\\setup.msi_\", '/qn', \"INSTALLDIR=$dir\", \"TARGETDIR=$dir\")",
+        "Stop-Service -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'; Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'",
+        "Stop-Process -Name 'explorer' -Force -ErrorAction 'SilentlyContinue'; Start-Sleep -Seconds 3"
     ],
     "pre_uninstall": [
-        "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
-        "Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'; Start-Process 'msiexec' -Wait -Verb 'RunAs' -ArgumentList ('/x', \"$dir\\Setup.msi_\", '/qn')",
-        "Start-Sleep -Seconds 2"
+        "if (!(is_admin)) {error \"$app requires admin rights to $cmd\"; break}",
+        "Stop-Service -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'; Stop-Process -Name 'pdf24' -Force -ErrorAction 'SilentlyContinue'",
+        "Write-Host \"Please wait and don't cancel the script...\" -F 'Yellow'",
+        "Start-Process 'msiexec' -Wait -Verb 'RunAs' -WindowStyle 'Hidden' -ArgumentList @('/x', \"$dir\\setup.msi_\", '/qn')",
+        "Stop-Process -Name 'explorer' -Force -ErrorAction 'SilentlyContinue'; Start-Sleep -Seconds 3"
     ],
     "checkver": "Version\\s([\\d.]+)",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download.pdf24.org/pdf24-creator-$versions.msi#/Setup.msi_",
+                "url": "https://download.pdf24.org/pdf24-creator-$version.msi#/setup.msi_",
                 "hash": {
                     "url": "https://creator.pdf24.org/listVersions.php",
                     "find": "<td>$sha256</td>"
