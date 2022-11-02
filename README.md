@@ -14,6 +14,7 @@ Remarks will be enhanced later
 | drmare-music-converter-ims                     | <sup>1 3</sup>                                   |
 | EasyContextMenu-ims                            | <sup>1</sup>                                     |
 | exiftoolgui-ims                                | <sup>1</sup>                                     |
+| Heise-Register-ims                             | <sup>1</sup>                                     |
 | HDCleaner-Portable-ims                         | <sup>1</sup>                                     |
 | h2-ims.json                                    | <sup>1</sup>                                     |
 | hsqldb-ims.json                                | <sup>1</sup>                                     |
