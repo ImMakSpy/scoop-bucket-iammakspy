@@ -5,9 +5,10 @@
     "license": "MIT",
     "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/2.44.zip",
     "hash": "541e149c5aa78585b808ba271c3a1022bd607e667e7529e2e49ad033ffb8496e",
-    "extract_to": "",
+    "extract_dir": "WinSetView-2.44",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/$version.zip"
+        "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/$version.zip",
+        "extract_dir": "WinSetView-$version"
     }
 }
