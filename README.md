@@ -11,6 +11,7 @@ Remarks will be enhanced later
 | CloneApp-Portable-ims                          | <sup>1</sup>                                     |
 | CloneAppUA-Portable-ims                        | <sup>1 2</sup>                                   |
 | DocFetcher-ims                                 | <sup>1</sup>                                     |
+| Duplicati-ims                                  | <sup>1</sup>                                     |
 | drmare-music-converter-ims                     | <sup>1 3</sup>                                   |
 | EasyContextMenu-ims                            | <sup>1</sup>                                     |
 | exiftoolgui-ims                                | <sup>1</sup>                                     |
