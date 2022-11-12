@@ -1,11 +1,11 @@
 {
-    "version": "3.6.2-42517",
+    "version": "3.7-42601",
     "description": "Updated builds of the VICE emulator",
     "homepage": "https://github.com/Zibri/VICE",
     "license": "GPL-2.0",
-    "url": "https://github.com/Zibri/VICE/releases/download/r42517/GTK3VICE-3.6.2-dev-win64-r42517.7z",
-    "hash": "4f1df54b34ef05997daa03b017ba0a96c3fe337f3e00fcd8a8f1f2c8c629b437",
-    "extract_dir": "GTK3VICE-3.6.2-dev-win64-r42517",
+    "url": "https://github.com/Zibri/VICE/releases/download/r42601/GTK3VICE-3.7-dev-win64-r42601.7z",
+    "hash": "b9d815934783ddabaeba9c68d9cac5fb01a95daa6fe81601a55c7f40131edbc0",
+    "extract_dir": "GTK3VICE-3.7-dev-win64-r42601",
     "bin": [
         "bin\\c1541.exe",
         "bin\\cartconv.exe",
