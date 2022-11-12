@@ -13,7 +13,7 @@
     ],
     "checkver": {
         "url": "https://www.withopf.com/tools/register/?path=/",
-        "regex": "register-x64-([\\d]{1,})\\-x64.zip"
+        "regex": "register-([\\d]{1,})\\-x64.zip"
     },
     "autoupdate": {
         "url": "https://www.withopf.com/tools/register/register-$majorVersion$minorVersion-x64.zip"

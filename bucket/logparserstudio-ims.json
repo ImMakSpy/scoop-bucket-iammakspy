@@ -1,12 +1,33 @@
-
 {
-    "url": "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
     "version": "2.02",
+    "description": "Log Parser Studio",
+    "homepage": "https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/log-parser-studio/ba-p/333247",
+    "license": "Freeware",
+    "url": "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
+    "hash": "96cf56e68b11d781539ceb29abcd695ce5f509dc60158eead61e096a14d237f1",
     "bin": [
-        ["LPSv2.D1\\lps.exe", "lps", ""],
-        ["LPSv2.D1\\lps.exe", "LogParserStudio", ""]
+        [
+            "LPSv2.D1\\lps.exe",
+            "lps",
+            ""
+        ],
+        [
+            "LPSv2.D1\\lps.exe",
+            "LogParserStudio",
+            ""
+        ]
     ],
     "shortcuts": [
-        ["LPSv2.D1\\lps.exe", "Log Parser Studio"]
-    ]
+        [
+            "LPSv2.D1\\lps.exe",
+            "Log Parser Studio"
+        ]
+    ],
+    "checkver": {
+        "url": "https://gallery.technet.microsoft.com/?path=/",
+        "regex": "Log-Parser-Studio-.*\/file\/.*\/LPSV.*.zip"
+    },
+    "autoupdate": {
+        "url": "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV$majorVersion.D$minorVersion.zip"
+    }
 }
