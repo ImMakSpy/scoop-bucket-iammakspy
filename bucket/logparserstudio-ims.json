@@ -4,7 +4,7 @@
     "homepage": "https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/log-parser-studio/ba-p/333247",
     "license": "Freeware",
     "url": "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
-    "hash": "96cf56e68b11d781539ceb29abcd695ce5f509dc60158eead61e096a14d237f1",
+    "hash": "31137d52ba02a629bb0343c9d0685ad9268ffd1afa5c2667f5d94b68254d3da8",
     "bin": [
         [
             "LPSv2.D1\\lps.exe",
