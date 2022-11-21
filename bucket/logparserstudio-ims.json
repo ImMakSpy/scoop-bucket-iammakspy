@@ -5,21 +5,11 @@
     "license": "Freeware",
     "url": "https://web.archive.org/web/20200319100930/https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
     "hash": "043368a99a6da3790df8da9482c98a9c57cc4ef3f97d32a6723532ac460805b9",
-    "bin": [
-        [
-            "LPSv2.D1\\lps.exe",
-            "lps",
-            ""
-        ],
-        [
-            "LPSv2.D1\\lps.exe",
-            "LogParserStudio",
-            ""
-        ]
-    ],
+    "extract_dir": "LPSv2.D1",
+    "bin": "lps.exe",
     "shortcuts": [
         [
-            "LPSv2.D1\\lps.exe",
+            "lps.exe",
             "Log Parser Studio"
         ]
     ],
