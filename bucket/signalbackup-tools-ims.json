@@ -10,6 +10,12 @@
         }
     },
     "bin": "signalbackup-tools.exe",
+    "shortcuts": [
+        [
+            "signalbackup-tools.exe",
+            "Signal Backup Tools"
+        ],
+    ],
     "checkver": {
         "url": "https://github.com/bepaald/signalbackup-tools/releases/latest",
         "regex": "/releases/tag/([^/]+?)\""

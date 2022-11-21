@@ -22,6 +22,60 @@
         "bin\\xscpu64.exe",
         "bin\\xvic.exe"
     ],
+    "shortcuts": [
+        [
+            "bin\\c1541.exe",
+            "Vice\\C1541 (cmd)"
+        ],
+        [
+            "bin\\petcat.exe",
+            "Vice\\patcat (cmd)"
+        ],
+        [
+            "bin\\vsid.exe",
+            "Vice\\Vice (VSID)"
+        ],
+        [
+            "bin\\x64.exe",
+            "Vice\\Vice (C64)"
+        ],
+        [
+            "bin\\x64dtv.exe",
+            "Vice\\Vice (C64DTV)"
+        ],
+        [
+            "bin\\x64sc.exe",
+            "Vice\\Vice (C64SC)"
+        ],
+        [
+            "bin\\x128.exe",
+            "Vice\\Vice (C128)"
+        ],
+        [
+            "bin\\xcbm2.exe",
+            "Vice\\Vice (CBM-II)"
+        ],
+        [
+            "bin\\xcbm5x0.exe",
+            "Vice\\Vice (CBM-II-5x0)"
+        ],
+        [
+            "bin\\xpet.exe",
+            "Vice\\Vice (PET)"
+        ],
+        [
+            "bin\\xplus4.exe",
+            "Vice\\Vice (PLUS4)"
+        ],
+        [
+            "bin\\xscpu64.exe",
+            "Vice\\Vice (SCPU64)"
+        ],
+        [
+            "bin\\xvic.exe",
+            "Vice\\Vice (VIC20)"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/Zibri/VICE",
         "regex": "GTK3VICE-(?<release>[\\d.]+)-dev-win64-r(?<build>[\\d]+).7z",
