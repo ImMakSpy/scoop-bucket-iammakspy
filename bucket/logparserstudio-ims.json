@@ -3,7 +3,7 @@
     "description": "Log Parser Studio",
     "homepage": "https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/log-parser-studio/ba-p/333247",
     "license": "Freeware",
-    "url": "https://web.archive.org/web/20200319100930/https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
+    "url": "https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/Exchange/16744/1/LPSV2.D2.zip",
     "hash": "043368a99a6da3790df8da9482c98a9c57cc4ef3f97d32a6723532ac460805b9",
     "extract_dir": "LPSv2.D1",
     "bin": "lps.exe",
@@ -18,6 +18,6 @@
         "regex": "Log-Parser-Studio-.*\/file\/.*\/LPSV.*.zip"
     },
     "autoupdate": {
-        "url": "https://web.archive.org/web/20200319100930/https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV$majorVersion.D$minorVersion.zip"
+        "url": "https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/Exchange/16744/1/LPSV$majorVersion.D$minorVersion.zip"
     }
 }
