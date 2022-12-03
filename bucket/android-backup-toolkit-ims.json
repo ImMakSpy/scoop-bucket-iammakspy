@@ -4,7 +4,7 @@
     "homepage": "https://sourceforge.net/projects/android-backup-toolkit/",
     "license": "BSD License, Public Domain, MIT License, Apache License V2.0, GNU General Public License version 3.0 (GPLv3)",
     "url": "https://sourceforge.net/projects/android-backup-toolkit/files/android-backup-tookit-20221201.zip",
-    "hash": "c388b4867cc9c88d2689c6857bd99d9ef771df9ad71822927626d3079cfe6bac",
+    "hash": "d284e06a3bc419cc2c35937cdf219a01f8fc2a789400aa2bf649506470c61967",
     "extract_dir": "android-backup-tookit",
     "checkver": {
         "url": "https://sourceforge.net/projects/android-backup-toolkit/files/rss?path=/",
