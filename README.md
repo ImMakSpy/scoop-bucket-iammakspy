@@ -34,6 +34,7 @@ Remarks will be enhanced later
 | keepass-plugin-KPSimpleBackup-ims              | <sup>1</sup>                                     |
 | keepass-plugin-PasswordChangeAssistant-ims     | <sup>1</sup>                                     |
 | keepass-plugin-QuickSearch-ims                 | <sup>1</sup>                                     |
+| keepass-plugin-WebAutoType-ims                 | <sup>1</sup>                                     |
 | keepass-plugin-YetAnotherFaviconDownloader-ims | <sup>1</sup>                                     |
 | LibreOffice-np-ims                             | Libre Office msi file <sup>2</sup>               |
 | LibreOffice-np-helppack-de-ims                 | Libre Office German offline help <sup>2</sup>    |
