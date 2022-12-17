@@ -1,7 +1,7 @@
 {
     "version": "6.3.0001",
-    "description": "Personal Backup. simple backup solution",
-    "homepage": "https://personal-backup.rathlev-home.de/",
+    "description": "Personal Backup is a program for saving personal data to any destination folder.",
+    "homepage": "https://personal-backup.rathlev-home.de/index-e.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://personal-backup.rathlev-home.de/license.html"
@@ -9,7 +9,7 @@
     "architecture": {
         "32bit": {
             "url": "https://personal-backup.rathlev-home.de/download/pb-setup-6.3.0001.exe",
-            "hash": "fc7d2cd19e81fb979fcac4651e87b5b70f29e71e5eaa5aef8f4a8e21610baad8"
+            "hash": "d5b10be3127e6a3e0f3991a51c4f0002b9d70a61ddd49a245401a5232da6a6a1"
         },
         "64bit": {
             "url": "https://personal-backup.rathlev-home.de/download/pb-setup-x64-6.3.0001.exe",
@@ -32,16 +32,24 @@
         "tasks"
     ],
     "checkver": {
-        "url": "https://personal-backup.rathlev-home.de/download.html",
-        "regex": "pb-setup-(?<version>[\\d.]+[\\d])"
+        "url": "https://personal-backup.rathlev-home.de/download-e.html",
+        "regex": "pb-setup-(?<version>[\\d.]+[\\d]).exe"
     },
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://personal-backup.rathlev-home.de/download/pb-setup-$version.exe"
+                "url": "https://personal-backup.rathlev-home.de/download/pb-setup-$version.exe",
+                "hash": {
+                    "url": "https://personal-backup.rathlev-home.de/download-e.html",
+                    "find": "(?sm)pb-setup-$version.exe.sig.+<br>SHA256: ($sha256)</p>"
+                }
             },
             "64bit": {
-                "url": "https://personal-backup.rathlev-home.de/download/pb-setup-x64-$version.exe"
+                "url": "https://personal-backup.rathlev-home.de/download/pb-setup-x64-$version.exe",
+                "hash": {
+                    "url": "https://personal-backup.rathlev-home.de/download-e.html",
+                    "find": "(?sm)pb-setup-x64-$version.exe.sig.+<br>SHA256: ($sha256)</p>"
+                }
             }
         }
     }
