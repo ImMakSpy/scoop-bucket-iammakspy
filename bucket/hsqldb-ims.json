@@ -17,5 +17,8 @@
     "checkver": {
         "url": "https://sourceforge.net/projects/hsqldb/rss?path=/hsqldb",
         "regex": "hsqldb-([\\d.]+)\\.zip"
+    },
+    "autoupdate": {
+        "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_$majorVersion_$minorVersion/hsqldb-v$version.zip"
     }
 }
