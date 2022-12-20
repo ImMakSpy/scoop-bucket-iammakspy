@@ -13,10 +13,7 @@
     "uninstaller": {
         "script": "Remove-Item \"$(appdir keepass $global)\\current\\Plugins\\KPSimpleBackup.plgx\""
     },
-    "checkver": {
-        "url": "https://github.com/marvinweber/KPSimpleBackup/rss?path=/",
-        "regex": "KPSimpleBackup-v([\\d.]+)\\.zip"
-    },
+    "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/marvinweber/KPSimpleBackup/releases/download/v$version/KPSimpleBackup-v$version.zip"
     }
