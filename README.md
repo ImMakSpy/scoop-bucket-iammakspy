@@ -9,7 +9,6 @@ Remarks will be enhanced later
 | android-backup-extractor-ims                   | <sup>1</sup>                                     |
 | android-backup-toolkit-ims                     | <sup>1</sup>                                     |
 | audacity-ffmpeg-plugin-ims                     | <sup>1</sup>                                     |
-| audacity-lame-plugin-ims                       | <sup>1</sup>                                     |
 | chansort-ims                                   | <sup>1</sup>                                     |
 | CloneApp-Portable-ims                          | <sup>1</sup>                                     |
 | CloneAppUA-Portable-ims                        | <sup>1</sup>                                     |
