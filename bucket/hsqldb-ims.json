@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "java/openjdk"
     },
-    "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_2_7/hsqldb-2.7.0.zip",
+    "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_2_7/hsqldb-2.7.0.zip/download",
     "hash": "md5:cdd93429ab7bb5c3e8d4496fd513b1b8",
     "extract_dir": "hsqldb-2.7.0\\hsqldb",
     "bin": [
@@ -19,6 +19,6 @@
         "regex": "hsqldb-([\\d.]+)\\.zip"
     },
     "autoupdate": {
-        "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_$majorVersion_$minorVersion/hsqldb-v$version.zip"
+        "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_$majorVersion_$minorVersion/hsqldb-v$version.zip/download"
     }
 }
