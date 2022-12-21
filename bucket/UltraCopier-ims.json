@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86_64-2.2.6.1-setup.exe#/dl.7z"
+                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/$version/ultracopier-windows-x86_64-$version-setup.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/2.2.6.1/ultracopier-windows-x86-2.2.6.1-setup.exe#/dl.7z"
+                "url": "https://cdn.confiared.com/ultracopier.first-world.info/files/$version/ultracopier-windows-x86-$version-setup.exe#/dl.7z"
             }
         }
     }

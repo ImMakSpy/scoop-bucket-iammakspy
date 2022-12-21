@@ -17,6 +17,6 @@
         "regex": "WebAutoType-v([\\d.]+)\\.zip"
     },
     "autoupdate": {
-        "url": "https://sourceforge.net/projects/webautotype/files/v6.8.2/WebAutoType-v$version.zip"
+        "url": "https://sourceforge.net/projects/webautotype/files/v$version/WebAutoType-v$version.zip"
     }
 }

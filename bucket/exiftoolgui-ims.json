@@ -17,6 +17,6 @@
         "regex": "exiftoolgui([\\d]+).zip"
     },
     "autoupdate": {
-        "url": "https://exiftool.org/gui/exiftoolgui516.zip"
+        "url": "https://exiftool.org/gui/exiftoolgui$majorVersion$minorVersion.zip"
     }
 }
