@@ -5,6 +5,9 @@
     "license": "Microsoft Public License",
     "url": "https://github.com/camalot/droidexplorer/releases/download/v0.9.0.4/DroidExplorer.0.9.0.4.x64.Setup.zip",
     "hash": "ded396330b714ed2e146a4c8ad56684e5e1a12651070dd3e980ff7d6e15a74b7",
+    "installer": {
+        "script": "Invoke-ExternalCommand \"$dir\\DroidExplorer.$version.x64x.exe\" | Out-Null"
+    },
     "checkver": {
         "url": "https://github.com/camalot/droidexplorer/releases",
         "re": "https://github.com/camalot/droidexplorer/releases.*DroidExplorer([\\d.-]+)"
