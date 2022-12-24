@@ -1,10 +1,10 @@
 {
-    "version": "20221201",
+    "version": "20221220",
     "description": "Collection of several utilities to work with android backups",
     "homepage": "https://sourceforge.net/projects/android-backup-toolkit/",
     "license": "BSD License, Public Domain, MIT License, Apache License V2.0, GNU General Public License version 3.0 (GPLv3)",
-    "url": "https://sourceforge.net/projects/android-backup-toolkit/files/android-backup-tookit-20221201.zip",
-    "hash": "d284e06a3bc419cc2c35937cdf219a01f8fc2a789400aa2bf649506470c61967",
+    "url": "https://sourceforge.net/projects/android-backup-toolkit/files/android-backup-tookit-20221220.zip",
+    "hash": "sha1:8a4375ad64ad3ddd66c24214ddd3fcec9843a328",
     "extract_dir": "android-backup-tookit",
     "checkver": {
         "url": "https://sourceforge.net/projects/android-backup-toolkit/files/rss?path=/",
