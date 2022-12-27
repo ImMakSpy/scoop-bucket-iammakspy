@@ -14,7 +14,6 @@ Remarks will be enhanced later
 | CloneAppUA-Portable-ims                        | <sup>1</sup>                                     |
 | DocFetcher-ims                                 | <sup>1</sup>                                     |
 | drmare-music-converter-ims                     | <sup>1</sup>                                     |
-| DroidExplorer-ims                              | <sup>1</sup>                                     |
 | Duplicati-ims                                  | <sup>1</sup>                                     |
 | EasyContextMenu-ims                            | <sup>1</sup>                                     |
 | errorlookup-ims                                | <sup>1</sup>                                     |
