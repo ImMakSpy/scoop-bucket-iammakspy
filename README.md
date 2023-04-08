@@ -45,7 +45,7 @@ Remarks will be enhanced later
 | logparserstudio-ims                            | <sup>1</sup>                                     |
 | Microsoft-Mouse-Keyboard-Center-np-ims         | <sup>1</sup>                                     |
 | MiniTool-Partition-Wizard-ims                  | <sup>1</sup>                                     |
-| nirlauncher-ims                                | With an improved start menu directory structure  |
+| nirlauncher-ims                                | <sup>2</sup>                                     |
 | OpenShellMenu-Install-ims                      | <sup>1</sup>                                     |
 | pathcopycopy-ims                               | <sup>1</sup>                                     |
 | pdf24-np-ims                                   | <sup>1</sup>                                     |
@@ -61,20 +61,22 @@ Remarks will be enhanced later
 | SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
 | Sizer-ims                                      | <sup>1</sup>                                     |
-| sysinternals-ims                               | With an improved start menu directory structure  |
+| sysinternals-ims                               | <sup>2</sup>                                     |
 | textpad-ims                                    | <sup>1</sup>                                     |
 | TweakPower-Portable-ims                        | <sup>1</sup>                                     |
-| UltraCopier-ims                                | <sup>1</sup>                                   |
+| UltraCopier-ims                                | <sup>1</sup>                                     |
 | usbtreeview-ims                                | <sup>1</sup>                                     |
 | veracrypt-np-ims                               | <sup>1</sup>                                     |
 | vice-ims                                       | <sup>1</sup>                                     |
 | WAtomic-ims                                    | <sup>1</sup>                                     |
-| wfc-ims                                        | <sup>1</sup>                                     |
+| wfc-ims                                        | <sup>3</sup>                                     |
 | windowserrorlookuptool-ims                     | <sup>1</sup>                                     |
 | WinSetView-ims                                 | <sup>1</sup>                                     |
 
 <sup>1</sup> ... not available in standard buckets<br>
-Some, but not all KeePass plugins, also exist in standard buckets
+Some, but not all KeePass plugins, also exist in standard buckets<br>
+<sup>2</sup> ... with an improved start menu directory structure<br>
+<sup>3</sup> ... moved to deprecated, because not used anymore<br>
 
 How do I install these manifests?
 ---------------------------------
