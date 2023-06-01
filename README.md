@@ -44,7 +44,6 @@ Remarks will be enhanced later
 | LibreOffice-Portable-ims                       | <sup>1</sup>                                     |
 | logparserstudio-ims                            | <sup>1</sup>                                     |
 | Microsoft-Mouse-Keyboard-Center-np-ims         | <sup>1</sup>                                     |
-| MiniTool-Partition-Wizard-ims                  | <sup>1</sup>                                     |
 | nirlauncher-ims                                | <sup>2</sup>                                     |
 | OpenShellMenu-Install-ims                      | <sup>1</sup>                                     |
 | pathcopycopy-ims                               | <sup>1</sup>                                     |
