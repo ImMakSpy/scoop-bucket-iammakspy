@@ -55,6 +55,7 @@ Remarks will be enhanced later
 | rmaa-ims                                       | <sup>1</sup>                                     |
 | rsgain-ims                                     | <sup>1</sup>                                     |
 | samsung-magician-ims                           | <sup>1</sup>                                     |
+| sIdentityDesktop-np-ims                        | <sup>1</sup>                                     |
 | SimpleSudoku-ims                               | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-1-ims                | <sup>1</sup>                                     |
 | SimpleSudokuextra-puzzles-2-ims                | <sup>1</sup>                                     |
