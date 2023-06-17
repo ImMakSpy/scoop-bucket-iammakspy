@@ -47,7 +47,7 @@ Remarks will be enhanced later
 | OpenShellMenu-Install-ims                      | <sup>1</sup>                                     |
 | pathcopycopy-ims                               | <sup>1</sup>                                     |
 | pdf24-np-ims                                   | <sup>1</sup>                                     |
-| personalbackup-ims                             | <sup>1</sup>                                     |
+| personalbackup-np-ims                          | <sup>1</sup>                                     |
 | pestudio-ims                                   | <sup>1</sup>                                     |
 | PokerTH-ims                                    | <sup>1</sup>                                     |
 | PushoverPortable-ims                           | <sup>1</sup>                                     |
