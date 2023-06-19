@@ -8,6 +8,7 @@ Remarks will be enhanced later
 | AmazonMusic-UserInstall-ims                    | <sup>1</sup>                                     |
 | android-backup-extractor-ims                   | <sup>1</sup>                                     |
 | android-backup-toolkit-ims                     | <sup>1</sup>                                     |
+| attribute-changer-np-ims                       | <sup>1</sup>                                     |
 | chansort-ims                                   | <sup>1</sup>                                     |
 | CloneApp-Portable-ims                          | <sup>1</sup>                                     |
 | CloneAppUA-Portable-ims                        | <sup>1</sup>                                     |
