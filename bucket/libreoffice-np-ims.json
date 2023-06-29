@@ -1,10 +1,10 @@
 {
-    "version": "7.5.3.2",
+    "version": "7.5.4.2",
     "description": "Powerful and free office suite, a successor to OpenOffice(.org).",
     "homepage": "https://libreoffice.org/",
     "license": "MPL-2.0",
-    "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.5.3.2/win/x86_64/LibreOffice_7.5.3.2_Win_x86-64.msi#/setup.msi_",
-    "hash": "2938625be6a488a62d9f25c5c4a67a076c7de35cb983619870aa7f46bb436ead",
+    "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.5.4.2/win/x86_64/LibreOffice_7.5.4.2_Win_x86-64.msi#/setup.msi_",
+    "hash": "efca7b819427f709960437dc4f0c603d1a4f928493836781929f5472b376b864",
     "##": "LibreOffice installation including saving jump lists before and restoring jump lists after the installations, to avoid re-creation of LibreOffice icons in the taskbar.",
     "installer": {
         "script": [
@@ -27,9 +27,7 @@
         "7z a -t7z $backupPath\\CustomDestinations.7z $jumpListPath\\CustomDestinations\\*.* | Out-Null"
     ],
     "uninstaller": {
-        "script": [
-            "Start-Process 'msiexec' -ArgumentList @('/x', \"$dir\\setup.msi_\", '/qn', '/norestart') -Wait -Verb 'RunAs'"
-        ]
+        "script": "Start-Process 'msiexec' -ArgumentList @('/x', \"$dir\\setup.msi_\", '/qn', '/norestart') -Wait -Verb 'RunAs'"
     },
     "checkver": {
         "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/latest/win/x86_64/",
