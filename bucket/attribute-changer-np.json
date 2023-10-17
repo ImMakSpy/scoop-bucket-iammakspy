@@ -28,7 +28,12 @@
         "Stop-Process -Name 'dllhost' -ErrorAction 'SilentlyContinue' -Force; Start-Sleep -Seconds 2"
     ],
     "uninstaller": {
-        "script": "Start-Process \"$env:ProgramFiles\\Attribute Changer\\unins000.exe\" -ArgumentList ('/verysilent', '/suppressmsgboxes', '/norestart') -Wait -Verb RunAs"
+        "file": "unins000.exe",
+        "args": [
+            "/verysilent",
+            "/suppressmsgboxes",
+            "/norestart"
+        ]
     },
     "checkver": {
         "url": "https://www.petges.lu/download/",
@@ -43,4 +48,3 @@
         }
     }
 }
-
