@@ -7,15 +7,14 @@
         "url": "https://www.fjsoft.at/en/Imprint/index.html"
     },
     "url": "https://www.fjsoft.at/files/MyPhoneExplorer_Setup_2.1.exe#/setup.exe",
-    "hash": "cb63baeed73897688d298455ad6e9395ed4b40fa1086729bb09fea673b92aea8",
+    "hash": "dd7cbf4a6c999e96d0338a1be1ee48f920accd43ad6d9dce1da12c2d458e17c3",
     "pre_install": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "installer": {
         "args": "/S"
     },
     "pre_uninstall": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "uninstaller": {
-        "file": "uninstall.exe",
-        "args": "/S"
+        "script": "Start-Process \"$env:ProgramFiles (x86)\\MyPhoneExplorer\\uninstall.exe\" -ArgumentList '/S' -Wait"
     },
     "checkver": "<br>Version\\s([\\d.]+)</td>",
     "autoupdate": {
