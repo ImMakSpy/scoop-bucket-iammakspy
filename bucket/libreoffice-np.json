@@ -21,10 +21,10 @@
         "$jumpListPathCustomDestinations = \"$env:AppData\\Microsoft\\Windows\\Recent\\CustomDestinations\"",
         "$backupPath = $env:temp",
         "if (Test-Path $backupPath\\AutomaticDestinations.7z) {",
-        "  7z x -y $backupPath\\AutomaticDestinations.7z -o$jumpListPathAutomaticDestinations | Out-Null",
+        "  7z x -y $backupPath\\AutomaticDestinations.7z -o\"$jumpListPathAutomaticDestinations\" | Out-Null",
         "}",
         "if (Test-Path $backupPath\\CustomDestinations.7z) {",
-        "  7z x -y $backupPath\\CustomDestinations.7z -o$jumpListPathCustomDestinations | Out-Null",
+        "  7z x -y $backupPath\\CustomDestinations.7z -o\"$jumpListPathCustomDestinations\" | Out-Null",
         "}"
     ],
     "pre_uninstall": [
