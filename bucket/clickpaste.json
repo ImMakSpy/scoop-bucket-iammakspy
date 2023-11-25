@@ -5,7 +5,8 @@
   "license": "BSD-3-Clause license",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Collective-Software/ClickPaste/releases/download/v1.0.1/ClickPaste_v1.0.1.zip"
+      "url": "https://github.com/Collective-Software/ClickPaste/releases/download/v1.0.1/ClickPaste_v1.0.1.zip",
+      "hash": "c6946857fc733cff1417dea2eeb46d3ccd03cfde462da3d3830acb40b3335568"
     }
   },
   "bin": "ClickPaste.exe",
