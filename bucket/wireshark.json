@@ -1,0 +1,64 @@
+{
+    "version": "4.2.0",
+    "description": "A network protocol analyzer that lets you see what’s happening on your network at a microscopic level.",
+    "homepage": "https://www.wireshark.org/",
+    "license": "GPL-2.0-or-later",
+    "notes": [
+        "Wireshark requires the installation of Npcap. Do it manually from the 'wireshark' directory.",
+        "$dir\\npcap-installer.exe",
+        "",
+        "You can also install USBPcap from the 'wireshark' directory if you need the USB packets capture funcionality.",
+        "$dir\\USBPcapSetup-installer.exe"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://www.wireshark.org/download/win64/Wireshark-4.2.0-x64.exe#/dl.7z",
+            "hash": "a68a8298662af5cc4bb4a454c66f49d0bcc0bacfd16e00e818b4c77ae8281c26"
+        }
+    },
+    "installer": {
+        "script": [
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\vc_redist*\", \"$dir\\uninstall-wireshark.exe\" -Recurse",
+            "Get-ChildItem \"$dir\\npcap-*.exe\" | Rename-Item -NewName 'npcap-installer.exe'",
+            "Get-ChildItem \"$dir\\USBPcapSetup-*.exe\" | Rename-Item -NewName 'USBPcapSetup-installer.exe'"
+        ]
+    },
+    "bin": [
+        "capinfos.exe",
+        "dumpcap.exe",
+        "editcap.exe",
+        "mergecap.exe",
+        "randpkt.exe",
+        "rawshark.exe",
+        "reordercap.exe",
+        "text2pcap.exe",
+        "tshark.exe",
+        "Wireshark.exe"
+    ],
+    "shortcuts": [
+        [
+            "Wireshark.exe",
+            "Wireshark"
+        ]
+    ],
+    "env_set": {
+        "WIRESHARK_CONFIG_DIR": "$dir\\Data",
+        "WIRESHARK_DATA_DIR": "$dir\\Data"
+    },
+    "persist": "Data",
+    "checkver": {
+        "url": "https://www.wireshark.org/update/0/Wireshark/0.0.0/Windows/x86-64/en-US/stable.xml",
+        "regex": "Version ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.wireshark.org/download/win64/Wireshark-$version-x64.exe#/dl.7z",
+                "hash": {
+                    "url": "https://www.wireshark.org/download/SIGNATURES-$version.txt",
+                    "regex": "SHA256\\($basename\\)=$sha256"
+                }
+            }
+        }
+    }
+}
