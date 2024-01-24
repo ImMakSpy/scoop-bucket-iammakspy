@@ -1,11 +1,11 @@
 {
-    "version": "2.90",
+    "version": "2.91",
     "description": "Globally Set Explorer Folder Views",
     "homepage": "https://github.com/LesFerch/WinSetView",
     "license": "MIT",
-    "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/2.90.zip",
-    "hash": "b77a92869d39b6da4a2ba7df5210b2a161e21dc4e3152fe20fa57b8cde55b02b",
-    "extract_dir": "WinSetView-2.90",
+    "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/2.91.zip",
+    "hash": "2a0aae7f201fffb300ac70663241d65d31e39854b339168eabf99f85fa84d152",
+    "extract_dir": "WinSetView-2.91",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/$version.zip",
