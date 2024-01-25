@@ -4,7 +4,7 @@
     "homepage": "https://github.com/LesFerch/WinSetView",
     "license": "MIT",
     "url": "https://github.com/LesFerch/WinSetView/archive/refs/tags/2.91.zip",
-    "hash": "2a0aae7f201fffb300ac70663241d65d31e39854b339168eabf99f85fa84d152",
+    "hash": "3c35a4843c2653035a375e85a6ed2e8b0dbd767c830f3760e3b652c17188fd1c",
     "extract_dir": "WinSetView-2.91",
     "checkver": "github",
     "autoupdate": {
