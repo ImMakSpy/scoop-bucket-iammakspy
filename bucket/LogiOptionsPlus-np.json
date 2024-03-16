@@ -38,7 +38,7 @@
     "uninstaller": {
         "script": [
             "Start-Process \"C:\\Program Files\\LogiOptionsPlus\\logioptionsplus_updater.exe\" -ArgumentList @('--uninstall', '--full', '--shadow') -Wait -Verb 'RunAs'"
-        ],
+        ]
     },
     "checkver": {
         "url": "https://support.logi.com/hc/en-us/articles/1500005516462-Logi-Options-Release-Notes",
