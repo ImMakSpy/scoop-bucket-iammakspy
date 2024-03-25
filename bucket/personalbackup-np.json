@@ -1,13 +1,13 @@
 {
-    "version": "6.3.1200",
+    "version": "6.3.1400",
     "description": "Personal Backup. simple backup solution",
     "homepage": "https://personal-backup.rathlev-home.de/",
     "license": {
         "identifier": "Freeware",
         "url": "https://personal-backup.rathlev-home.de/license.html"
     },
-    "url": "https://personal-backup.rathlev-home.de/download/pb-setup-x64-6.3.1200.exe",
-    "hash": "cf626decc151ee10342a34c996cd55b6b274e7f3d7afea9dc0449384d0756962",
+    "url": "https://personal-backup.rathlev-home.de/download/pb-setup-x64-6.3.1400.exe",
+    "hash": "5558961cebd82b57378dc45579ecd334254b02c0cb23dec5729e4c3baa8978d9",
     "pre_install": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "installer": {
         "args": [
