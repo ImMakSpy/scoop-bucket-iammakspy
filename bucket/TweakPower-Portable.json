@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://kurtzimmermann.com/files/TweakPowerX64.zip",
-            "hash": "ca9e993299cb3b7baf14214b297ac57d77d9c3962ae42cb70ca642132fde326f"
+            "hash": "6a0c9adb1ca9037ee311c9b2e909c9cd452afe93420c79be04687e071a143853"
         }
     },
     "persist": "Settings",
