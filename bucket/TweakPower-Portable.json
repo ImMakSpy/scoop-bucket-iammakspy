@@ -3,12 +3,8 @@
     "description": "TweakPower. Optimize Windows made easy",
     "homepage": "https://kurtzimmermann.com",
     "license": "freeware",
-    "architecture": {
-        "64bit": {
-            "url": "https://kurtzimmermann.com/files/TweakPowerX64.zip",
-            "hash": "6a0c9adb1ca9037ee311c9b2e909c9cd452afe93420c79be04687e071a143853"
-        }
-    },
+    "url": "https://kurtzimmermann.com/files/TweakPowerX64.zip",
+    "hash": "6a0c9adb1ca9037ee311c9b2e909c9cd452afe93420c79be04687e071a143853",
     "persist": "Settings",
     "shortcuts": [
         [
@@ -21,10 +17,6 @@
         "regex": "mbr-section-subtitle\">v([\\d.]+)"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://kurtzimmermann.com/files/TweakPowerX64.zip"
-            }
-        }
+        "url": "https://kurtzimmermann.com/files/TweakPowerX64.zip"
     }
 }
