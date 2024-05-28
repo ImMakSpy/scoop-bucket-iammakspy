@@ -1,13 +1,13 @@
 {
-    "version": "2.7.3",
+    "version": "2.7.2",
     "description": "HSQLDB (HyperSQL DataBase) is the leading SQL relational database system written in Java.",
     "homepage": "https://hsqldb.org/",
     "license": "https://hsqldb.org/web/hsqlLicense.html",
     "suggest": {
         "JDK": "java/openjdk"
     },
-    "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_2_7/hsqldb-2.7.3.zip",
-    "hash": "d3edee859f7fc58237e108864a71733eff5613d92dc65508dfa335bc0c5b1e94",
+    "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_2_7/hsqldb-2.7.2.zip",
+    "hash": "sha1:11800c8c2e7e6f1a44a15d0b53cd56096cc6b8ac",
     "extract_dir": "hsqldb-2.7.3\\hsqldb",
     "bin": [
         "bin\\runManagerSwing.bat",
