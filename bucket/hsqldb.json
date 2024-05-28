@@ -7,7 +7,7 @@
         "JDK": "java/openjdk"
     },
     "url": "https://sourceforge.net/projects/hsqldb/files/hsqldb/hsqldb_2_7/hsqldb-2.7.3.zip",
-    "hash": "ffb359cbe66ba3179317b6afdb62cd274765333bd30167ce332a4b2d85975812",
+    "hash": "d3edee859f7fc58237e108864a71733eff5613d92dc65508dfa335bc0c5b1e94",
     "extract_dir": "hsqldb",
     "bin": [
         "bin\\runManagerSwing.bat",
