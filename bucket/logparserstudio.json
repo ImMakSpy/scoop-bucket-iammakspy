@@ -13,11 +13,4 @@
             "Log Parser Studio"
         ]
     ],
-    "checkver": {
-        "url": "https://gallery.technet.microsoft.com/?path=/",
-        "regex": "Log-Parser-Studio-.*\/file\/.*\/LPSV.*.zip"
-    },
-    "autoupdate": {
-        "url": "https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/Exchange/16744/1/LPSV$majorVersion.D$minorVersion.zip"
-    }
 }
