@@ -15,7 +15,7 @@
     ],
     "checkver": {
         "url": "https://www.gunnerinc.com/index.htm",
-        "regex": "welt.zip"
+        "regex": "Windows Error Lookup Tool - (\\d+(\\.\\d+)+)"
     },
     "autoupdate": {
         "url": "https://www.gunnerinc.com/files/welt.zip"
