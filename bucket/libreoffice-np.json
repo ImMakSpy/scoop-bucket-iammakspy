@@ -4,12 +4,12 @@
         "including saving jump lists before and restoring jump lists after the installations, ",
         "to loose existing LibreOffice jump list entries in the taskbar."
     ],
-    "version": "24.8.0.2",
+    "version": "24.8.0.3",
     "description": "Powerful and free office suite, a successor to OpenOffice(.org).",
     "homepage": "https://libreoffice.org/",
     "license": "MPL-2.0",
-    "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/24.8.0.2/win/x86_64/LibreOffice_24.8.0.2_Win_x86-64.msi#/setup.msi_",
-    "hash": "8e29c8fb013dfae922848bb289ea602b29d314a6522685f83572affade8a79ca",
+    "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/24.8.0.3/win/x86_64/LibreOffice_24.8.0.3_Win_x86-64.msi#/setup.msi_",
+    "hash": "3c28f090c9921d10460a2db266bb024b690ad67fda178746278ca9aa1f60301e",
     "installer": {
         "script": [
             "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
