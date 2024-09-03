@@ -1,10 +1,10 @@
 {
-    "version": "1.26.14",
+    "version": "1.26.15",
     "description": "VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux. Brought to you by IDRIX (https://www.idrix.fr) and based on TrueCrypt 7.1a.",
     "homepage": "https://veracrypt.fr/",
     "license": "Freeware",
-    "url": "https://launchpad.net/veracrypt/trunk/1.26.14/+download/VeraCrypt_Setup_x64_1.26.14.msi#/setup.msi_",
-    "hash": "9a29c7b3b911bbc50bc7f41f93c7659ce70599fd19a78aca002bd6e4a8d3e9a4",
+    "url": "https://launchpad.net/veracrypt/trunk/1.26.15/+download/VeraCrypt_Setup_x64_1.26.15.msi#/setup.msi_",
+    "hash": "b04253864adad522669ad69e94e55945a0736a8c4aeb6742357228120d342cf7",
     "installer": {
         "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/i', \"$dir\\setup.msi_\", 'ACCEPTLICENSE=YES', 'DESKTOPICONS=No', '/qn', '/norestart') -RunAs -ContinueExitCodes @{ 3010 = 'A system reboot is required to finalize the installation.' } | Out-Null"
     },
