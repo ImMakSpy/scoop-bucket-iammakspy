@@ -1,10 +1,10 @@
 {
-    "version": "2.079",
+    "version": "2.080",
     "description": "HDCleaner. Complete cleaning for your Windows PC",
     "homepage": "https://kurtzimmermann.com",
     "license": "freeware",
     "url": "https://kurtzimmermann.com/files/HDCleanerX64.zip",
-    "hash": "ff4c30a1d206845c8166d60ac2195738343dbfd5aaa553193390ec5d0032e5d2",
+    "hash": "43f2c978823fa83f8b5ec3a3290c0e4dd5eb1738cef45deb672a74c98ac62341",
     "persist": "Settings",
     "shortcuts": [
         [
