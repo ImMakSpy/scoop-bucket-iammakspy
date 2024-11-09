@@ -1,0 +1,26 @@
+{
+    "##": "Download URL https://www.bluestacks.com/download.html",
+    "version": "5.21.600.1019",
+    "description": "BlueStacks 5. Android emulator.",
+    "homepage": "https://www.bluestacks.com",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.bluestacks.com/tw/terms-and-privacy.html"
+    },
+    "url": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10#/setup.exe",
+    "hash": "a56fd8aa5ffdaddaf58e4fbe8cbb2359fd11f2a93f34d9d0df610baf96972207",
+    "pre_install": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
+    "installer": {
+        "script": [
+            "if (!(is_admin)) { \"$app requires admin rights to $cmd\"; break }",
+            "Start-Process -Wait \"$dir\\setup.exe\" -Verb RunAs"
+        ]
+    },
+    "checkver": {
+        "url": "https://support.bluestacks.com/hc/de/articles/360056960211-Release-Notes-BlueStacks-5",
+        "regex": "BlueStacksMicroInstaller_([\\d.]+)_native.exe"
+    },
+    "autoupdate": {
+        "url": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10#/setup.exe"
+    }
+}
