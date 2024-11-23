@@ -11,7 +11,7 @@
     },
     "pre_uninstall": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "uninstaller": {
-        "script": "Start-Process \"$env:ProgramFiles\\UniGetUI\\uninstall.exe\" -ArgumentList '/S --batch --background' -Wait"
+        "script": "Start-Process \"$env:LocalAppData\\Programms\\UniGetUI\\unins000.exe\" -ArgumentList '/SILENT' -Wait"
     },
     "checkver": {
         "github": "https://github.com/marticliment/UniGetUi"
