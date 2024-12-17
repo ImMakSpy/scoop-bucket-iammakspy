@@ -1,10 +1,10 @@
 {
-    "version": "3.1.3",
+    "version": "3.1.4",
     "description": "A GUI to manage Winget and Scoop packages",
     "homepage": "https://www.marticliment.com/UniGetUi/",
     "license": "LGPL-2.1-or-later",
-    "url": "https://github.com/marticliment/UniGetUI/releases/download/3.1.3/UniGetUI.Installer.exe",
-    "hash": "58ae121cd325b7f5aef6ed07e21d72a89ba0e7ff6addb2fb339a69dcfefad6b4",
+    "url": "https://github.com/marticliment/UniGetUI/releases/download/3.1.4/UniGetUI.Installer.exe",
+    "hash": "88491c8f11d981f4259833448c1ce631b4f6d8279b69c8df3aab5dc3f6b6776e",
     "pre_install": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "installer": {
         "args": "/S"
