@@ -47,11 +47,11 @@
     ],
     "persist": [
         "shell.log",
-        "shell.shl"
+        "shell.nss"
     ],
     "checkver": {
-        "url": "https://nilesoft.org/download",
-        "regex": "Shell version ([\\d.]+)"
+        "url": "https://nilesoft.org/download/changes",
+        "regex": "Version ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://nilesoft.org/download/shell/$version/setup.exe"
