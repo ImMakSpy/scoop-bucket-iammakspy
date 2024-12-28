@@ -7,7 +7,7 @@
         "url": "https://www.fjsoft.at/en/Imprint/index.html"
     },
     "url": "https://www.fjsoft.at/files/MyPhoneExplorer_Setup_2.2.exe#/setup.exe",
-    "hash": "51da870d16cab3c2a18eb19051f64d9d321a648c726eb5d139df440e9873a381",
+    "hash": "053b0ea0f0dc26c731d5d55b463484f5d77cb27ccf5358fde53f230b3f0b3759",
     "pre_install": "if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }",
     "installer": {
         "args": "/S"
