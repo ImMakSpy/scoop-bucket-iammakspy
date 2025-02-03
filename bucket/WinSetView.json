@@ -5,7 +5,6 @@
     "license": "MIT",
     "url": "https://github.com/LesFerch/WinSetView/releases/download/3.1.2/WinSetView.zip",
     "hash": "34327279a0b3962fb4e0ffa08d9a76b29a1f6921037d8269eae0a0046a508af1",
-    "extract_dir": "WinSetView-3.1.2",
     "bin": "WinSetView.exe",
     "shortcuts": [
         [
@@ -15,7 +14,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/LesFerch/WinSetView/releases/download/$version/WinSetView.zip",
-        "extract_dir": "WinSetView-$version"
+        "url": "https://github.com/LesFerch/WinSetView/releases/download/$version/WinSetView.zip"
     }
 }
