@@ -1,14 +1,14 @@
 {
     "##": "Necessary features must be installed manually",
-    "version": "17.13.3",
+    "version": "17.13.4",
     "description": "Microsoft Visual Studio Community (minimum version in German and English)",
     "homepage": "https://www.visualstudio.com/downloads/",
     "license": {
         "identifier": "Freeware",
         "url": "https://visualstudio.microsoft.com/license-terms"
     },
-    "url": "https://download.visualstudio.microsoft.com/download/pr/5972cff0-f12f-49a1-81dc-0acc96fd7211/5269dfe40809107cfd140d9f07211c28f171808e72d3ebf403c8509df7e01d4f/vs_Community.exe",
-    "hash": "5269dfe40809107cfd140d9f07211c28f171808e72d3ebf403c8509df7e01d4f",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/ae26f186-44f0-4ea2-880c-4cf0acbab905/cd87b7e84c0b9dc0ae9aaf1cbff518e48b8c1e3757712354eab37677649bdcef/vs_Community.exe",
+    "hash": "cd87b7e84c0b9dc0ae9aaf1cbff518e48b8c1e3757712354eab37677649bdcef",
     "installer": {
         "script": "Start-Process \"$dir\\vs_community.exe\" -ArgumentList @('--quiet', '--norestart', '--addProductLang De-de', '--addProductLang En-us') -Wait | Out-Null"
     },
