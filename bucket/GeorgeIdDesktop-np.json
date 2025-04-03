@@ -1,10 +1,10 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "description": "George ID Desktop",
     "homepage": "https://www.sparkasse.at/sgruppe/privatkunden/digitales-banking/alternative-login-methoden#voraussetzungen",
     "license": "Proprietary",
-    "url": "https://cdn0.erstegroup.com/content/dam/at/spk-sgruppe/www_sparkasse_at/george/george-id-computer/prod-windows/George_ID_Installer_1.0.7.msi#/setup.msi_",
-    "hash": "ebef973cdcf0c798fdd81ba1e2866c90e71d20b6df177e6d97ddec95475eb5ba",
+    "url": "https://cdn0.erstegroup.com/content/dam/at/spk-sgruppe/www_sparkasse_at/george/george-id-computer/prod-windows/George_ID_Installer_1.0.9.msi#/setup.msi_",
+    "hash": "cb05cc77e201e5488d6e311a04031543e1144375ae76a663a47212603ab79fa1",
     "##": "No quiet installation possible",
     "installer": {
         "script": [
