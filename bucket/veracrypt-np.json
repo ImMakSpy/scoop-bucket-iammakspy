@@ -4,7 +4,7 @@
     "homepage": "https://veracrypt.fr/",
     "license": "Freeware",
     "url": "https://launchpad.net/veracrypt/trunk/1.26.20/+download/VeraCrypt_Setup_x64_1.26.20.msi#/setup.msi_",
-    "hash": "77f7ed3c41b00bae468913aadc417752f86ad53d19f3ee86fd37dfb27de084e2",
+    "hash": "8cc1f95666fcbab6016c18c36f1e6273308edfceedc535035da911ec090c2236",
     "installer": {
         "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/i', \"$dir\\setup.msi_\", 'ACCEPTLICENSE=YES', 'DESKTOPICONS=No', '/qn', '/norestart') -RunAs -ContinueExitCodes @{ 3010 = 'A system reboot is required to finalize the installation.' } | Out-Null"
     },
