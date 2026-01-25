@@ -1,16 +1,16 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "KeeTheme Plugin changes the appearance of KeePass, to make it look better at night.",
     "homepage": "https://github.com/xatupal/KeeTheme",
     "license": "MIT",
     "depends": "extras/keepass",
     "url": [
-        "https://github.com/xatupal/KeeTheme/releases/download/v1.0.1/KeeTheme.dll",
-        "https://github.com/xatupal/KeeTheme/releases/download/v1.0.1/KeeTheme.plgx"
+        "https://github.com/xatupal/KeeTheme/releases/download/v1.0.2/KeeTheme.dll",
+        "https://github.com/xatupal/KeeTheme/releases/download/v1.0.2/KeeTheme.plgx"
     ],
     "hash": [
-        "cc5027be796185e187289a9db87514bfd1dffa0157e9e5da796950f68c2fd7c8",
-        "f3472315609c422d3a68094906cef34b5c7514b71caa9991f8412f5814d6a595"
+        "d770c2490b8bda2f9f31adf07c7c704bf9cfe1ee209f4f3eb8039e16ade1de90",
+        "13df6be892a54edf25d647dbf7f3bbde7d06e4fbaf3031f666204e59eb3bf8c4"
     ],
     "pre_install": [
         "$keePass = Get-Process KeePass -ErrorAction SilentlyContinue",
