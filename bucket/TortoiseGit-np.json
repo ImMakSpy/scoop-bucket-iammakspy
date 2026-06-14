@@ -6,12 +6,8 @@
     "license": {
         "identifier": "GPL-2.0-only"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://download.tortoisegit.org/tgit/2.18.0.0/TortoiseGit-2.18.0.0-64bit.msi#/setup.msi_",
-            "hash": "1f796818e58d3a000590eaa8351c2b4f051278bdf05d81e32367946b9bdd4337"
-        }
-    },
+    "url": "https://download.tortoisegit.org/tgit/2.18.0.0/TortoiseGit-2.18.0.0-64bit.msi#/setup.msi_",
+    "hash": "6927197c5e60eb6a6283dcec08224f0547ca982418f1f0839d4f1eaea2cddf66",
     "installer": {
         "script": "Start-Process 'msiexec' -ArgumentList @('/i', \"$dir\\setup.msi_\", '/qn', '/norestart') -Wait -Verb 'RunAs'"
     },
@@ -23,10 +19,6 @@
         "regex": "TortoiseGit is: <a href=/tgit/([\\d\\.]+)/"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://download.tortoisegit.org/tgit/$version/TortoiseGit-$version-64bit.msi#/setup.msi_"
-            }
-        }
+        "url": "https://download.tortoisegit.org/tgit/$version/TortoiseGit-$version-64bit.msi#/setup.msi_"
     }
 }
