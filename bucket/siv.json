@@ -1,8 +1,8 @@
 {
-    "version": "5.87",
+    "version": "5.88",
     "homepage": "http://rh-software.com/",
-    "url": "https://www.filecroco.com/download-file/download-system-information-viewer/291/282/siv_5.87.zip",
-    "hash": "970d74cf042b6ecba1fad41355a6776b2420665e8bfd0116eb57319252f2dc9a",
+    "url": "https://www.filecroco.com/download-file/download-system-information-viewer/291/282/siv_5.88.zip",
+    "hash": "e2c89159ec803007cabdfb11e8dba9c26762d2ebedd13b522cb1bf2e5745eb18",
     "bin": "SIV64X.exe",
     "shortcuts": [
         [
